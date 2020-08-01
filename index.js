@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const { ApolloServer, gql } = require("apollo-server-express");
+require("dotenv").config();
 
 const typeDefs = require("./schema");
 const resolvers = require("./resolvers");

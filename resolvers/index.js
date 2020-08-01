@@ -25,13 +25,9 @@ module.exports = {
 </soapenv:Envelope>`;
 
       await axios
-        .post(
-          "https://lite.realtime.nationalrail.co.uk/OpenLDBWS/ldb11.asmx",
-          xmls,
-          {
-            headers: { "Content-Type": "text/xml" },
-          }
-        )
+        .post(process.env.WSDL_URL, xmls, {
+          headers: { "Content-Type": "text/xml" },
+        })
         .then((res) => {
           console.log(res);
         })
