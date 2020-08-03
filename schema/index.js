@@ -7,8 +7,6 @@ module.exports = gql`
   type Query {
     getDepartureBoard(
       depatureStation: String!
-      startTimeInterval: Int!
-      endTimeInterval: Int!
       alldepartures: Boolean!
       destinationLocation: String
       numberOfResults: Int

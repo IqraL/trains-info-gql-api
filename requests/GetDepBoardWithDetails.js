@@ -1,13 +1,8 @@
-const xml2js = require("xml2js");
-const parser = new xml2js.Parser();
-
 module.exports = {
   xlmBuilder: (args) => {
     try {
       const {
         depatureStation,
-        startTimeInterval,
-        endTimeInterval,
         alldepartures,
         destinationLocation,
         numberOfResults,
@@ -31,9 +26,9 @@ module.exports = {
        <!--Optional:-->
        <ldb:filterType>to</ldb:filterType>
        <!--Optional:-->
-       <ldb:timeOffset>${startTimeInterval}</ldb:timeOffset>
+       <ldb:timeOffset>0</ldb:timeOffset>
        <!--Optional:-->
-       <ldb:timeWindow>${endTimeInterval}</ldb:timeWindow>
+       <ldb:timeWindow>120</ldb:timeWindow>
     </ldb:GetDepBoardWithDetailsRequest>
  </soapenv:Body>
 </soapenv:Envelope>`;

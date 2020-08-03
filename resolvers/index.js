@@ -1,5 +1,9 @@
 const axios = require("axios");
 const xml2js = require("xml2js");
+const {
+  parseResponse: depBoardWithDetailsResParse,
+} = require("../responses/GetDepBoardWithDetails");
+
 const parser = new xml2js.Parser();
 const {
   xlmBuilder: depBoardWithDetailsReq,
@@ -15,8 +19,9 @@ module.exports = {
         })
         .then(async (res) => {
           //console.log(args);
-          console.log(res);
+          //console.log(res);
           const jsonRes = await parser.parseStringPromise(res.data);
+          //depBoardWithDetailsResParse(jsonRes);
           // console.log(
           //   jsonRes["soap:Envelope"]["soap:Body"][0][
           //     "GetDepBoardWithDetailsResponse"
@@ -25,7 +30,10 @@ module.exports = {
           return jsonRes;
         })
         .catch((err) => {
-          console.log(err);
+          console.log("**********************");
+          //console.log(err.config);
+          console.log(err.response.data);
+          console.log("**********************");
         });
 
       ///return null;
