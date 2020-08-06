@@ -1,0 +1,461 @@
+{
+  "data": {
+    "getDepartureBoard": {
+      "soap:Envelope": {
+        "$": {
+          "xmlns:soap": "http://schemas.xmlsoap.org/soap/envelope/",
+          "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "soap:Body": [
+          {
+            "GetDepBoardWithDetailsResponse": [
+              {
+                "$": {
+                  "xmlns": "http://thalesgroup.com/RTTI/2017-10-01/ldb/"
+                },
+                "GetStationBoardResult": [
+                  {
+                    "$": {
+                      "xmlns:lt": "http://thalesgroup.com/RTTI/2012-01-13/ldb/types",
+                      "xmlns:lt6": "http://thalesgroup.com/RTTI/2017-02-02/ldb/types",
+                      "xmlns:lt7": "http://thalesgroup.com/RTTI/2017-10-01/ldb/types",
+                      "xmlns:lt4": "http://thalesgroup.com/RTTI/2015-11-27/ldb/types",
+                      "xmlns:lt5": "http://thalesgroup.com/RTTI/2016-02-16/ldb/types",
+                      "xmlns:lt2": "http://thalesgroup.com/RTTI/2014-02-20/ldb/types",
+                      "xmlns:lt3": "http://thalesgroup.com/RTTI/2015-05-14/ldb/types"
+                    },
+                    "lt4:generatedAt": ["2020-08-04T17:10:22.2411938+01:00"],
+                    "lt4:locationName": ["Rochdale"],
+                    "lt4:crs": ["RCD"],
+                    "lt4:platformAvailable": ["true"],
+                    "lt7:trainServices": [
+                      {
+                        "lt7:service": [
+                          {
+                            "lt4:std": ["17:09"],
+                            "lt4:etd": ["On time"],
+                            "lt4:platform": ["3"],
+                            "lt4:operator": ["Northern"],
+                            "lt4:operatorCode": ["NT"],
+                            "lt4:serviceType": ["train"],
+                            "lt4:length": ["4"],
+                            "lt4:serviceID": ["5rt8Ko+eBJGRWtjo3AmR6Q=="],
+                            "lt5:rsid": ["NT407300"],
+                            "lt5:origin": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Blackburn"],
+                                    "lt4:crs": ["BBN"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt5:destination": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Manchester Victoria"],
+                                    "lt4:crs": ["MCV"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt7:subsequentCallingPoints": [
+                              {
+                                "lt7:callingPointList": [
+                                  {
+                                    "lt7:callingPoint": [
+                                      {
+                                        "lt7:locationName": [
+                                          "Manchester Victoria"
+                                        ],
+                                        "lt7:crs": ["MCV"],
+                                        "lt7:st": ["17:27"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["4"]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "lt4:std": ["17:18"],
+                            "lt4:etd": ["On time"],
+                            "lt4:platform": ["4"],
+                            "lt4:operator": ["Northern"],
+                            "lt4:operatorCode": ["NT"],
+                            "lt4:serviceType": ["train"],
+                            "lt4:length": ["3"],
+                            "lt4:serviceID": ["+ZTgAOUrr+aYjqT4fU1CdA=="],
+                            "lt5:rsid": ["NT424100"],
+                            "lt5:origin": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Rochdale"],
+                                    "lt4:crs": ["RCD"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt5:destination": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Clitheroe"],
+                                    "lt4:crs": ["CLH"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt7:subsequentCallingPoints": [
+                              {
+                                "lt7:callingPointList": [
+                                  {
+                                    "lt7:callingPoint": [
+                                      {
+                                        "lt7:locationName": ["Castleton"],
+                                        "lt7:crs": ["CAS"],
+                                        "lt7:st": ["17:21"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Mills Hill"],
+                                        "lt7:crs": ["MIH"],
+                                        "lt7:st": ["17:26"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Moston"],
+                                        "lt7:crs": ["MSO"],
+                                        "lt7:st": ["17:30"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": [
+                                          "Manchester Victoria"
+                                        ],
+                                        "lt7:crs": ["MCV"],
+                                        "lt7:st": ["17:39"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Salford Central"],
+                                        "lt7:crs": ["SFD"],
+                                        "lt7:st": ["17:44"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": [
+                                          "Salford Crescent"
+                                        ],
+                                        "lt7:crs": ["SLD"],
+                                        "lt7:st": ["17:48"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Bolton"],
+                                        "lt7:crs": ["BON"],
+                                        "lt7:st": ["18:00"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": [
+                                          "Hall I' Th' Wood"
+                                        ],
+                                        "lt7:crs": ["HID"],
+                                        "lt7:st": ["18:05"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Bromley Cross"],
+                                        "lt7:crs": ["BMC"],
+                                        "lt7:st": ["18:09"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Entwistle"],
+                                        "lt7:crs": ["ENT"],
+                                        "lt7:st": ["18:17"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Darwen"],
+                                        "lt7:crs": ["DWN"],
+                                        "lt7:st": ["18:23"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Blackburn"],
+                                        "lt7:crs": ["BBN"],
+                                        "lt7:st": ["18:32"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": [
+                                          "Ramsgreave & Wilpshire"
+                                        ],
+                                        "lt7:crs": ["RGW"],
+                                        "lt7:st": ["18:39"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Langho"],
+                                        "lt7:crs": ["LHO"],
+                                        "lt7:st": ["18:43"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Whalley"],
+                                        "lt7:crs": ["WHE"],
+                                        "lt7:st": ["18:48"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Clitheroe"],
+                                        "lt7:crs": ["CLH"],
+                                        "lt7:st": ["18:56"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "lt4:std": ["17:23"],
+                            "lt4:etd": ["On time"],
+                            "lt4:operator": ["Northern"],
+                            "lt4:operatorCode": ["NT"],
+                            "lt4:serviceType": ["train"],
+                            "lt4:delayReason": [
+                              "This train has been delayed by a short-notice change to the timetable"
+                            ],
+                            "lt4:serviceID": ["JHkFtxk6f7tNqtSj+/EdFQ=="],
+                            "lt5:origin": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Rochdale"],
+                                    "lt4:crs": ["RCD"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt5:destination": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Manchester Victoria"],
+                                    "lt4:crs": ["MCV"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt7:subsequentCallingPoints": [
+                              {
+                                "lt7:callingPointList": [
+                                  {
+                                    "lt7:callingPoint": [
+                                      {
+                                        "lt7:locationName": [
+                                          "Manchester Victoria"
+                                        ],
+                                        "lt7:crs": ["MCV"],
+                                        "lt7:st": ["17:44"],
+                                        "lt7:et": ["On time"]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "lt4:std": ["17:36"],
+                            "lt4:etd": ["On time"],
+                            "lt4:platform": ["3"],
+                            "lt4:operator": ["Northern"],
+                            "lt4:operatorCode": ["NT"],
+                            "lt4:serviceType": ["train"],
+                            "lt4:length": ["3"],
+                            "lt4:serviceID": ["ydYMiLQvCrDrj5n1jq8ssQ=="],
+                            "lt5:rsid": ["NT416800"],
+                            "lt5:origin": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Leeds"],
+                                    "lt4:crs": ["LDS"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt5:destination": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Wigan Wallgate"],
+                                    "lt4:crs": ["WGW"],
+                                    "lt4:via": ["via Walkden"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt7:subsequentCallingPoints": [
+                              {
+                                "lt7:callingPointList": [
+                                  {
+                                    "lt7:callingPoint": [
+                                      {
+                                        "lt7:locationName": [
+                                          "Manchester Victoria"
+                                        ],
+                                        "lt7:crs": ["MCV"],
+                                        "lt7:st": ["17:50"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Salford Central"],
+                                        "lt7:crs": ["SFD"],
+                                        "lt7:st": ["17:58"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": [
+                                          "Salford Crescent"
+                                        ],
+                                        "lt7:crs": ["SLD"],
+                                        "lt7:st": ["18:01"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": [
+                                          "Swinton (Manchester)"
+                                        ],
+                                        "lt7:crs": ["SNN"],
+                                        "lt7:st": ["18:08"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Walkden"],
+                                        "lt7:crs": ["WKD"],
+                                        "lt7:st": ["18:13"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Atherton"],
+                                        "lt7:crs": ["ATN"],
+                                        "lt7:st": ["18:18"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Daisy Hill"],
+                                        "lt7:crs": ["DSY"],
+                                        "lt7:st": ["18:22"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      },
+                                      {
+                                        "lt7:locationName": ["Wigan Wallgate"],
+                                        "lt7:crs": ["WGW"],
+                                        "lt7:st": ["18:32"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["3"]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "lt4:std": ["17:39"],
+                            "lt4:etd": ["On time"],
+                            "lt4:platform": ["4"],
+                            "lt4:operator": ["Northern"],
+                            "lt4:operatorCode": ["NT"],
+                            "lt4:serviceType": ["train"],
+                            "lt4:length": ["4"],
+                            "lt4:serviceID": ["WlIB3thOL5ftkRi2UQXwOw=="],
+                            "lt5:rsid": ["NT337800"],
+                            "lt5:origin": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Rochdale"],
+                                    "lt4:crs": ["RCD"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt5:destination": [
+                              {
+                                "lt4:location": [
+                                  {
+                                    "lt4:locationName": ["Manchester Victoria"],
+                                    "lt4:crs": ["MCV"]
+                                  }
+                                ]
+                              }
+                            ],
+                            "lt7:subsequentCallingPoints": [
+                              {
+                                "lt7:callingPointList": [
+                                  {
+                                    "lt7:callingPoint": [
+                                      {
+                                        "lt7:locationName": [
+                                          "Manchester Victoria"
+                                        ],
+                                        "lt7:crs": ["MCV"],
+                                        "lt7:st": ["17:54"],
+                                        "lt7:et": ["On time"],
+                                        "lt7:length": ["4"]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
