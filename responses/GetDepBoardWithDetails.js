@@ -11,6 +11,10 @@ module.exports = {
         crs: stationBoardResult["lt4:crs"][0],
       };
 
+      const messages = stationBoardResult["lt4:nrccMessages"]
+        ? stationBoardResult["lt4:nrccMessages"][0]["lt:message"]
+        : null;
+
       const rawTrainServices =
         stationBoardResult["lt7:trainServices"][0]["lt7:service"] || [];
 
@@ -24,17 +28,13 @@ module.exports = {
             "lt7:subsequentCallingPoints",
             service
           );
-
-          console.log({ ...parsedservice, callingPoints });
           services.push({ ...parsedservice, callingPoints });
         } catch (e) {
           console.log(e);
         }
       }
-
-      console.log(depatureStation);
-      //  return stationBoardResult;
-      return { depatureStation, services };
+      return { depatureStation, services, messages };
+      //return rawResponse;
     } catch (e) {
       throw e;
     }
@@ -43,13 +43,16 @@ module.exports = {
 
 const extracSeviceDetails = (service) => {
   try {
+    //console.log(service);
     const serviceID = service["lt4:serviceID"][0]; // ID!
     const dueTime = service["lt4:std"][0]; //String!
     const etaORetd = service["lt4:etd"][0]; //String
-    const noOfCarriages = parseInt(service["lt4:length"][0])
+    const noOfCarriages = service["lt4:length"]
       ? parseInt(service["lt4:length"][0])
       : null; // Int
-    const platform = service["lt4:platform"][0]; // String
+    const platform = service["lt4:platform"]
+      ? service["lt4:platform"][0]
+      : null; // String
     const origin = {
       name: service["lt5:origin"][0]["lt4:location"][0]["lt4:locationName"][0],
       crs: service["lt5:origin"][0]["lt4:location"][0]["lt4:crs"][0],
@@ -70,6 +73,8 @@ const extracSeviceDetails = (service) => {
       ? service["lt4:cancelReason"][0]
       : null;
 
+    const operator = service["lt4:operator"][0];
+
     return {
       serviceID,
       dueTime,
@@ -82,6 +87,7 @@ const extracSeviceDetails = (service) => {
       delayReason,
       isCancelled,
       cancelReason,
+      operator,
     };
   } catch (e) {
     throw e;
@@ -102,7 +108,7 @@ const extractCallingPoints = (type, service) => {
           type === "lt7:subsequentCallingPoints"
             ? cp["lt7:et"][0]
             : cp["lt7:at"][0];
-        const noOfCarriages = cp["lt7:length"][0];
+        const noOfCarriages = cp["lt7:length"] ? cp["lt7:length"][0] : null;
         return { trainStation, duetime, etORat, noOfCarriages };
       } catch (e) {
         console.log(e);

@@ -28,10 +28,12 @@ module.exports = gql`
     delayReason: String
     isCancelled: Boolean!
     cancelReason: String
+    operator: String
   }
 
   type depatures {
     depatureStation: trainStation
+    messages: [String]
     services: [service]
   }
 

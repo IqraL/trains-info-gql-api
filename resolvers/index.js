@@ -20,21 +20,12 @@ module.exports = {
     getDepartureBoard: async (obj, args) => {
       try {
         const xmls = depBoardWithDetailsReq(args);
-        //console.log(xmls);
         return await axios
           .post(process.env.WSDL_URL, xmls, {
             headers: { "Content-Type": "text/xml" },
           })
           .then(async (res) => {
-            //console.log(args);
-            //console.log(res);
             const jsonRes = await parser.parseStringPromise(res.data);
-
-            // console.log(
-            //   jsonRes["soap:Envelope"]["soap:Body"][0][
-            //     "GetDepBoardWithDetailsResponse"
-            //   ]
-            // );
             return depBoardWithDetailsResParse(jsonRes);
           })
           .catch(async (err) => {
@@ -44,6 +35,7 @@ module.exports = {
                   err.response.data
                 );
                 xmlErrorProcess.processError(jsonRes);
+
                 return jsonRes;
               } else {
                 throw err;
@@ -55,8 +47,6 @@ module.exports = {
       } catch (e) {
         throw e;
       }
-
-      ///return null;
     },
   },
 };
