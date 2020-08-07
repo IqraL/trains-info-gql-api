@@ -11,14 +11,14 @@ module.exports = gql`
   type callingPoint {
     trainStation: trainStation!
     duetime: String!
-    eta: String!
+    etORat: String!
     noOfCarriages: Int
   }
 
   type service {
     serviceID: ID!
     dueTime: String!
-    eta: String
+    etaORetd: String
     noOfCarriages: Int
     platform: String
     origin: trainStation
@@ -41,7 +41,7 @@ module.exports = gql`
       alldepartures: Boolean!
       destinationLocation: String
       numberOfResults: Int
-    ): JSON
+    ): depatures
     getCallingPoint: callingPoint
   }
 `;
