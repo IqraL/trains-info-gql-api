@@ -14,10 +14,11 @@ const parser = new xml2js.Parser();
 
 module.exports = {
   Query: {
-    getCallingPoint: async () => {
-      return { trainStation: { name: "name", crs: "crs" } };
+    getTrainStationCrs: async () => {
+      const trainStationCodes = require("../res/crsCodes.json");
+      return trainStationCodes;
     },
-    getDepartureBoard: async (obj, args) => {
+    getDepartureBoard: async (_, args) => {
       try {
         const xmls = depBoardWithDetailsReq(args);
         return await axios

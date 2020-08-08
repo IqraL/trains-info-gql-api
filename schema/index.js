@@ -44,7 +44,7 @@ module.exports = gql`
       destinationLocation: String
       numberOfResults: Int
     ): depatures
-    getCallingPoint: callingPoint
+    getTrainStationCrs: [trainStation]!
   }
 `;
 /*
