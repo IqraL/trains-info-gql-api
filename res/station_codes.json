@@ -1,0 +1,10534 @@
+[
+ {
+   "crs": "PNZ",
+   "name": "Penzance Rail Station"
+ },
+ {
+   "crs": "SIV",
+   "name": "St Ives (Cornwall) Rail Station"
+ },
+ {
+   "crs": "CBB",
+   "name": "Carbis Bay Rail Station"
+ },
+ {
+   "crs": "SER",
+   "name": "St Erth Rail Station"
+ },
+ {
+   "crs": "LTS",
+   "name": "Lelant Saltings Rail Station"
+ },
+ {
+   "crs": "LEL",
+   "name": "Lelant Rail Station"
+ },
+ {
+   "crs": "HYL",
+   "name": "Hayle Rail Station"
+ },
+ {
+   "crs": "CBN",
+   "name": "Camborne Rail Station"
+ },
+ {
+   "crs": "ARG",
+   "name": "Arisaig Rail Station"
+ },
+ {
+   "crs": "MLG",
+   "name": "Mallaig Rail Station"
+ },
+ {
+   "crs": "MRR",
+   "name": "Morar Rail Station"
+ },
+ {
+   "crs": "RED",
+   "name": "Redruth Rail Station"
+ },
+ {
+   "crs": "BSL",
+   "name": "Beasdale Rail Station"
+ },
+ {
+   "crs": "KYL",
+   "name": "Kyle of Lochalsh Rail Station"
+ },
+ {
+   "crs": "LCL",
+   "name": "Lochailort Rail Station"
+ },
+ {
+   "crs": "DRN",
+   "name": "Duirinish Rail Station"
+ },
+ {
+   "crs": "PYN",
+   "name": "Penryn Rail Station"
+ },
+ {
+   "crs": "PRW",
+   "name": "Perranwell Rail Station"
+ },
+ {
+   "crs": "PLK",
+   "name": "Plockton Rail Station"
+ },
+ {
+   "crs": "PNM",
+   "name": "Penmere Rail Station"
+ },
+ {
+   "crs": "FMT",
+   "name": "Falmouth Town Rail Station"
+ },
+ {
+   "crs": "DCG",
+   "name": "Duncraig Rail Station"
+ },
+ {
+   "crs": "NQY",
+   "name": "Newquay Rail Station"
+ },
+ {
+   "crs": "TRU",
+   "name": "Truro Rail Station"
+ },
+ {
+   "crs": "FAL",
+   "name": "Falmouth Docks Rail Station"
+ },
+ {
+   "crs": "QUI",
+   "name": "Quintrell Downs Rail Station"
+ },
+ {
+   "crs": "OBN",
+   "name": "Oban Rail Station"
+ },
+ {
+   "crs": "STF",
+   "name": "Stromeferry Rail Station"
+ },
+ {
+   "crs": "GLF",
+   "name": "Glenfinnan Rail Station"
+ },
+ {
+   "crs": "MFH",
+   "name": "Milford Haven Rail Station"
+ },
+ {
+   "crs": "SCR",
+   "name": "St Columb Road Rail Station"
+ },
+ {
+   "crs": "CON",
+   "name": "Connel Ferry Rail Station"
+ },
+ {
+   "crs": "ATT",
+   "name": "Attadale Rail Station"
+ },
+ {
+   "crs": "JOH",
+   "name": "Johnston (Pembrokeshire) Rail Station"
+ },
+ {
+   "crs": "STC",
+   "name": "Strathcarron Rail Station"
+ },
+ {
+   "crs": "FGW",
+   "name": "Fishguard & Goodwick Rail Station"
+ },
+ {
+   "crs": "FGH",
+   "name": "Fishguard Harbour Rail Station"
+ },
+ {
+   "crs": "HVF",
+   "name": "Haverfordwest Rail Station"
+ },
+ {
+   "crs": "PMD",
+   "name": "Pembroke Dock Rail Station"
+ },
+ {
+   "crs": "ROC",
+   "name": "Roche Rail Station"
+ },
+ {
+   "crs": "PMB",
+   "name": "Pembroke Rail Station"
+ },
+ {
+   "crs": "LCS",
+   "name": "Locheilside Rail Station"
+ },
+ {
+   "crs": "ACH",
+   "name": "Achnashellach Rail Station"
+ },
+ {
+   "crs": "TAY",
+   "name": "Taynuilt Rail Station"
+ },
+ {
+   "crs": "LAM",
+   "name": "Lamphey Rail Station"
+ },
+ {
+   "crs": "CLR",
+   "name": "Clarbeston Road Rail Station"
+ },
+ {
+   "crs": "SAU",
+   "name": "St Austell Rail Station"
+ },
+ {
+   "crs": "BGL",
+   "name": "Bugle Rail Station"
+ },
+ {
+   "crs": "LUX",
+   "name": "Luxulyan Rail Station"
+ },
+ {
+   "crs": "LHE",
+   "name": "Loch Eil Outward Bound Rail Station"
+ },
+ {
+   "crs": "STR",
+   "name": "Stranraer Rail Station"
+ },
+ {
+   "crs": "MRB",
+   "name": "Manorbier Rail Station"
+ },
+ {
+   "crs": "PAR",
+   "name": "Par Rail Station"
+ },
+ {
+   "crs": "FOC",
+   "name": "Falls of Cruachan Rail Station"
+ },
+ {
+   "crs": "CPA",
+   "name": "Corpach Rail Station"
+ },
+ {
+   "crs": "FTW",
+   "name": "Fort William Rail Station"
+ },
+ {
+   "crs": "LOS",
+   "name": "Lostwithiel Rail Station"
+ },
+ {
+   "crs": "BOD",
+   "name": "Bodmin Parkway Rail Station"
+ },
+ {
+   "crs": "BNV",
+   "name": "Banavie Rail Station"
+ },
+ {
+   "crs": "PNA",
+   "name": "Penally Rail Station"
+ },
+ {
+   "crs": "CUW",
+   "name": "Clunderwen Rail Station"
+ },
+ {
+   "crs": "NAR",
+   "name": "Narberth Rail Station"
+ },
+ {
+   "crs": "LHA",
+   "name": "Loch Awe Rail Station"
+ },
+ {
+   "crs": "SDF",
+   "name": "Saundersfoot Rail Station"
+ },
+ {
+   "crs": "KGT",
+   "name": "Kilgetty Rail Station"
+ },
+ {
+   "crs": "TEN",
+   "name": "Tenby Rail Station"
+ },
+ {
+   "crs": "DAL",
+   "name": "Dalmally Rail Station"
+ },
+ {
+   "crs": "ACN",
+   "name": "Achnasheen Rail Station"
+ },
+ {
+   "crs": "GIR",
+   "name": "Girvan Rail Station"
+ },
+ {
+   "crs": "WMS",
+   "name": "Wemyss Bay Rail Station"
+ },
+ {
+   "crs": "WTL",
+   "name": "Whitland Rail Station"
+ },
+ {
+   "crs": "LAR",
+   "name": "Largs Rail Station"
+ },
+ {
+   "crs": "INP",
+   "name": "Inverkip Rail Station"
+ },
+ {
+   "crs": "WKB",
+   "name": "West Kilbride Rail Station"
+ },
+ {
+   "crs": "FRL",
+   "name": "Fairlie Rail Station"
+ },
+ {
+   "crs": "SBR",
+   "name": "Spean Bridge Rail Station"
+ },
+ {
+   "crs": "ADS",
+   "name": "Ardrossan Harbour Rail Station"
+ },
+ {
+   "crs": "BRL",
+   "name": "Barrhill Rail Station"
+ },
+ {
+   "crs": "ADN",
+   "name": "Ardrossan Town Rail Station"
+ },
+ {
+   "crs": "IBM",
+   "name": "IBM (Greenock) Rail Station"
+ },
+ {
+   "crs": "ASB",
+   "name": "Ardrossan South Beach Rail Station"
+ },
+ {
+   "crs": "COE",
+   "name": "Coombe Junction Halt (Rail Station)"
+ },
+ {
+   "crs": "GCH",
+   "name": "Garelochhead Rail Station"
+ },
+ {
+   "crs": "GRK",
+   "name": "Gourock Rail Station"
+ },
+ {
+   "crs": "LSK",
+   "name": "Liskeard Rail Station"
+ },
+ {
+   "crs": "HHD",
+   "name": "Holyhead Rail Station"
+ },
+ {
+   "crs": "CAU",
+   "name": "Causeland Rail Station"
+ },
+ {
+   "crs": "SLT",
+   "name": "Saltcoats Rail Station"
+ },
+ {
+   "crs": "SDP",
+   "name": "Sandplace Rail Station"
+ },
+ {
+   "crs": "BCN",
+   "name": "Branchton Rail Station"
+ },
+ {
+   "crs": "SKN",
+   "name": "St Keyne Wishing Well Halt (Rail Station)"
+ },
+ {
+   "crs": "LOO",
+   "name": "Looe Rail Station"
+ },
+ {
+   "crs": "FTM",
+   "name": "Fort Matilda Rail Station"
+ },
+ {
+   "crs": "AAT",
+   "name": "Achanalt Rail Station"
+ },
+ {
+   "crs": "DFR",
+   "name": "Drumfrochar Rail Station"
+ },
+ {
+   "crs": "STV",
+   "name": "Stevenston Rail Station"
+ },
+ {
+   "crs": "RYB",
+   "name": "Roy Bridge Rail Station"
+ },
+ {
+   "crs": "GKW",
+   "name": "Greenock West Rail Station"
+ },
+ {
+   "crs": "GKC",
+   "name": "Greenock Central Rail Station"
+ },
+ {
+   "crs": "WNL",
+   "name": "Whinhill Rail Station"
+ },
+ {
+   "crs": "MEN",
+   "name": "Menheniot Rail Station"
+ },
+ {
+   "crs": "VAL",
+   "name": "Valley Rail Station"
+ },
+ {
+   "crs": "CDY",
+   "name": "Cartsdyke Rail Station"
+ },
+ {
+   "crs": "KWN",
+   "name": "Kilwinning Rail Station"
+ },
+ {
+   "crs": "HLC",
+   "name": "Helensburgh Central Rail Station"
+ },
+ {
+   "crs": "DLY",
+   "name": "Dalry Rail Station"
+ },
+ {
+   "crs": "MAY",
+   "name": "Maybole Rail Station"
+ },
+ {
+   "crs": "HLU",
+   "name": "Helensburgh Upper Rail Station"
+ },
+ {
+   "crs": "BRO",
+   "name": "Bridge of Orchy Rail Station"
+ },
+ {
+   "crs": "BGS",
+   "name": "Bogston Rail Station"
+ },
+ {
+   "crs": "CGD",
+   "name": "Craigendoran Rail Station"
+ },
+ {
+   "crs": "ART",
+   "name": "Arrochar & Tarbet Rail Station"
+ },
+ {
+   "crs": "IRV",
+   "name": "Irvine Rail Station"
+ },
+ {
+   "crs": "AUI",
+   "name": "Ardlui Rail Station"
+ },
+ {
+   "crs": "PTG",
+   "name": "Port Glasgow Rail Station"
+ },
+ {
+   "crs": "GLG",
+   "name": "Glengarnock Rail Station"
+ },
+ {
+   "crs": "LCC",
+   "name": "Lochluichart Rail Station"
+ },
+ {
+   "crs": "TRN",
+   "name": "Troon Rail Station"
+ },
+ {
+   "crs": "TYL",
+   "name": "Tyndrum Lower Rail Station"
+ },
+ {
+   "crs": "RHO",
+   "name": "Rhosneigr Rail Station"
+ },
+ {
+   "crs": "BSS",
+   "name": "Barassie Rail Station"
+ },
+ {
+   "crs": "UTY",
+   "name": "Upper Tyndrum Rail Station"
+ },
+ {
+   "crs": "AYR",
+   "name": "Ayr Rail Station"
+ },
+ {
+   "crs": "NOA",
+   "name": "Newton-on-Ayr Rail Station"
+ },
+ {
+   "crs": "WDL",
+   "name": "Woodhall Rail Station"
+ },
+ {
+   "crs": "CDR",
+   "name": "Cardross Rail Station"
+ },
+ {
+   "crs": "TYC",
+   "name": "Ty Croes Rail Station"
+ },
+ {
+   "crs": "PTW",
+   "name": "Prestwick Rail Station"
+ },
+ {
+   "crs": "PRA",
+   "name": "Prestwick Intl Airport Rail Station"
+ },
+ {
+   "crs": "TUL",
+   "name": "Tulloch Rail Station"
+ },
+ {
+   "crs": "CRR",
+   "name": "Corrour Rail Station"
+ },
+ {
+   "crs": "SGM",
+   "name": "St Germans Rail Station"
+ },
+ {
+   "crs": "LHW",
+   "name": "Lochwinnoch Rail Station"
+ },
+ {
+   "crs": "FYS",
+   "name": "Ferryside Rail Station"
+ },
+ {
+   "crs": "PWL",
+   "name": "Pwllheli Rail Station"
+ },
+ {
+   "crs": "CNR",
+   "name": "Crianlarich Rail Station"
+ },
+ {
+   "crs": "LGB",
+   "name": "Langbank Rail Station"
+ },
+ {
+   "crs": "BOR",
+   "name": "Bodorgan Rail Station"
+ },
+ {
+   "crs": "RTN",
+   "name": "Renton Rail Station"
+ },
+ {
+   "crs": "BHC",
+   "name": "Balloch Rail Station"
+ },
+ {
+   "crs": "DLR",
+   "name": "Dalreoch Rail Station"
+ },
+ {
+   "crs": "ALX",
+   "name": "Alexandria Rail Station"
+ },
+ {
+   "crs": "HOZ",
+   "name": "Howwood (Renfrewshire) Rail Station"
+ },
+ {
+   "crs": "GVE",
+   "name": "Garve Rail Station"
+ },
+ {
+   "crs": "DBC",
+   "name": "Dumbarton Central Rail Station"
+ },
+ {
+   "crs": "KWL",
+   "name": "Kidwelly Rail Station"
+ },
+ {
+   "crs": "ABH",
+   "name": "Abererch Rail Station"
+ },
+ {
+   "crs": "DBE",
+   "name": "Dumbarton East Rail Station"
+ },
+ {
+   "crs": "KLM",
+   "name": "Kilmaurs Rail Station"
+ },
+ {
+   "crs": "DNL",
+   "name": "Dunlop Rail Station"
+ },
+ {
+   "crs": "CMN",
+   "name": "Carmarthen Rail Station"
+ },
+ {
+   "crs": "MIN",
+   "name": "Milliken Park Rail Station"
+ },
+ {
+   "crs": "STT",
+   "name": "Stewarton Rail Station"
+ },
+ {
+   "crs": "RAN",
+   "name": "Rannoch Rail Station"
+ },
+ {
+   "crs": "KMK",
+   "name": "Kilmarnock Rail Station"
+ },
+ {
+   "crs": "GSL",
+   "name": "Gunnislake Rail Station"
+ },
+ {
+   "crs": "BPC",
+   "name": "Penychain Rail Station"
+ },
+ {
+   "crs": "STS",
+   "name": "Saltash Rail Station"
+ },
+ {
+   "crs": "JHN",
+   "name": "Johnstone Rail Station"
+ },
+ {
+   "crs": "CSK",
+   "name": "Calstock Rail Station"
+ },
+ {
+   "crs": "BPT",
+   "name": "Bishopton Rail Station"
+ },
+ {
+   "crs": "BAS",
+   "name": "Bere Alston Rail Station"
+ },
+ {
+   "crs": "BWG",
+   "name": "Bowling Rail Station"
+ },
+ {
+   "crs": "SBV",
+   "name": "St Budeaux Victoria Road Rail Station"
+ },
+ {
+   "crs": "SBF",
+   "name": "St Budeaux Ferry Road Rail Station"
+ },
+ {
+   "crs": "PBY",
+   "name": "Pembrey & Burry Port Rail Station"
+ },
+ {
+   "crs": "KEY",
+   "name": "Keyham Rail Station"
+ },
+ {
+   "crs": "BFE",
+   "name": "Bere Ferrers Rail Station"
+ },
+ {
+   "crs": "DOC",
+   "name": "Dockyard (Plymouth) Rail Station"
+ },
+ {
+   "crs": "DPT",
+   "name": "Devonport Rail Station"
+ },
+ {
+   "crs": "KPT",
+   "name": "Kilpatrick Rail Station"
+ },
+ {
+   "crs": "PYJ",
+   "name": "Paisley St James Rail Station"
+ },
+ {
+   "crs": "PLY",
+   "name": "Plymouth Rail Station"
+ },
+ {
+   "crs": "NEI",
+   "name": "Neilston Rail Station"
+ },
+ {
+   "crs": "PCN",
+   "name": "Paisley Canal Rail Station"
+ },
+ {
+   "crs": "PYG",
+   "name": "Paisley Gilmour Street Rail Station"
+ },
+ {
+   "crs": "DMR",
+   "name": "Dalmuir Rail Station"
+ },
+ {
+   "crs": "CCC",
+   "name": "Criccieth Rail Station"
+ },
+ {
+   "crs": "SIN",
+   "name": "Singer Rail Station"
+ },
+ {
+   "crs": "CYK",
+   "name": "Clydebank Rail Station"
+ },
+ {
+   "crs": "BRR",
+   "name": "Barrhead Rail Station"
+ },
+ {
+   "crs": "HKH",
+   "name": "Hawkhead Rail Station"
+ },
+ {
+   "crs": "LLE",
+   "name": "Llanelli Rail Station"
+ },
+ {
+   "crs": "YOK",
+   "name": "Yoker Rail Station"
+ },
+ {
+   "crs": "DMY",
+   "name": "Drumry Rail Station"
+ },
+ {
+   "crs": "HLW",
+   "name": "Hillington West Rail Station"
+ },
+ {
+   "crs": "BEL",
+   "name": "Beauly Rail Station"
+ },
+ {
+   "crs": "CKT",
+   "name": "Crookston Rail Station"
+ },
+ {
+   "crs": "GRS",
+   "name": "Garscadden Rail Station"
+ },
+ {
+   "crs": "NIT",
+   "name": "Nitshill Rail Station"
+ },
+ {
+   "crs": "DMC",
+   "name": "Drumchapel Rail Station"
+ },
+ {
+   "crs": "LPG",
+   "name": "Llanfairpwll Rail Station"
+ },
+ {
+   "crs": "HLE",
+   "name": "Hillington East Rail Station"
+ },
+ {
+   "crs": "MOO",
+   "name": "Muir of Ord Rail Station"
+ },
+ {
+   "crs": "SCH",
+   "name": "Scotstounhill Rail Station"
+ },
+ {
+   "crs": "MPK",
+   "name": "Mosspark Rail Station"
+ },
+ {
+   "crs": "PTL",
+   "name": "Priesthill & Darnley Rail Station"
+ },
+ {
+   "crs": "CDO",
+   "name": "Cardonald Rail Station"
+ },
+ {
+   "crs": "PTT",
+   "name": "Patterton Rail Station"
+ },
+ {
+   "crs": "CKH",
+   "name": "Corkerhill Rail Station"
+ },
+ {
+   "crs": "CBD",
+   "name": "Conon Bridge Rail Station"
+ },
+ {
+   "crs": "WES",
+   "name": "Westerton Rail Station"
+ },
+ {
+   "crs": "BRN",
+   "name": "Bearsden Rail Station"
+ },
+ {
+   "crs": "KNS",
+   "name": "Kennishead Rail Station"
+ },
+ {
+   "crs": "JOR",
+   "name": "Jordanhill Rail Station"
+ },
+ {
+   "crs": "ANL",
+   "name": "Anniesland Rail Station"
+ },
+ {
+   "crs": "BYE",
+   "name": "Bynea Rail Station"
+ },
+ {
+   "crs": "AUK",
+   "name": "Auchinleck Rail Station"
+ },
+ {
+   "crs": "HLF",
+   "name": "Hillfoot Rail Station"
+ },
+ {
+   "crs": "THB",
+   "name": "Thornliebank Rail Station"
+ },
+ {
+   "crs": "WCR",
+   "name": "Whitecraigs Rail Station"
+ },
+ {
+   "crs": "HYN",
+   "name": "Hyndland Rail Station"
+ },
+ {
+   "crs": "DIN",
+   "name": "Dingwall Rail Station"
+ },
+ {
+   "crs": "MLN",
+   "name": "Milngavie Rail Station"
+ },
+ {
+   "crs": "BNP",
+   "name": "Barnstaple Rail Station"
+ },
+ {
+   "crs": "PTK",
+   "name": "Partick Rail Station"
+ },
+ {
+   "crs": "KVD",
+   "name": "Kelvindale Rail Station"
+ },
+ {
+   "crs": "PWW",
+   "name": "Pollokshaws West Rail Station"
+ },
+ {
+   "crs": "DUM",
+   "name": "Dumbreck Rail Station"
+ },
+ {
+   "crs": "MYH",
+   "name": "Maryhill Rail Station"
+ },
+ {
+   "crs": "TNF",
+   "name": "Tonfanau Rail Station"
+ },
+ {
+   "crs": "GFN",
+   "name": "Giffnock Rail Station"
+ },
+ {
+   "crs": "LLH",
+   "name": "Llangennech Rail Station"
+ },
+ {
+   "crs": "WLM",
+   "name": "Williamwood Rail Station"
+ },
+ {
+   "crs": "SHL",
+   "name": "Shawlands Rail Station"
+ },
+ {
+   "crs": "PTM",
+   "name": "Porthmadog Rail Station"
+ },
+ {
+   "crs": "MAX",
+   "name": "Maxwell Park Rail Station"
+ },
+ {
+   "crs": "SUM",
+   "name": "Summerston Rail Station"
+ },
+ {
+   "crs": "PWE",
+   "name": "Pollokshaws East Rail Station"
+ },
+ {
+   "crs": "CMY",
+   "name": "Crossmyloof Rail Station"
+ },
+ {
+   "crs": "LDN",
+   "name": "Llandanwg Rail Station"
+ },
+ {
+   "crs": "PMG",
+   "name": "Porthmadog Harbour Ffestiniog Railway Station"
+ },
+ {
+   "crs": "EXG",
+   "name": "Exhibition Centre (Glasgow) Rail Station"
+ },
+ {
+   "crs": "GSC",
+   "name": "Gilshochill Rail Station"
+ },
+ {
+   "crs": "CKS",
+   "name": "Clarkston Rail Station"
+ },
+ {
+   "crs": "LGS",
+   "name": "Langside Rail Station"
+ },
+ {
+   "crs": "BNG",
+   "name": "Bangor (Gwynedd) Rail Station"
+ },
+ {
+   "crs": "MUI",
+   "name": "Muirend Rail Station"
+ },
+ {
+   "crs": "PLW",
+   "name": "Pollokshields West Rail Station"
+ },
+ {
+   "crs": "CUA",
+   "name": "Culrain Rail Station"
+ },
+ {
+   "crs": "PES",
+   "name": "Pensarn (Gwynedd) Rail Station"
+ },
+ {
+   "crs": "LBR",
+   "name": "Llanbedr Rail Station"
+ },
+ {
+   "crs": "AND",
+   "name": "Anderston Rail Station"
+ },
+ {
+   "crs": "INH",
+   "name": "Invershin Rail Station"
+ },
+ {
+   "crs": "PLE",
+   "name": "Pollokshields East Rail Station"
+ },
+ {
+   "crs": "CHC",
+   "name": "Charing Cross (Glasgow) Rail Station"
+ },
+ {
+   "crs": "CPN",
+   "name": "Chapelton (Devon) Rail Station"
+ },
+ {
+   "crs": "HRL",
+   "name": "Harlech Rail Station"
+ },
+ {
+   "crs": "QPK",
+   "name": "Queens Park (Glasgow) Rail Station"
+ },
+ {
+   "crs": "DYF",
+   "name": "Dyffryn Ardudwy Rail Station"
+ },
+ {
+   "crs": "BUS",
+   "name": "Busby Rail Station"
+ },
+ {
+   "crs": "TYW",
+   "name": "Tywyn Rail Station"
+ },
+ {
+   "crs": "LRG",
+   "name": "Lairg Rail Station"
+ },
+ {
+   "crs": "MFL",
+   "name": "Mount Florida Rail Station"
+ },
+ {
+   "crs": "CCT",
+   "name": "Cathcart Rail Station"
+ },
+ {
+   "crs": "AYW",
+   "name": "Aberystwyth Rail Station"
+ },
+ {
+   "crs": "TLB",
+   "name": "Talybont Rail Station"
+ },
+ {
+   "crs": "GCL",
+   "name": "Glasgow Central Low Level Rail Station"
+ },
+ {
+   "crs": "COI",
+   "name": "Crosshill Rail Station"
+ },
+ {
+   "crs": "PTD",
+   "name": "Pontarddulais Rail Station"
+ },
+ {
+   "crs": "GLC",
+   "name": "Glasgow Central Rail Station"
+ },
+ {
+   "crs": "PPK",
+   "name": "Possilpark & Parkhouse Rail Station"
+ },
+ {
+   "crs": "THT",
+   "name": "Thorntonhall Rail Station"
+ },
+ {
+   "crs": "LLW",
+   "name": "Llwyngwril Rail Station"
+ },
+ {
+   "crs": "GLQ",
+   "name": "Glasgow Queen Street Rail Station"
+ },
+ {
+   "crs": "AGS",
+   "name": "Argyle Street Rail Station"
+ },
+ {
+   "crs": "OKE",
+   "name": "Okehampton Rail Station"
+ },
+ {
+   "crs": "GWN",
+   "name": "Gowerton Rail Station"
+ },
+ {
+   "crs": "GQL",
+   "name": "Glasgow Queen Street Low Level Rail Station"
+ },
+ {
+   "crs": "KGP",
+   "name": "Kings Park Rail Station"
+ },
+ {
+   "crs": "ASF",
+   "name": "Ashfield Rail Station"
+ },
+ {
+   "crs": "LLA",
+   "name": "Llanaber Rail Station"
+ },
+ {
+   "crs": "HST",
+   "name": "High Street (Glasgow) Rail Station"
+ },
+ {
+   "crs": "MFF",
+   "name": "Minffordd Rail Station"
+ },
+ {
+   "crs": "MFD",
+   "name": "Minffordd Ffestiniog Railway Station"
+ },
+ {
+   "crs": "ARD",
+   "name": "Ardgay Rail Station"
+ },
+ {
+   "crs": "TYG",
+   "name": "Tygwyn Rail Station"
+ },
+ {
+   "crs": "CFF",
+   "name": "Croftfoot Rail Station"
+ },
+ {
+   "crs": "SPR",
+   "name": "Springburn Rail Station"
+ },
+ {
+   "crs": "AVY",
+   "name": "Aberdovey Rail Station"
+ },
+ {
+   "crs": "BDG",
+   "name": "Bridgeton Rail Station"
+ },
+ {
+   "crs": "HMY",
+   "name": "Hairmyres Rail Station"
+ },
+ {
+   "crs": "BLG",
+   "name": "Bellgrove Rail Station"
+ },
+ {
+   "crs": "BRH",
+   "name": "Borth Rail Station"
+ },
+ {
+   "crs": "UMB",
+   "name": "Umberleigh Rail Station"
+ },
+ {
+   "crs": "BBG",
+   "name": "Bishopbriggs Rail Station"
+ },
+ {
+   "crs": "TAL",
+   "name": "Talsarnau Rail Station"
+ },
+ {
+   "crs": "BNL",
+   "name": "Barnhill Rail Station"
+ },
+ {
+   "crs": "BRM",
+   "name": "Barmouth Rail Station"
+ },
+ {
+   "crs": "DAK",
+   "name": "Dalmarnock Rail Station"
+ },
+ {
+   "crs": "PRH",
+   "name": "Penrhyndeudraeth Rail Station"
+ },
+ {
+   "crs": "RUT",
+   "name": "Rutherglen Rail Station"
+ },
+ {
+   "crs": "DST",
+   "name": "Duke Street Rail Station"
+ },
+ {
+   "crs": "FRB",
+   "name": "Fairbourne Rail Station"
+ },
+ {
+   "crs": "AXP",
+   "name": "Alexandra Parade Rail Station"
+ },
+ {
+   "crs": "NCK",
+   "name": "New Cumnock Rail Station"
+ },
+ {
+   "crs": "LLC",
+   "name": "Llandecwyn Rail Station"
+ },
+ {
+   "crs": "LLI",
+   "name": "Llandybie Rail Station"
+ },
+ {
+   "crs": "BUI",
+   "name": "Burnside (Strathclyde) Rail Station"
+ },
+ {
+   "crs": "PHG",
+   "name": "Penhelig Rail Station"
+ },
+ {
+   "crs": "PTF",
+   "name": "Pantyffynnon Rail Station"
+ },
+ {
+   "crs": "AMF",
+   "name": "Ammanford Rail Station"
+ },
+ {
+   "crs": "SMC",
+   "name": "Sampford Courtenay Rail Station"
+ },
+ {
+   "crs": "MFA",
+   "name": "Morfa Mawddach Rail Station"
+ },
+ {
+   "crs": "FFA",
+   "name": "Ffairfach Rail Station"
+ },
+ {
+   "crs": "PMA",
+   "name": "Portsmouth Arms Rail Station"
+ },
+ {
+   "crs": "EKL",
+   "name": "East Kilbride Rail Station"
+ },
+ {
+   "crs": "LLL",
+   "name": "Llandeilo Rail Station"
+ },
+ {
+   "crs": "DLW",
+   "name": "Dalwhinnie Rail Station"
+ },
+ {
+   "crs": "CAY",
+   "name": "Carntyne Rail Station"
+ },
+ {
+   "crs": "CBL",
+   "name": "Cambuslang Rail Station"
+ },
+ {
+   "crs": "RRN",
+   "name": "Robroyston Railway Station"
+ },
+ {
+   "crs": "KKH",
+   "name": "Kirkhill Rail Station"
+ },
+ {
+   "crs": "IVY",
+   "name": "Ivybridge Rail Station"
+ },
+ {
+   "crs": "SLS",
+   "name": "Shettleston Rail Station"
+ },
+ {
+   "crs": "CML",
+   "name": "Carmyle Rail Station"
+ },
+ {
+   "crs": "TYB",
+   "name": "Tan-y-Bwlch Ffestiniog Railway Station"
+ },
+ {
+   "crs": "LNZ",
+   "name": "Lenzie Rail Station"
+ },
+ {
+   "crs": "SWA",
+   "name": "Swansea Rail Station"
+ },
+ {
+   "crs": "ASS",
+   "name": "Alness Rail Station"
+ },
+ {
+   "crs": "SPS",
+   "name": "Stepps Rail Station"
+ },
+ {
+   "crs": "KGN",
+   "name": "Kings Nympton Rail Station"
+ },
+ {
+   "crs": "NTN",
+   "name": "Newton (S Lanarks) Rail Station"
+ },
+ {
+   "crs": "MTV",
+   "name": "Mount Vernon Rail Station"
+ },
+ {
+   "crs": "INV",
+   "name": "Inverness Rail Station"
+ },
+ {
+   "crs": "GAR",
+   "name": "Garrowhill Rail Station"
+ },
+ {
+   "crs": "BIO",
+   "name": "Baillieston Rail Station"
+ },
+ {
+   "crs": "LLF",
+   "name": "Llanfairfechan Rail Station"
+ },
+ {
+   "crs": "EST",
+   "name": "Easterhouse Rail Station"
+ },
+ {
+   "crs": "EGG",
+   "name": "Eggesford Rail Station"
+ },
+ {
+   "crs": "BLT",
+   "name": "Blantyre Rail Station"
+ },
+ {
+   "crs": "UDD",
+   "name": "Uddingston Rail Station"
+ },
+ {
+   "crs": "DVY",
+   "name": "Dovey Junction Rail Station"
+ },
+ {
+   "crs": "LAS",
+   "name": "Llansamlet Rail Station"
+ },
+ {
+   "crs": "LLG",
+   "name": "Llangadog Rail Station"
+ },
+ {
+   "crs": "BFF",
+   "name": "Blaenau Ffestiniog Rail Station"
+ },
+ {
+   "crs": "GRH",
+   "name": "Gartcosh Rail Station"
+ },
+ {
+   "crs": "BGI",
+   "name": "Bargeddie Rail Station"
+ },
+ {
+   "crs": "IGD",
+   "name": "Invergordon Rail Station"
+ },
+ {
+   "crs": "HNW",
+   "name": "Hamilton West Rail Station"
+ },
+ {
+   "crs": "RMB",
+   "name": "Roman Bridge Rail Station"
+ },
+ {
+   "crs": "LNR",
+   "name": "Llanwrda Rail Station"
+ },
+ {
+   "crs": "NWR",
+   "name": "Newtonmore Rail Station"
+ },
+ {
+   "crs": "PMW",
+   "name": "Penmaenmawr Rail Station"
+ },
+ {
+   "crs": "KWD",
+   "name": "Kirkwood Rail Station"
+ },
+ {
+   "crs": "HNC",
+   "name": "Hamilton Central Rail Station"
+ },
+ {
+   "crs": "BAI",
+   "name": "Blairhill Rail Station"
+ },
+ {
+   "crs": "SKE",
+   "name": "Skewen Rail Station"
+ },
+ {
+   "crs": "ROG",
+   "name": "Rogart Rail Station"
+ },
+ {
+   "crs": "LAP",
+   "name": "Lapford Rail Station"
+ },
+ {
+   "crs": "CBC",
+   "name": "Coatbridge Central Rail Station"
+ },
+ {
+   "crs": "CRO",
+   "name": "Croy Rail Station"
+ },
+ {
+   "crs": "CBS",
+   "name": "Coatbridge Sunnyside Rail Station"
+ },
+ {
+   "crs": "BLH",
+   "name": "Bellshill Rail Station"
+ },
+ {
+   "crs": "KRK",
+   "name": "Kirkconnel Rail Station"
+ },
+ {
+   "crs": "WFF",
+   "name": "Whifflet Rail Station"
+ },
+ {
+   "crs": "DWD",
+   "name": "Dolwyddelan Rail Station"
+ },
+ {
+   "crs": "BNF",
+   "name": "Briton Ferry Rail Station"
+ },
+ {
+   "crs": "CTE",
+   "name": "Chatelherault Rail Station"
+ },
+ {
+   "crs": "MCN",
+   "name": "Machynlleth Rail Station"
+ },
+ {
+   "crs": "COA",
+   "name": "Coatdyke Rail Station"
+ },
+ {
+   "crs": "BAJ",
+   "name": "Baglan Rail Station"
+ },
+ {
+   "crs": "MRD",
+   "name": "Morchard Road Rail Station"
+ },
+ {
+   "crs": "AIR",
+   "name": "Airbles Rail Station"
+ },
+ {
+   "crs": "MTH",
+   "name": "Motherwell Rail Station"
+ },
+ {
+   "crs": "NTH",
+   "name": "Neath Rail Station"
+ },
+ {
+   "crs": "PYP",
+   "name": "Pont-y-Pant Rail Station"
+ },
+ {
+   "crs": "GRL",
+   "name": "Greenfaulds Rail Station"
+ },
+ {
+   "crs": "KIN",
+   "name": "Kingussie Rail Station"
+ },
+ {
+   "crs": "MEY",
+   "name": "Merryton Rail Station"
+ },
+ {
+   "crs": "ADR",
+   "name": "Airdrie Rail Station"
+ },
+ {
+   "crs": "LRH",
+   "name": "Larkhall Rail Station"
+ },
+ {
+   "crs": "LLV",
+   "name": "Llandovery Rail Station"
+ },
+ {
+   "crs": "HLY",
+   "name": "Holytown Rail Station"
+ },
+ {
+   "crs": "CUB",
+   "name": "Cumbernauld Rail Station"
+ },
+ {
+   "crs": "COP",
+   "name": "Copplestone Rail Station"
+ },
+ {
+   "crs": "PTA",
+   "name": "Port Talbot Parkway Rail Station"
+ },
+ {
+   "crs": "SDM",
+   "name": "Shieldmuir Rail Station"
+ },
+ {
+   "crs": "CRF",
+   "name": "Carfin Rail Station"
+ },
+ {
+   "crs": "DGY",
+   "name": "Deganwy Rail Station"
+ },
+ {
+   "crs": "CNW",
+   "name": "Conwy Rail Station"
+ },
+ {
+   "crs": "DBL",
+   "name": "Dunblane Rail Station"
+ },
+ {
+   "crs": "SQH",
+   "name": "Sanquhar Rail Station"
+ },
+ {
+   "crs": "DRU",
+   "name": "Drumgelloch Rail Station"
+ },
+ {
+   "crs": "TAI",
+   "name": "Tain Rail Station"
+ },
+ {
+   "crs": "DLG",
+   "name": "Dolgarrog Rail Station"
+ },
+ {
+   "crs": "YEO",
+   "name": "Yeoford Rail Station"
+ },
+ {
+   "crs": "LLD",
+   "name": "Llandudno Rail Station"
+ },
+ {
+   "crs": "BEA",
+   "name": "Bridge of Allan Rail Station"
+ },
+ {
+   "crs": "TLC",
+   "name": "Tal-y-Cafn Rail Station"
+ },
+ {
+   "crs": "WSH",
+   "name": "Wishaw Rail Station"
+ },
+ {
+   "crs": "LLJ",
+   "name": "Llandudno Junction Rail Station"
+ },
+ {
+   "crs": "BYC",
+   "name": "Betws-y-Coed Rail Station"
+ },
+ {
+   "crs": "NLR",
+   "name": "North Llanrwst Rail Station"
+ },
+ {
+   "crs": "STG",
+   "name": "Stirling Rail Station"
+ },
+ {
+   "crs": "LWR",
+   "name": "Llanrwst Rail Station"
+ },
+ {
+   "crs": "TOT",
+   "name": "Totnes Rail Station"
+ },
+ {
+   "crs": "GCW",
+   "name": "Glan Conwy Rail Station"
+ },
+ {
+   "crs": "CYN",
+   "name": "Cynghordy Rail Station"
+ },
+ {
+   "crs": "CEA",
+   "name": "Cleland Rail Station"
+ },
+ {
+   "crs": "FRN",
+   "name": "Fearn Rail Station"
+ },
+ {
+   "crs": "CAC",
+   "name": "Caldercruix Rail Station"
+ },
+ {
+   "crs": "PYL",
+   "name": "Pyle Rail Station"
+ },
+ {
+   "crs": "GOL",
+   "name": "Golspie Rail Station"
+ },
+ {
+   "crs": "CLU",
+   "name": "Carluke Rail Station"
+ },
+ {
+   "crs": "CDI",
+   "name": "Crediton Rail Station"
+ },
+ {
+   "crs": "SUG",
+   "name": "Sugar Loaf Rail Station"
+ },
+ {
+   "crs": "HTW",
+   "name": "Hartwood Rail Station"
+ },
+ {
+   "crs": "DNO",
+   "name": "Dunrobin Castle Rail Station"
+ },
+ {
+   "crs": "CWB",
+   "name": "Colwyn Bay Rail Station"
+ },
+ {
+   "crs": "MST",
+   "name": "Maesteg Rail Station"
+ },
+ {
+   "crs": "MEW",
+   "name": "Maesteg (Ewenny Road) Rail Station"
+ },
+ {
+   "crs": "LBT",
+   "name": "Larbert Rail Station"
+ },
+ {
+   "crs": "KBC",
+   "name": "Kinbrace Rail Station"
+ },
+ {
+   "crs": "GMG",
+   "name": "Garth (Bridgend) Rail Station"
+ },
+ {
+   "crs": "NTA",
+   "name": "Newton Abbot Rail Station"
+ },
+ {
+   "crs": "CMO",
+   "name": "Camelon Rail Station"
+ },
+ {
+   "crs": "BLA",
+   "name": "Blair Atholl Rail Station"
+ },
+ {
+   "crs": "SHS",
+   "name": "Shotts Rail Station"
+ },
+ {
+   "crs": "NTC",
+   "name": "Newton St Cyres Rail Station"
+ },
+ {
+   "crs": "NRN",
+   "name": "Nairn Rail Station"
+ },
+ {
+   "crs": "FKK",
+   "name": "Falkirk High Rail Station"
+ },
+ {
+   "crs": "LNW",
+   "name": "Llanwrtyd Rail Station"
+ },
+ {
+   "crs": "LNK",
+   "name": "Lanark Rail Station"
+ },
+ {
+   "crs": "FKG",
+   "name": "Falkirk Grahamston Rail Station"
+ },
+ {
+   "crs": "ALO",
+   "name": "Alloa Rail Station"
+ },
+ {
+   "crs": "PGN",
+   "name": "Paignton Rail Station"
+ },
+ {
+   "crs": "FRS",
+   "name": "Forsinard Rail Station"
+ },
+ {
+   "crs": "TDU",
+   "name": "Tondu Rail Station"
+ },
+ {
+   "crs": "AVM",
+   "name": "Aviemore Rail Station"
+ },
+ {
+   "crs": "SRR",
+   "name": "Sarn Rail Station"
+ },
+ {
+   "crs": "CAG",
+   "name": "Carrbridge Rail Station"
+ },
+ {
+   "crs": "KIL",
+   "name": "Kildonan Rail Station"
+ },
+ {
+   "crs": "TRR",
+   "name": "Torre Rail Station"
+ },
+ {
+   "crs": "WMI",
+   "name": "Wildmill Rail Station"
+ },
+ {
+   "crs": "TQY",
+   "name": "Torquay Rail Station"
+ },
+ {
+   "crs": "BKR",
+   "name": "Blackridge Rail Station"
+ },
+ {
+   "crs": "BRA",
+   "name": "Brora Rail Station"
+ },
+ {
+   "crs": "BGN",
+   "name": "Bridgend Rail Station"
+ },
+ {
+   "crs": "EXD",
+   "name": "Exeter St Davids Rail Station"
+ },
+ {
+   "crs": "EXT",
+   "name": "Exeter St Thomas Rail Station"
+ },
+ {
+   "crs": "EXC",
+   "name": "Exeter Central Rail Station"
+ },
+ {
+   "crs": "FLD",
+   "name": "Fauldhouse Rail Station"
+ },
+ {
+   "crs": "SJP",
+   "name": "St James Park (Devon) Rail Station"
+ },
+ {
+   "crs": "GLE",
+   "name": "Gleneagles Rail Station"
+ },
+ {
+   "crs": "PMT",
+   "name": "Polmont Rail Station"
+ },
+ {
+   "crs": "LLM",
+   "name": "Llangammarch Rail Station"
+ },
+ {
+   "crs": "PIT",
+   "name": "Pitlochry Rail Station"
+ },
+ {
+   "crs": "TRB",
+   "name": "Treherbert Rail Station"
+ },
+ {
+   "crs": "ARM",
+   "name": "Armadale (W Lothian) Rail Station"
+ },
+ {
+   "crs": "POL",
+   "name": "Polsloe Bridge Rail Station"
+ },
+ {
+   "crs": "TGM",
+   "name": "Teignmouth Rail Station"
+ },
+ {
+   "crs": "AGL",
+   "name": "Abergele & Pensarn Rail Station"
+ },
+ {
+   "crs": "YNW",
+   "name": "Ynyswen Rail Station"
+ },
+ {
+   "crs": "CRS",
+   "name": "Carstairs Rail Station"
+ },
+ {
+   "crs": "GTH",
+   "name": "Garth (Powys) Rail Station"
+ },
+ {
+   "crs": "BRC",
+   "name": "Breich Rail Station"
+ },
+ {
+   "crs": "TRY",
+   "name": "Treorchy Rail Station"
+ },
+ {
+   "crs": "PCD",
+   "name": "Pencoed Rail Station"
+ },
+ {
+   "crs": "DIG",
+   "name": "Digby & Sowton Rail Station"
+ },
+ {
+   "crs": "NCO",
+   "name": "Newcourt Rail Station"
+ },
+ {
+   "crs": "DWL",
+   "name": "Dawlish Rail Station"
+ },
+ {
+   "crs": "PIN",
+   "name": "Pinhoe Rail Station"
+ },
+ {
+   "crs": "TOP",
+   "name": "Topsham Rail Station"
+ },
+ {
+   "crs": "SBS",
+   "name": "St Bees Rail Station"
+ },
+ {
+   "crs": "LWM",
+   "name": "Llantwit Major Rail Station"
+ },
+ {
+   "crs": "TPN",
+   "name": "Ton Pentre Rail Station"
+ },
+ {
+   "crs": "WTH",
+   "name": "Whitehaven Rail Station"
+ },
+ {
+   "crs": "DMF",
+   "name": "Dumfries Rail Station"
+ },
+ {
+   "crs": "SCS",
+   "name": "Starcross Rail Station"
+ },
+ {
+   "crs": "CKL",
+   "name": "Corkickle Rail Station"
+ },
+ {
+   "crs": "BHG",
+   "name": "Bathgate Rail Station"
+ },
+ {
+   "crs": "PRN",
+   "name": "Parton Rail Station"
+ },
+ {
+   "crs": "DWW",
+   "name": "Dawlish Warren Rail Station"
+ },
+ {
+   "crs": "EXN",
+   "name": "Exton Rail Station"
+ },
+ {
+   "crs": "LYC",
+   "name": "Lympstone Commando Rail Station"
+ },
+ {
+   "crs": "NRT",
+   "name": "Nethertown Rail Station"
+ },
+ {
+   "crs": "YSR",
+   "name": "Ystrad Rhondda Rail Station"
+ },
+ {
+   "crs": "LYM",
+   "name": "Lympstone Village Rail Station"
+ },
+ {
+   "crs": "HRR",
+   "name": "Harrington Rail Station"
+ },
+ {
+   "crs": "ADW",
+   "name": "Addiewell Rail Station"
+ },
+ {
+   "crs": "LLY",
+   "name": "Llwynypia Rail Station"
+ },
+ {
+   "crs": "WKG",
+   "name": "Workington Rail Station"
+ },
+ {
+   "crs": "TNP",
+   "name": "Tonypandy Rail Station"
+ },
+ {
+   "crs": "CBK",
+   "name": "Cranbrook Rail Station"
+ },
+ {
+   "crs": "EXM",
+   "name": "Exmouth Rail Station"
+ },
+ {
+   "crs": "BYS",
+   "name": "Braystones Rail Station"
+ },
+ {
+   "crs": "LLR",
+   "name": "Llanharan Rail Station"
+ },
+ {
+   "crs": "ABC",
+   "name": "Altnabreac Rail Station"
+ },
+ {
+   "crs": "ABA",
+   "name": "Aberdare Rail Station"
+ },
+ {
+   "crs": "CIM",
+   "name": "Cilmeri Rail Station"
+ },
+ {
+   "crs": "LIN",
+   "name": "Linlithgow Rail Station"
+ },
+ {
+   "crs": "DMG",
+   "name": "Dinas (Rhondda) Rail Station"
+ },
+ {
+   "crs": "RHL",
+   "name": "Rhyl Rail Station"
+ },
+ {
+   "crs": "WCL",
+   "name": "West Calder Rail Station"
+ },
+ {
+   "crs": "FLM",
+   "name": "Flimby Rail Station"
+ },
+ {
+   "crs": "SEL",
+   "name": "Sellafield Rail Station"
+ },
+ {
+   "crs": "HMS",
+   "name": "Helmsdale Rail Station"
+ },
+ {
+   "crs": "CMH",
+   "name": "Cwmbach Rail Station"
+ },
+ {
+   "crs": "BHR",
+   "name": "Builth Road Rail Station"
+ },
+ {
+   "crs": "POR",
+   "name": "Porth Rail Station"
+ },
+ {
+   "crs": "CWS",
+   "name": "Caersws Rail Station"
+ },
+ {
+   "crs": "FOR",
+   "name": "Forres Rail Station"
+ },
+ {
+   "crs": "DKD",
+   "name": "Dunkeld & Birnam Rail Station"
+ },
+ {
+   "crs": "PYC",
+   "name": "Pontyclun Rail Station"
+ },
+ {
+   "crs": "LSN",
+   "name": "Livingston North Rail Station"
+ },
+ {
+   "crs": "FER",
+   "name": "Fernhill Rail Station"
+ },
+ {
+   "crs": "SSC",
+   "name": "Seascale Rail Station"
+ },
+ {
+   "crs": "MRY",
+   "name": "Maryport Rail Station"
+ },
+ {
+   "crs": "TRH",
+   "name": "Trehafod Rail Station"
+ },
+ {
+   "crs": "TVP",
+   "name": "Tiverton Parkway Rail Station"
+ },
+ {
+   "crs": "WHM",
+   "name": "Whimple Rail Station"
+ },
+ {
+   "crs": "MTA",
+   "name": "Mountain Ash Rail Station"
+ },
+ {
+   "crs": "MER",
+   "name": "Merthyr Tydfil Rail Station"
+ },
+ {
+   "crs": "LLO",
+   "name": "Llandrindod Rail Station"
+ },
+ {
+   "crs": "PTB",
+   "name": "Pentre-Bach Rail Station"
+ },
+ {
+   "crs": "PER",
+   "name": "Penrhiwceiber Rail Station"
+ },
+ {
+   "crs": "LVG",
+   "name": "Livingston South Rail Station"
+ },
+ {
+   "crs": "RIA",
+   "name": "Rhoose Rail Station"
+ },
+ {
+   "crs": "UHA",
+   "name": "Uphall Rail Station"
+ },
+ {
+   "crs": "DRI",
+   "name": "Drigg Rail Station"
+ },
+ {
+   "crs": "PRT",
+   "name": "Prestatyn Rail Station"
+ },
+ {
+   "crs": "TRD",
+   "name": "Troed-y-Rhiw Rail Station"
+ },
+ {
+   "crs": "PPD",
+   "name": "Pontypridd Rail Station"
+ },
+ {
+   "crs": "MEV",
+   "name": "Merthyr Vale Rail Station"
+ },
+ {
+   "crs": "ACY",
+   "name": "Abercynon Rail Station"
+ },
+ {
+   "crs": "TRF",
+   "name": "Trefforest Rail Station"
+ },
+ {
+   "crs": "RAV",
+   "name": "Ravenglass Rail Station"
+ },
+ {
+   "crs": "QYD",
+   "name": "Quakers Yard Rail Station"
+ },
+ {
+   "crs": "BOC",
+   "name": "Bootle (Cumbria) Rail Station"
+ },
+ {
+   "crs": "FNT",
+   "name": "Feniton Rail Station"
+ },
+ {
+   "crs": "SCT",
+   "name": "Scotscalder Rail Station"
+ },
+ {
+   "crs": "DFE",
+   "name": "Dunfermline Town Rail Station"
+ },
+ {
+   "crs": "PNY",
+   "name": "Pen-y-Bont Rail Station"
+ },
+ {
+   "crs": "KKN",
+   "name": "Kirknewton Rail Station"
+ },
+ {
+   "crs": "TRE",
+   "name": "Trefforest Estate Rail Station"
+ },
+ {
+   "crs": "BRY",
+   "name": "Barry Rail Station"
+ },
+ {
+   "crs": "NWT",
+   "name": "Newtown (Powys) Rail Station"
+ },
+ {
+   "crs": "RHY",
+   "name": "Rhymney Rail Station"
+ },
+ {
+   "crs": "ROS",
+   "name": "Rosyth Rail Station"
+ },
+ {
+   "crs": "PTH",
+   "name": "Perth Rail Station"
+ },
+ {
+   "crs": "THS",
+   "name": "Thurso Rail Station"
+ },
+ {
+   "crs": "BYI",
+   "name": "Barry Island Rail Station"
+ },
+ {
+   "crs": "DFL",
+   "name": "Dunfermline Queen Margaret Rail Station"
+ },
+ {
+   "crs": "PLT",
+   "name": "Pontlottyn Rail Station"
+ },
+ {
+   "crs": "BYD",
+   "name": "Barry Docks Rail Station"
+ },
+ {
+   "crs": "TAF",
+   "name": "Taffs Well Rail Station"
+ },
+ {
+   "crs": "INK",
+   "name": "Inverkeithing Rail Station"
+ },
+ {
+   "crs": "SIC",
+   "name": "Silecroft Rail Station"
+ },
+ {
+   "crs": "NQU",
+   "name": "North Queensferry Rail Station"
+ },
+ {
+   "crs": "CAD",
+   "name": "Cadoxton Rail Station"
+ },
+ {
+   "crs": "RDR",
+   "name": "Radyr Rail Station"
+ },
+ {
+   "crs": "LOC",
+   "name": "Lockerbie Rail Station"
+ },
+ {
+   "crs": "DAM",
+   "name": "Dalmeny Rail Station"
+ },
+ {
+   "crs": "DOL",
+   "name": "Dolau Rail Station"
+ },
+ {
+   "crs": "TIR",
+   "name": "Tir-phil Rail Station"
+ },
+ {
+   "crs": "YSM",
+   "name": "Ystrad Mynach Rail Station"
+ },
+ {
+   "crs": "ASP",
+   "name": "Aspatria Rail Station"
+ },
+ {
+   "crs": "FRW",
+   "name": "Fairwater Rail Station"
+ },
+ {
+   "crs": "DCT",
+   "name": "Danescourt Rail Station"
+ },
+ {
+   "crs": "COY",
+   "name": "Coryton Rail Station"
+ },
+ {
+   "crs": "LNB",
+   "name": "Llanbradach Rail Station"
+ },
+ {
+   "crs": "WNG",
+   "name": "Waun-gron Park Rail Station"
+ },
+ {
+   "crs": "LLN",
+   "name": "Llandaf Rail Station"
+ },
+ {
+   "crs": "ABE",
+   "name": "Aber Rail Station"
+ },
+ {
+   "crs": "DAG",
+   "name": "Dalgety Bay Rail Station"
+ },
+ {
+   "crs": "ECP",
+   "name": "Energlyn & Churchill Park Rail Station"
+ },
+ {
+   "crs": "PGM",
+   "name": "Pengam Rail Station"
+ },
+ {
+   "crs": "BGD",
+   "name": "Bargoed Rail Station"
+ },
+ {
+   "crs": "BHD",
+   "name": "Brithdir Rail Station"
+ },
+ {
+   "crs": "WHT",
+   "name": "Whitchurch (Cardiff) Rail Station"
+ },
+ {
+   "crs": "GFF",
+   "name": "Gilfach Fargoed Rail Station"
+ },
+ {
+   "crs": "DNS",
+   "name": "Dinas Powys Rail Station"
+ },
+ {
+   "crs": "HNG",
+   "name": "Hengoed Rail Station"
+ },
+ {
+   "crs": "GGJ",
+   "name": "Georgemas Junction Rail Station"
+ },
+ {
+   "crs": "CPH",
+   "name": "Caerphilly Rail Station"
+ },
+ {
+   "crs": "RHI",
+   "name": "Rhiwbina Rail Station"
+ },
+ {
+   "crs": "EBK",
+   "name": "Eastbrook Rail Station"
+ },
+ {
+   "crs": "BIB",
+   "name": "Bishop's Lydeard"
+ },
+ {
+   "crs": "HON",
+   "name": "Honiton Rail Station"
+ },
+ {
+   "crs": "COW",
+   "name": "Cowdenbeath Rail Station"
+ },
+ {
+   "crs": "NNP",
+   "name": "Ninian Park Rail Station"
+ },
+ {
+   "crs": "BCG",
+   "name": "Birchgrove Rail Station"
+ },
+ {
+   "crs": "TGS",
+   "name": "Ty Glas Rail Station"
+ },
+ {
+   "crs": "EBB",
+   "name": "Ebbw Vale Town Rail Station"
+ },
+ {
+   "crs": "MLM",
+   "name": "Millom Rail Station"
+ },
+ {
+   "crs": "LLT",
+   "name": "Llanbister Road Rail Station"
+ },
+ {
+   "crs": "GTN",
+   "name": "Grangetown (Cardiff) Rail Station"
+ },
+ {
+   "crs": "CGN",
+   "name": "Cogan Rail Station"
+ },
+ {
+   "crs": "EBV",
+   "name": "Ebbw Vale Parkway Rail Station"
+ },
+ {
+   "crs": "EGY",
+   "name": "Edinburgh Gateway Rail Station"
+ },
+ {
+   "crs": "CUH",
+   "name": "Curriehill Rail Station"
+ },
+ {
+   "crs": "LVT",
+   "name": "Lisvane & Thornhill Rail Station"
+ },
+ {
+   "crs": "DGL",
+   "name": "Dingle Road Rail Station"
+ },
+ {
+   "crs": "HLL",
+   "name": "Heath Low Level Rail Station"
+ },
+ {
+   "crs": "LLS",
+   "name": "Llanishen Rail Station"
+ },
+ {
+   "crs": "HHL",
+   "name": "Heath High Level Rail Station"
+ },
+ {
+   "crs": "CDF",
+   "name": "Cardiff Central Rail Station"
+ },
+ {
+   "crs": "CYS",
+   "name": "Cathays Rail Station"
+ },
+ {
+   "crs": "EDP",
+   "name": "Edinburgh Park Rail Station"
+ },
+ {
+   "crs": "PEN",
+   "name": "Penarth Rail Station"
+ },
+ {
+   "crs": "LCG",
+   "name": "Lochgelly Rail Station"
+ },
+ {
+   "crs": "CDQ",
+   "name": "Cardiff Queen Street Rail Station"
+ },
+ {
+   "crs": "SGL",
+   "name": "South Gyle Rail Station"
+ },
+ {
+   "crs": "GNR",
+   "name": "Green Road Rail Station"
+ },
+ {
+   "crs": "CDB",
+   "name": "Cardiff Bay Rail Station"
+ },
+ {
+   "crs": "AUR",
+   "name": "Aberdour Rail Station"
+ },
+ {
+   "crs": "ANN",
+   "name": "Annan Rail Station"
+ },
+ {
+   "crs": "WTA",
+   "name": "Wester Hailes Rail Station"
+ },
+ {
+   "crs": "BIF",
+   "name": "Barrow-in-Furness Rail Station"
+ },
+ {
+   "crs": "FOX",
+   "name": "Foxfield Rail Station"
+ },
+ {
+   "crs": "LGO",
+   "name": "Llangynllo Rail Station"
+ },
+ {
+   "crs": "KGE",
+   "name": "Kingsknowe Rail Station"
+ },
+ {
+   "crs": "NBE",
+   "name": "Newbridge Rail Station"
+ },
+ {
+   "crs": "WKI",
+   "name": "West Kirby Rail Station"
+ },
+ {
+   "crs": "ASK",
+   "name": "Askam Rail Station"
+ },
+ {
+   "crs": "LTH",
+   "name": "Llanhilleth Rail Station"
+ },
+ {
+   "crs": "CDD",
+   "name": "Cardenden Rail Station"
+ },
+ {
+   "crs": "HYK",
+   "name": "Hoylake Rail Station"
+ },
+ {
+   "crs": "ELG",
+   "name": "Elgin Rail Station"
+ },
+ {
+   "crs": "ROO",
+   "name": "Roose Rail Station"
+ },
+ {
+   "crs": "CKY",
+   "name": "Crosskeys Rail Station"
+ },
+ {
+   "crs": "MNR",
+   "name": "Manor Road Rail Station"
+ },
+ {
+   "crs": "SLA",
+   "name": "Slateford Rail Station"
+ },
+ {
+   "crs": "KBF",
+   "name": "Kirkby-in-Furness Rail Station"
+ },
+ {
+   "crs": "TAU",
+   "name": "Taunton Rail Station"
+ },
+ {
+   "crs": "WLP",
+   "name": "Welshpool Rail Station"
+ },
+ {
+   "crs": "DLT",
+   "name": "Dalton Rail Station"
+ },
+ {
+   "crs": "BTS",
+   "name": "Burntisland Rail Station"
+ },
+ {
+   "crs": "MEO",
+   "name": "Meols Rail Station"
+ },
+ {
+   "crs": "HYM",
+   "name": "Haymarket Rail Station"
+ },
+ {
+   "crs": "RCA",
+   "name": "Risca & Pontymister Rail Station"
+ },
+ {
+   "crs": "FLN",
+   "name": "Flint Rail Station"
+ },
+ {
+   "crs": "WGT",
+   "name": "Wigton Rail Station"
+ },
+ {
+   "crs": "KNU",
+   "name": "Knucklas Rail Station"
+ },
+ {
+   "crs": "EDB",
+   "name": "Edinburgh Rail Station"
+ },
+ {
+   "crs": "MRT",
+   "name": "Moreton (Merseyside) Rail Station"
+ },
+ {
+   "crs": "ROR",
+   "name": "Rogerstone Rail Station"
+ },
+ {
+   "crs": "KGH",
+   "name": "Kinghorn Rail Station"
+ },
+ {
+   "crs": "LSW",
+   "name": "Leasowe Rail Station"
+ },
+ {
+   "crs": "KDY",
+   "name": "Kirkcaldy Rail Station"
+ },
+ {
+   "crs": "PYE",
+   "name": "Pye Corner Rail Station"
+ },
+ {
+   "crs": "UPT",
+   "name": "Upton Rail Station"
+ },
+ {
+   "crs": "BID",
+   "name": "Bidston Rail Station"
+ },
+ {
+   "crs": "ULV",
+   "name": "Ulverston Rail Station"
+ },
+ {
+   "crs": "CRK",
+   "name": "Chirk Rail Station"
+ },
+ {
+   "crs": "HSW",
+   "name": "Heswall Rail Station"
+ },
+ {
+   "crs": "WLG",
+   "name": "Wallasey Grove Road Rail Station"
+ },
+ {
+   "crs": "WLV",
+   "name": "Wallasey Village Rail Station"
+ },
+ {
+   "crs": "KNI",
+   "name": "Knighton Rail Station"
+ },
+ {
+   "crs": "FRE",
+   "name": "Freshfield Rail Station"
+ },
+ {
+   "crs": "GLT",
+   "name": "Glenrothes with Thornton Rail Station"
+ },
+ {
+   "crs": "FBY",
+   "name": "Formby Rail Station"
+ },
+ {
+   "crs": "NES",
+   "name": "Neston Rail Station"
+ },
+ {
+   "crs": "AXM",
+   "name": "Axminster Rail Station"
+ },
+ {
+   "crs": "BCK",
+   "name": "Buckley Rail Station"
+ },
+ {
+   "crs": "PNF",
+   "name": "Penyffordd Rail Station"
+ },
+ {
+   "crs": "BKN",
+   "name": "Birkenhead North Rail Station"
+ },
+ {
+   "crs": "CWM",
+   "name": "Cwmbran Rail Station"
+ },
+ {
+   "crs": "MNC",
+   "name": "Markinch Rail Station"
+ },
+ {
+   "crs": "PPL",
+   "name": "Pontypool & New Inn Rail Station"
+ },
+ {
+   "crs": "HTO",
+   "name": "Hightown Rail Station"
+ },
+ {
+   "crs": "RUA",
+   "name": "Ruabon Rail Station"
+ },
+ {
+   "crs": "GOB",
+   "name": "Gobowen Rail Station"
+ },
+ {
+   "crs": "HLR",
+   "name": "Hall Road Rail Station"
+ },
+ {
+   "crs": "NBN",
+   "name": "New Brighton Rail Station"
+ },
+ {
+   "crs": "AGV",
+   "name": "Abergavenny Rail Station"
+ },
+ {
+   "crs": "LDY",
+   "name": "Ladybank Rail Station"
+ },
+ {
+   "crs": "BPB",
+   "name": "Blackpool Pleasure Beach Rail Station"
+ },
+ {
+   "crs": "HPE",
+   "name": "Hope (Flintshire) Rail Station"
+ },
+ {
+   "crs": "SHT",
+   "name": "Shotton Rail Station"
+ },
+ {
+   "crs": "NWP",
+   "name": "Newport (S Wales) Rail Station"
+ },
+ {
+   "crs": "BWT",
+   "name": "Bridgwater Rail Station"
+ },
+ {
+   "crs": "SHT",
+   "name": "Shotton High Level Rail Station"
+ },
+ {
+   "crs": "SQU",
+   "name": "Squires Gate Rail Station"
+ },
+ {
+   "crs": "CGW",
+   "name": "Caergwrle Rail Station"
+ },
+ {
+   "crs": "BKP",
+   "name": "Birkenhead Park Rail Station"
+ },
+ {
+   "crs": "BPS",
+   "name": "Blackpool South Rail Station"
+ },
+ {
+   "crs": "BPN",
+   "name": "Blackpool North Rail Station"
+ },
+ {
+   "crs": "CYB",
+   "name": "Cefn-y-Bedd Rail Station"
+ },
+ {
+   "crs": "BLN",
+   "name": "Blundellsands & Crosby Rail Station"
+ },
+ {
+   "crs": "ANS",
+   "name": "Ainsdale Rail Station"
+ },
+ {
+   "crs": "HWD",
+   "name": "Hawarden Rail Station"
+ },
+ {
+   "crs": "HWB",
+   "name": "Hawarden Bridge Rail Station"
+ },
+ {
+   "crs": "BSU",
+   "name": "Brunstane Rail Station"
+ },
+ {
+   "crs": "GWE",
+   "name": "Gwersyllt Rail Station"
+ },
+ {
+   "crs": "NEW",
+   "name": "Newcraighall Rail Station"
+ },
+ {
+   "crs": "GEA",
+   "name": "Gretna Green Rail Station"
+ },
+ {
+   "crs": "WLO",
+   "name": "Waterloo (Merseyside) Rail Station"
+ },
+ {
+   "crs": "CNP",
+   "name": "Conway Park Rail Station"
+ },
+ {
+   "crs": "HIG",
+   "name": "Highbridge & Burnham-on-Sea Rail Station"
+ },
+ {
+   "crs": "BKC",
+   "name": "Birkenhead Central Rail Station"
+ },
+ {
+   "crs": "SAS",
+   "name": "St Annes-on-the-Sea Rail Station"
+ },
+ {
+   "crs": "LAY",
+   "name": "Layton (Lancs) Rail Station"
+ },
+ {
+   "crs": "HIL",
+   "name": "Hillside Rail Station"
+ },
+ {
+   "crs": "EKB",
+   "name": "Eskbank Rail Station"
+ },
+ {
+   "crs": "WSM",
+   "name": "Weston-super-Mare Rail Station"
+ },
+ {
+   "crs": "GNL",
+   "name": "Green Lane Rail Station"
+ },
+ {
+   "crs": "SFI",
+   "name": "Shawfair Rail Station"
+ },
+ {
+   "crs": "BKQ",
+   "name": "Birkenhead Hamilton Square Rail Station"
+ },
+ {
+   "crs": "RFY",
+   "name": "Rock Ferry Rail Station"
+ },
+ {
+   "crs": "WRX",
+   "name": "Wrexham General Rail Station"
+ },
+ {
+   "crs": "BDL",
+   "name": "Birkdale Rail Station"
+ },
+ {
+   "crs": "MUB",
+   "name": "Musselburgh Rail Station"
+ },
+ {
+   "crs": "WXC",
+   "name": "Wrexham Central Rail Station"
+ },
+ {
+   "crs": "NEG",
+   "name": "Newtongrange Rail Station"
+ },
+ {
+   "crs": "BEB",
+   "name": "Bebington Rail Station"
+ },
+ {
+   "crs": "SFL",
+   "name": "Seaforth & Litherland Rail Station"
+ },
+ {
+   "crs": "PSL",
+   "name": "Port Sunlight Rail Station"
+ },
+ {
+   "crs": "SOP",
+   "name": "Southport Rail Station"
+ },
+ {
+   "crs": "SPI",
+   "name": "Spital Rail Station"
+ },
+ {
+   "crs": "BOT",
+   "name": "Bootle Oriel Road Rail Station"
+ },
+ {
+   "crs": "BNW",
+   "name": "Bootle New Strand Rail Station"
+ },
+ {
+   "crs": "LVJ",
+   "name": "Liverpool James Street Rail Station"
+ },
+ {
+   "crs": "BMR",
+   "name": "Bromborough Rake Rail Station"
+ },
+ {
+   "crs": "SDL",
+   "name": "Sandhills Rail Station"
+ },
+ {
+   "crs": "MRF",
+   "name": "Moorfields Rail Station"
+ },
+ {
+   "crs": "MRF",
+   "name": "Moorfields Rail Station"
+ },
+ {
+   "crs": "BOM",
+   "name": "Bromborough Rail Station"
+ },
+ {
+   "crs": "WNM",
+   "name": "Weston Milton Rail Station"
+ },
+ {
+   "crs": "BAH",
+   "name": "Bank Hall Rail Station"
+ },
+ {
+   "crs": "GBG",
+   "name": "Gorebridge Rail Station"
+ },
+ {
+   "crs": "AFV",
+   "name": "Ansdell & Fairhaven Rail Station"
+ },
+ {
+   "crs": "ERA",
+   "name": "Eastham Rake Rail Station"
+ },
+ {
+   "crs": "KKD",
+   "name": "Kirkdale Rail Station"
+ },
+ {
+   "crs": "PFY",
+   "name": "Poulton-le-Fylde Rail Station"
+ },
+ {
+   "crs": "ING",
+   "name": "Invergowrie Rail Station"
+ },
+ {
+   "crs": "SPF",
+   "name": "Springfield Rail Station"
+ },
+ {
+   "crs": "HOO",
+   "name": "Hooton Rail Station"
+ },
+ {
+   "crs": "LVC",
+   "name": "Liverpool Central Rail Station"
+ },
+ {
+   "crs": "LVC",
+   "name": "Liverpool Central Loop Line"
+ },
+ {
+   "crs": "LIV",
+   "name": "Liverpool Lime Street Rail Station"
+ },
+ {
+   "crs": "LVL",
+   "name": "Liverpool Lime Street Low Level Rail Station"
+ },
+ {
+   "crs": "BRW",
+   "name": "Brunswick Rail Station"
+ },
+ {
+   "crs": "BUK",
+   "name": "Bucknell Rail Station"
+ },
+ {
+   "crs": "MEC",
+   "name": "Meols Cop Rail Station"
+ },
+ {
+   "crs": "WAO",
+   "name": "Walton (Merseyside) Rail Station"
+ },
+ {
+   "crs": "WCK",
+   "name": "Wick Rail Station"
+ },
+ {
+   "crs": "OPK",
+   "name": "Orrell Park Rail Station"
+ },
+ {
+   "crs": "RIL",
+   "name": "Rice Lane Rail Station"
+ },
+ {
+   "crs": "LTM",
+   "name": "Lytham Rail Station"
+ },
+ {
+   "crs": "CAK",
+   "name": "Cark Rail Station"
+ },
+ {
+   "crs": "DLS",
+   "name": "Dalston (Cumbria) Rail Station"
+ },
+ {
+   "crs": "AIN",
+   "name": "Aintree Rail Station"
+ },
+ {
+   "crs": "WAF",
+   "name": "Wallyford Rail Station"
+ },
+ {
+   "crs": "STM",
+   "name": "St Michaels Rail Station"
+ },
+ {
+   "crs": "WOR",
+   "name": "Worle Rail Station"
+ },
+ {
+   "crs": "ORN",
+   "name": "Old Roan Rail Station"
+ },
+ {
+   "crs": "EDG",
+   "name": "Edge Hill Rail Station"
+ },
+ {
+   "crs": "LTT",
+   "name": "Little Sutton Rail Station"
+ },
+ {
+   "crs": "CPU",
+   "name": "Capenhurst Rail Station"
+ },
+ {
+   "crs": "CUP",
+   "name": "Cupar Rail Station"
+ },
+ {
+   "crs": "FAZ",
+   "name": "Fazakerley Rail Station"
+ },
+ {
+   "crs": "MOS",
+   "name": "Moss Side Rail Station"
+ },
+ {
+   "crs": "HPT",
+   "name": "Hopton Heath Rail Station"
+ },
+ {
+   "crs": "MAG",
+   "name": "Maghull Rail Station"
+ },
+ {
+   "crs": "AIG",
+   "name": "Aigburth Rail Station"
+ },
+ {
+   "crs": "OVE",
+   "name": "Overpool Rail Station"
+ },
+ {
+   "crs": "WAV",
+   "name": "Wavertree Technology Park Rail Station"
+ },
+ {
+   "crs": "MSH",
+   "name": "Mossley Hill Rail Station"
+ },
+ {
+   "crs": "PST",
+   "name": "Prestonpans Rail Station"
+ },
+ {
+   "crs": "CSG",
+   "name": "Cressington Rail Station"
+ },
+ {
+   "crs": "BES",
+   "name": "Bescar Lane Rail Station"
+ },
+ {
+   "crs": "KBK",
+   "name": "Kents Bank Rail Station"
+ },
+ {
+   "crs": "WSA",
+   "name": "West Allerton Rail Station"
+ },
+ {
+   "crs": "BME",
+   "name": "Broome Rail Station"
+ },
+ {
+   "crs": "TWN",
+   "name": "Town Green Rail Station"
+ },
+ {
+   "crs": "KIR",
+   "name": "Kirkby Rail Station"
+ },
+ {
+   "crs": "CAR",
+   "name": "Carlisle Rail Station"
+ },
+ {
+   "crs": "DEE",
+   "name": "Dundee Rail Station"
+ },
+ {
+   "crs": "HHB",
+   "name": "Heysham Port Rail Station"
+ },
+ {
+   "crs": "ELP",
+   "name": "Ellesmere Port Rail Station"
+ },
+ {
+   "crs": "BAC",
+   "name": "Bache Rail Station"
+ },
+ {
+   "crs": "BGE",
+   "name": "Broad Green Rail Station"
+ },
+ {
+   "crs": "AUG",
+   "name": "Aughton Park Rail Station"
+ },
+ {
+   "crs": "LPY",
+   "name": "Liverpool South Parkway Rail Station"
+ },
+ {
+   "crs": "LPY",
+   "name": "Liverpool South Parkway Rail Station"
+ },
+ {
+   "crs": "GOS",
+   "name": "Grange-over-Sands Rail Station"
+ },
+ {
+   "crs": "CTR",
+   "name": "Chester Rail Station"
+ },
+ {
+   "crs": "WDM",
+   "name": "Windermere Rail Station"
+ },
+ {
+   "crs": "OMS",
+   "name": "Ormskirk Rail Station"
+ },
+ {
+   "crs": "KKM",
+   "name": "Kirkham & Wesham Rail Station"
+ },
+ {
+   "crs": "YAT",
+   "name": "Yatton Rail Station"
+ },
+ {
+   "crs": "NLN",
+   "name": "New Lane Rail Station"
+ },
+ {
+   "crs": "KEH",
+   "name": "Keith Rail Station"
+ },
+ {
+   "crs": "HNX",
+   "name": "Hunts Cross Rail Station"
+ },
+ {
+   "crs": "CRV",
+   "name": "Craven Arms Rail Station"
+ },
+ {
+   "crs": "ROB",
+   "name": "Roby Rail Station"
+ },
+ {
+   "crs": "MCM",
+   "name": "Morecambe Rail Station"
+ },
+ {
+   "crs": "SNT",
+   "name": "Stanlow & Thornton Rail Station"
+ },
+ {
+   "crs": "HUY",
+   "name": "Huyton Rail Station"
+ },
+ {
+   "crs": "BCB",
+   "name": "Burscough Bridge Rail Station"
+ },
+ {
+   "crs": "BCJ",
+   "name": "Burscough Junction Rail Station"
+ },
+ {
+   "crs": "LND",
+   "name": "Longniddry Rail Station"
+ },
+ {
+   "crs": "HED",
+   "name": "Halewood Rail Station"
+ },
+ {
+   "crs": "LEU",
+   "name": "Leuchars Rail Station"
+ },
+ {
+   "crs": "CKN",
+   "name": "Crewkerne Rail Station"
+ },
+ {
+   "crs": "BAR",
+   "name": "Bare Lane Rail Station"
+ },
+ {
+   "crs": "CTT",
+   "name": "Church Stretton Rail Station"
+ },
+ {
+   "crs": "INE",
+   "name": "Ince & Elton Rail Station"
+ },
+ {
+   "crs": "SOI",
+   "name": "Stow Rail Station"
+ },
+ {
+   "crs": "ARN",
+   "name": "Arnside Rail Station"
+ },
+ {
+   "crs": "STJ",
+   "name": "Severn Tunnel Junction Rail Station"
+ },
+ {
+   "crs": "SLW",
+   "name": "Salwick Rail Station"
+ },
+ {
+   "crs": "BYF",
+   "name": "Broughty Ferry Rail Station"
+ },
+ {
+   "crs": "RUF",
+   "name": "Rufford Rail Station"
+ },
+ {
+   "crs": "WRL",
+   "name": "Wetheral Rail Station"
+ },
+ {
+   "crs": "HSC",
+   "name": "Hoscar Rail Station"
+ },
+ {
+   "crs": "SVL",
+   "name": "Staveley Rail Station"
+ },
+ {
+   "crs": "PSC",
+   "name": "Prescot Rail Station"
+ },
+ {
+   "crs": "WHN",
+   "name": "Whiston Rail Station"
+ },
+ {
+   "crs": "LAN",
+   "name": "Lancaster Rail Station"
+ },
+ {
+   "crs": "CDT",
+   "name": "Caldicot Rail Station"
+ },
+ {
+   "crs": "SVR",
+   "name": "Silverdale Rail Station"
+ },
+ {
+   "crs": "RNF",
+   "name": "Rainford Rail Station"
+ },
+ {
+   "crs": "NLS",
+   "name": "Nailsea & Backwell Rail Station"
+ },
+ {
+   "crs": "ECL",
+   "name": "Eccleston Park Rail Station"
+ },
+ {
+   "crs": "BSI",
+   "name": "Balmossie Rail Station"
+ },
+ {
+   "crs": "HGN",
+   "name": "Hough Green Rail Station"
+ },
+ {
+   "crs": "HSB",
+   "name": "Helsby Rail Station"
+ },
+ {
+   "crs": "CSO",
+   "name": "Croston Rail Station"
+ },
+ {
+   "crs": "PBL",
+   "name": "Parbold Rail Station"
+ },
+ {
+   "crs": "RNH",
+   "name": "Rainhill Rail Station"
+ },
+ {
+   "crs": "GAL",
+   "name": "Galashiels Rail Station"
+ },
+ {
+   "crs": "SHR",
+   "name": "Shrewsbury Rail Station"
+ },
+ {
+   "crs": "THH",
+   "name": "Thatto Heath Rail Station"
+ },
+ {
+   "crs": "CNF",
+   "name": "Carnforth Rail Station"
+ },
+ {
+   "crs": "MON",
+   "name": "Monifieth Rail Station"
+ },
+ {
+   "crs": "LEO",
+   "name": "Leominster Rail Station"
+ },
+ {
+   "crs": "BUD",
+   "name": "Burneside (Cumbria) Rail Station"
+ },
+ {
+   "crs": "YRT",
+   "name": "Yorton Rail Station"
+ },
+ {
+   "crs": "AWT",
+   "name": "Armathwaite Rail Station"
+ },
+ {
+   "crs": "RUN",
+   "name": "Runcorn Rail Station"
+ },
+ {
+   "crs": "UPL",
+   "name": "Upholland Rail Station"
+ },
+ {
+   "crs": "DRM",
+   "name": "Drem Rail Station"
+ },
+ {
+   "crs": "PNR",
+   "name": "Penrith North Lakes Rail Station"
+ },
+ {
+   "crs": "MLD",
+   "name": "Mouldsworth Rail Station"
+ },
+ {
+   "crs": "WID",
+   "name": "Widnes Rail Station"
+ },
+ {
+   "crs": "LUD",
+   "name": "Ludlow Rail Station"
+ },
+ {
+   "crs": "HFD",
+   "name": "Hereford Rail Station"
+ },
+ {
+   "crs": "AVN",
+   "name": "Avonmouth Rail Station"
+ },
+ {
+   "crs": "SNH",
+   "name": "St Helens Central Rail Station"
+ },
+ {
+   "crs": "WEM",
+   "name": "Wem Rail Station"
+ },
+ {
+   "crs": "SAR",
+   "name": "St Andrews Road Rail Station"
+ },
+ {
+   "crs": "FRD",
+   "name": "Frodsham Rail Station"
+ },
+ {
+   "crs": "LEG",
+   "name": "Lea Green Rail Station"
+ },
+ {
+   "crs": "KEN",
+   "name": "Kendal Rail Station"
+ },
+ {
+   "crs": "TWB",
+   "name": "Tweedbank Rail Station"
+ },
+ {
+   "crs": "APB",
+   "name": "Appley Bridge Rail Station"
+ },
+ {
+   "crs": "SHH",
+   "name": "Shirehampton Rail Station"
+ },
+ {
+   "crs": "ORR",
+   "name": "Orrell Rail Station"
+ },
+ {
+   "crs": "OXN",
+   "name": "Oxenholme Lake District Rail Station"
+ },
+ {
+   "crs": "PRE",
+   "name": "Preston Rail Station"
+ },
+ {
+   "crs": "HNT",
+   "name": "Huntly Rail Station"
+ },
+ {
+   "crs": "SHJ",
+   "name": "St Helens Junction Rail Station"
+ },
+ {
+   "crs": "CPW",
+   "name": "Chepstow Rail Station"
+ },
+ {
+   "crs": "PRS",
+   "name": "Prees Rail Station"
+ },
+ {
+   "crs": "SVB",
+   "name": "Severn Beach Rail Station"
+ },
+ {
+   "crs": "GST",
+   "name": "Gathurst Rail Station"
+ },
+ {
+   "crs": "BYL",
+   "name": "Barry Links Rail Station"
+ },
+ {
+   "crs": "NBW",
+   "name": "North Berwick Rail Station"
+ },
+ {
+   "crs": "LEY",
+   "name": "Leyland Rail Station"
+ },
+ {
+   "crs": "LOH",
+   "name": "Lostock Hall Rail Station"
+ },
+ {
+   "crs": "LZB",
+   "name": "Lazonby & Kirkoswald Rail Station"
+ },
+ {
+   "crs": "SML",
+   "name": "Sea Mills Rail Station"
+ },
+ {
+   "crs": "WTC",
+   "name": "Whitchurch (Shrops) Rail Station"
+ },
+ {
+   "crs": "BMP",
+   "name": "Brampton (Cumbria) Rail Station"
+ },
+ {
+   "crs": "GSW",
+   "name": "Garswood Rail Station"
+ },
+ {
+   "crs": "DLM",
+   "name": "Delamere Rail Station"
+ },
+ {
+   "crs": "PEM",
+   "name": "Pemberton Rail Station"
+ },
+ {
+   "crs": "EBA",
+   "name": "Euxton Balshaw Lane Rail Station"
+ },
+ {
+   "crs": "RUE",
+   "name": "Runcorn East Rail Station"
+ },
+ {
+   "crs": "GOF",
+   "name": "Golf Street Rail Station"
+ },
+ {
+   "crs": "WAW",
+   "name": "Warrington West Rail Station"
+ },
+ {
+   "crs": "BSV",
+   "name": "Buckshaw Parkway Rail Station"
+ },
+ {
+   "crs": "BMB",
+   "name": "Bamber Bridge Rail Station"
+ },
+ {
+   "crs": "CAN",
+   "name": "Carnoustie Rail Station"
+ },
+ {
+   "crs": "PIL",
+   "name": "Pilning Rail Station"
+ },
+ {
+   "crs": "SNK",
+   "name": "Sankey for Penketh Rail Station"
+ },
+ {
+   "crs": "YVP",
+   "name": "Yeovil Pen Mill Rail Station"
+ },
+ {
+   "crs": "YVJ",
+   "name": "Yeovil Junction Rail Station"
+ },
+ {
+   "crs": "BYN",
+   "name": "Bryn Rail Station"
+ },
+ {
+   "crs": "LGW",
+   "name": "Langwathby Rail Station"
+ },
+ {
+   "crs": "CFN",
+   "name": "Clifton Down Rail Station"
+ },
+ {
+   "crs": "ERL",
+   "name": "Earlestown Rail Station"
+ },
+ {
+   "crs": "PSN",
+   "name": "Parson Street Rail Station"
+ },
+ {
+   "crs": "WGN",
+   "name": "Wigan North Western Rail Station"
+ },
+ {
+   "crs": "WGW",
+   "name": "Wigan Wallgate Rail Station"
+ },
+ {
+   "crs": "RDA",
+   "name": "Redland Rail Station"
+ },
+ {
+   "crs": "CRL",
+   "name": "Chorley Rail Station"
+ },
+ {
+   "crs": "BMT",
+   "name": "Bedminster Rail Station"
+ },
+ {
+   "crs": "MTP",
+   "name": "Montpelier Rail Station"
+ },
+ {
+   "crs": "NLW",
+   "name": "Newton-le-Willows Rail Station"
+ },
+ {
+   "crs": "THO",
+   "name": "Thornford Rail Station"
+ },
+ {
+   "crs": "INC",
+   "name": "Ince (Manchester) Rail Station"
+ },
+ {
+   "crs": "BRI",
+   "name": "Bristol Temple Meads Rail Station"
+ },
+ {
+   "crs": "YET",
+   "name": "Yetminster Rail Station"
+ },
+ {
+   "crs": "CNO",
+   "name": "Chetnole Rail Station"
+ },
+ {
+   "crs": "ACB",
+   "name": "Acton Bridge Rail Station"
+ },
+ {
+   "crs": "MDN",
+   "name": "Maiden Newton Rail Station"
+ },
+ {
+   "crs": "WBQ",
+   "name": "Warrington Bank Quay Rail Station"
+ },
+ {
+   "crs": "CUD",
+   "name": "Cuddington Rail Station"
+ },
+ {
+   "crs": "WRE",
+   "name": "Wrenbury Rail Station"
+ },
+ {
+   "crs": "ADL",
+   "name": "Adlington (Lancs) Rail Station"
+ },
+ {
+   "crs": "WAC",
+   "name": "Warrington Central Rail Station"
+ },
+ {
+   "crs": "SRD",
+   "name": "Stapleton Road Rail Station"
+ },
+ {
+   "crs": "LWH",
+   "name": "Lawrence Hill Rail Station"
+ },
+ {
+   "crs": "FIT",
+   "name": "Filton Abbey Wood Rail Station"
+ },
+ {
+   "crs": "PWY",
+   "name": "Patchway Rail Station"
+ },
+ {
+   "crs": "WNN",
+   "name": "Wennington Rail Station"
+ },
+ {
+   "crs": "HIN",
+   "name": "Hindley Rail Station"
+ },
+ {
+   "crs": "BLK",
+   "name": "Blackrod Rail Station"
+ },
+ {
+   "crs": "BPW",
+   "name": "Bristol Parkway Rail Station"
+ },
+ {
+   "crs": "INS",
+   "name": "Insch Rail Station"
+ },
+ {
+   "crs": "PDG",
+   "name": "Padgate Rail Station"
+ },
+ {
+   "crs": "HTF",
+   "name": "Hartford Rail Station"
+ },
+ {
+   "crs": "LYD",
+   "name": "Lydney Rail Station"
+ },
+ {
+   "crs": "CLC",
+   "name": "Castle Cary Rail Station"
+ },
+ {
+   "crs": "ARB",
+   "name": "Arbroath Rail Station"
+ },
+ {
+   "crs": "SHE",
+   "name": "Sherborne Rail Station"
+ },
+ {
+   "crs": "PLS",
+   "name": "Pleasington Rail Station"
+ },
+ {
+   "crs": "HWI",
+   "name": "Horwich Parkway Rail Station"
+ },
+ {
+   "crs": "GBK",
+   "name": "Greenbank Rail Station"
+ },
+ {
+   "crs": "WLN",
+   "name": "Wellington (Shropshire) Rail Station"
+ },
+ {
+   "crs": "BWD",
+   "name": "Birchwood Rail Station"
+ },
+ {
+   "crs": "NAN",
+   "name": "Nantwich Rail Station"
+ },
+ {
+   "crs": "WHG",
+   "name": "Westhoughton Rail Station"
+ },
+ {
+   "crs": "KYN",
+   "name": "Keynsham Rail Station"
+ },
+ {
+   "crs": "CYT",
+   "name": "Cherry Tree Rail Station"
+ },
+ {
+   "crs": "DSY",
+   "name": "Daisy Hill Rail Station"
+ },
+ {
+   "crs": "BEN",
+   "name": "Bentham Rail Station"
+ },
+ {
+   "crs": "NWI",
+   "name": "Northwich Rail Station"
+ },
+ {
+   "crs": "MLH",
+   "name": "Mill Hill (Lancs) Rail Station"
+ },
+ {
+   "crs": "WSF",
+   "name": "Winsford Rail Station"
+ },
+ {
+   "crs": "UPW",
+   "name": "Upwey Rail Station"
+ },
+ {
+   "crs": "HGF",
+   "name": "Hag Fold Rail Station"
+ },
+ {
+   "crs": "LOT",
+   "name": "Lostock Rail Station"
+ },
+ {
+   "crs": "WEY",
+   "name": "Weymouth Rail Station"
+ },
+ {
+   "crs": "DUN",
+   "name": "Dunbar Rail Station"
+ },
+ {
+   "crs": "ATN",
+   "name": "Atherton Rail Station"
+ },
+ {
+   "crs": "BBN",
+   "name": "Blackburn Rail Station"
+ },
+ {
+   "crs": "RGW",
+   "name": "Ramsgreave & Wilpshire Rail Station"
+ },
+ {
+   "crs": "APP",
+   "name": "Appleby Rail Station"
+ },
+ {
+   "crs": "ZZT",
+   "name": "Lintley Rail Station"
+ },
+ {
+   "crs": "BRU",
+   "name": "Bruton Rail Station"
+ },
+ {
+   "crs": "DCW",
+   "name": "Dorchester West Rail Station"
+ },
+ {
+   "crs": "LTG",
+   "name": "Lostock Gralam Rail Station"
+ },
+ {
+   "crs": "DCH",
+   "name": "Dorchester South Rail Station"
+ },
+ {
+   "crs": "DWN",
+   "name": "Darwen Rail Station"
+ },
+ {
+   "crs": "ZZT",
+   "name": "Kirkhaugh Rail Station"
+ },
+ {
+   "crs": "GLZ",
+   "name": "Glazebrook Rail Station"
+ },
+ {
+   "crs": "OKN",
+   "name": "Oakengates Rail Station"
+ },
+ {
+   "crs": "YAE",
+   "name": "Yate Rail Station"
+ },
+ {
+   "crs": "TFC",
+   "name": "Telford Central Rail Station"
+ },
+ {
+   "crs": "HWH",
+   "name": "Haltwhistle Rail Station"
+ },
+ {
+   "crs": "LHO",
+   "name": "Langho Rail Station"
+ },
+ {
+   "crs": "TMC",
+   "name": "Templecombe Rail Station"
+ },
+ {
+   "crs": "LED",
+   "name": "Ledbury Rail Station"
+ },
+ {
+   "crs": "CRE",
+   "name": "Crewe Rail Station"
+ },
+ {
+   "crs": "MTS",
+   "name": "Montrose Rail Station"
+ },
+ {
+   "crs": "IRL",
+   "name": "Irlam Rail Station"
+ },
+ {
+   "crs": "LAU",
+   "name": "Laurencekirk Rail Station"
+ },
+ {
+   "crs": "ZZT",
+   "name": "Alston Rail Station"
+ },
+ {
+   "crs": "BON",
+   "name": "Bolton Rail Station"
+ },
+ {
+   "crs": "PLM",
+   "name": "Plumley Rail Station"
+ },
+ {
+   "crs": "RIS",
+   "name": "Rishton Rail Station"
+ },
+ {
+   "crs": "ENT",
+   "name": "Entwistle Rail Station"
+ },
+ {
+   "crs": "HID",
+   "name": "Hall i' th' Wood Rail Station"
+ },
+ {
+   "crs": "BMC",
+   "name": "Bromley Cross Rail Station"
+ },
+ {
+   "crs": "WHE",
+   "name": "Whalley Rail Station"
+ },
+ {
+   "crs": "CPY",
+   "name": "Clapham (N Yorks) Rail Station"
+ },
+ {
+   "crs": "MSS",
+   "name": "Moses Gate Rail Station"
+ },
+ {
+   "crs": "OLF",
+   "name": "Oldfield Park Rail Station"
+ },
+ {
+   "crs": "SDB",
+   "name": "Sandbach Rail Station"
+ },
+ {
+   "crs": "WKD",
+   "name": "Walkden Rail Station"
+ },
+ {
+   "crs": "CLH",
+   "name": "Clitheroe Rail Station"
+ },
+ {
+   "crs": "CTW",
+   "name": "Church & Oswaldtwistle Rail Station"
+ },
+ {
+   "crs": "FNW",
+   "name": "Farnworth Rail Station"
+ },
+ {
+   "crs": "FLI",
+   "name": "Flixton Rail Station"
+ },
+ {
+   "crs": "SFN",
+   "name": "Shifnal Rail Station"
+ },
+ {
+   "crs": "KSL",
+   "name": "Kearsley Rail Station"
+ },
+ {
+   "crs": "BTH",
+   "name": "Bath Spa Rail Station"
+ },
+ {
+   "crs": "CDU",
+   "name": "Cam & Dursley Rail Station"
+ },
+ {
+   "crs": "KNF",
+   "name": "Knutsford Rail Station"
+ },
+ {
+   "crs": "CWL",
+   "name": "Colwall Rail Station"
+ },
+ {
+   "crs": "CSR",
+   "name": "Chassen Road Rail Station"
+ },
+ {
+   "crs": "ACR",
+   "name": "Accrington Rail Station"
+ },
+ {
+   "crs": "KSW",
+   "name": "Kirkby Stephen Rail Station"
+ },
+ {
+   "crs": "PAT",
+   "name": "Patricroft Rail Station"
+ },
+ {
+   "crs": "DNT",
+   "name": "Dent Rail Station"
+ },
+ {
+   "crs": "RHD",
+   "name": "Ribblehead Rail Station"
+ },
+ {
+   "crs": "URM",
+   "name": "Urmston Rail Station"
+ },
+ {
+   "crs": "HCH",
+   "name": "Holmes Chapel Rail Station"
+ },
+ {
+   "crs": "MSD",
+   "name": "Moorside Rail Station"
+ },
+ {
+   "crs": "HAL",
+   "name": "Hale Rail Station"
+ },
+ {
+   "crs": "ALT",
+   "name": "Altrincham Rail Station"
+ },
+ {
+   "crs": "HCT",
+   "name": "Huncoat Rail Station"
+ },
+ {
+   "crs": "NVR",
+   "name": "Navigation Road Rail Station"
+ },
+ {
+   "crs": "ASY",
+   "name": "Ashley Rail Station"
+ },
+ {
+   "crs": "INR",
+   "name": "Inverurie Rail Station"
+ },
+ {
+   "crs": "SNN",
+   "name": "Swinton (Manchester) Rail Station"
+ },
+ {
+   "crs": "MOB",
+   "name": "Mobberley Rail Station"
+ },
+ {
+   "crs": "ECC",
+   "name": "Eccles Rail Station"
+ },
+ {
+   "crs": "BLL",
+   "name": "Bardon Mill Rail Station"
+ },
+ {
+   "crs": "MTN",
+   "name": "Moreton (Dorset) Rail Station"
+ },
+ {
+   "crs": "MVL",
+   "name": "Malvern Link Rail Station"
+ },
+ {
+   "crs": "GTR",
+   "name": "Goostrey Rail Station"
+ },
+ {
+   "crs": "GMV",
+   "name": "Great Malvern Rail Station"
+ },
+ {
+   "crs": "HUP",
+   "name": "Humphrey Park Rail Station"
+ },
+ {
+   "crs": "FRO",
+   "name": "Frome Rail Station"
+ },
+ {
+   "crs": "GSD",
+   "name": "Garsdale Rail Station"
+ },
+ {
+   "crs": "KTR",
+   "name": "Kintore Rail Station"
+ },
+ {
+   "crs": "FFD",
+   "name": "Freshford Rail Station"
+ },
+ {
+   "crs": "HPN",
+   "name": "Hapton Rail Station"
+ },
+ {
+   "crs": "CLI",
+   "name": "Clifton (Manchester) Rail Station"
+ },
+ {
+   "crs": "TRA",
+   "name": "Trafford Park Rail Station"
+ },
+ {
+   "crs": "COS",
+   "name": "Cosford Rail Station"
+ },
+ {
+   "crs": "ASG",
+   "name": "Alsager Rail Station"
+ },
+ {
+   "crs": "GIG",
+   "name": "Giggleswick Rail Station"
+ },
+ {
+   "crs": "HIR",
+   "name": "Horton-in-Ribblesdale Rail Station"
+ },
+ {
+   "crs": "AVF",
+   "name": "Avoncliff Rail Station"
+ },
+ {
+   "crs": "MUF",
+   "name": "Manchester United FC Rail Station"
+ },
+ {
+   "crs": "SHU",
+   "name": "Stonehouse Rail Station"
+ },
+ {
+   "crs": "GIL",
+   "name": "Gillingham (Dorset) Rail Station"
+ },
+ {
+   "crs": "CEL",
+   "name": "Chelford Rail Station"
+ },
+ {
+   "crs": "RSG",
+   "name": "Rose Grove Rail Station"
+ },
+ {
+   "crs": "SET",
+   "name": "Settle Rail Station"
+ },
+ {
+   "crs": "SLD",
+   "name": "Salford Crescent Rail Station"
+ },
+ {
+   "crs": "ALB",
+   "name": "Albrighton Rail Station"
+ },
+ {
+   "crs": "MIA",
+   "name": "Manchester Airport Rail Station"
+ },
+ {
+   "crs": "BOA",
+   "name": "Bradford-on-Avon Rail Station"
+ },
+ {
+   "crs": "BUB",
+   "name": "Burnley Barracks Rail Station"
+ },
+ {
+   "crs": "SFD",
+   "name": "Salford Central Rail Station"
+ },
+ {
+   "crs": "LPR",
+   "name": "Long Preston Rail Station"
+ },
+ {
+   "crs": "DGT",
+   "name": "Deansgate Rail Station"
+ },
+ {
+   "crs": "GCR",
+   "name": "Gloucester Rail Station"
+ },
+ {
+   "crs": "BYM",
+   "name": "Burnley Manchester Road Rail Station"
+ },
+ {
+   "crs": "KDG",
+   "name": "Kidsgrove Rail Station"
+ },
+ {
+   "crs": "KID",
+   "name": "Kidderminster Rail Station"
+ },
+ {
+   "crs": "BNC",
+   "name": "Burnley Central Rail Station"
+ },
+ {
+   "crs": "MCV",
+   "name": "Manchester Victoria Rail Station"
+ },
+ {
+   "crs": "MCO",
+   "name": "Manchester Oxford Road Rail Station"
+ },
+ {
+   "crs": "SYA",
+   "name": "Styal Rail Station"
+ },
+ {
+   "crs": "HDB",
+   "name": "Haydon Bridge Rail Station"
+ },
+ {
+   "crs": "ALD",
+   "name": "Alderley Edge Rail Station"
+ },
+ {
+   "crs": "HDG",
+   "name": "Heald Green Rail Station"
+ },
+ {
+   "crs": "WOO",
+   "name": "Wool Rail Station"
+ },
+ {
+   "crs": "BRF",
+   "name": "Brierfield Rail Station"
+ },
+ {
+   "crs": "GTY",
+   "name": "Gatley Rail Station"
+ },
+ {
+   "crs": "MAN",
+   "name": "Manchester Piccadilly Rail Station"
+ },
+ {
+   "crs": "STD",
+   "name": "Stroud (Glos) Rail Station"
+ },
+ {
+   "crs": "WOF",
+   "name": "Worcester Foregate Street Rail Station"
+ },
+ {
+   "crs": "WML",
+   "name": "Wilmslow Rail Station"
+ },
+ {
+   "crs": "HBY",
+   "name": "Hartlebury Rail Station"
+ },
+ {
+   "crs": "TRO",
+   "name": "Trowbridge Rail Station"
+ },
+ {
+   "crs": "HLD",
+   "name": "Hellifield Rail Station"
+ },
+ {
+   "crs": "EDY",
+   "name": "East Didsbury Rail Station"
+ },
+ {
+   "crs": "DMH",
+   "name": "Dilton Marsh Rail Station"
+ },
+ {
+   "crs": "LPT",
+   "name": "Longport Rail Station"
+ },
+ {
+   "crs": "BNA",
+   "name": "Burnage Rail Station"
+ },
+ {
+   "crs": "WOS",
+   "name": "Worcester Shrub Hill Rail Station"
+ },
+ {
+   "crs": "HTH",
+   "name": "Handforth Rail Station"
+ },
+ {
+   "crs": "ADK",
+   "name": "Ardwick Rail Station"
+ },
+ {
+   "crs": "NEL",
+   "name": "Nelson Rail Station"
+ },
+ {
+   "crs": "MAU",
+   "name": "Mauldeth Road Rail Station"
+ },
+ {
+   "crs": "WSB",
+   "name": "Westbury (Wilts) Rail Station"
+ },
+ {
+   "crs": "STN",
+   "name": "Stonehaven Rail Station"
+ },
+ {
+   "crs": "CSL",
+   "name": "Codsall Rail Station"
+ },
+ {
+   "crs": "ABY",
+   "name": "Ashburys Rail Station"
+ },
+ {
+   "crs": "CNG",
+   "name": "Congleton Rail Station"
+ },
+ {
+   "crs": "NTB",
+   "name": "Norton Bridge Rail Station"
+ },
+ {
+   "crs": "LVM",
+   "name": "Levenshulme Rail Station"
+ },
+ {
+   "crs": "BBK",
+   "name": "Bilbrook Rail Station"
+ },
+ {
+   "crs": "CHU",
+   "name": "Cheadle Hulme Rail Station"
+ },
+ {
+   "crs": "WMN",
+   "name": "Warminster Rail Station"
+ },
+ {
+   "crs": "SOT",
+   "name": "Stoke-on-Trent Rail Station"
+ },
+ {
+   "crs": "BKD",
+   "name": "Blakedown Rail Station"
+ },
+ {
+   "crs": "BLV",
+   "name": "Belle Vue Rail Station"
+ },
+ {
+   "crs": "CNE",
+   "name": "Colne Rail Station"
+ },
+ {
+   "crs": "HTC",
+   "name": "Heaton Chapel Rail Station"
+ },
+ {
+   "crs": "CAS",
+   "name": "Castleton (Manchester) Rail Station"
+ },
+ {
+   "crs": "DYC",
+   "name": "Dyce Rail Station"
+ },
+ {
+   "crs": "RRB",
+   "name": "Ryder Brow Rail Station"
+ },
+ {
+   "crs": "WED",
+   "name": "Wedgwood Rail Station"
+ },
+ {
+   "crs": "MIH",
+   "name": "Mills Hill (Manchester) Rail Station"
+ },
+ {
+   "crs": "MSO",
+   "name": "Moston Rail Station"
+ },
+ {
+   "crs": "BRT",
+   "name": "Barlaston Rail Station"
+ },
+ {
+   "crs": "GTO",
+   "name": "Gorton Rail Station"
+ },
+ {
+   "crs": "WOP",
+   "name": "Worcestershire Parkway Rail Station"
+ },
+ {
+   "crs": "BML",
+   "name": "Bramhall Rail Station"
+ },
+ {
+   "crs": "SPT",
+   "name": "Stockport Rail Station"
+ },
+ {
+   "crs": "DTW",
+   "name": "Droitwich Spa Rail Station"
+ },
+ {
+   "crs": "RDS",
+   "name": "Reddish South Rail Station"
+ },
+ {
+   "crs": "SNE",
+   "name": "Stone Rail Station"
+ },
+ {
+   "crs": "RDN",
+   "name": "Reddish North Rail Station"
+ },
+ {
+   "crs": "DVN",
+   "name": "Davenport Rail Station"
+ },
+ {
+   "crs": "RCD",
+   "name": "Rochdale Rail Station"
+ },
+ {
+   "crs": "MKM",
+   "name": "Melksham Rail Station"
+ },
+ {
+   "crs": "HAG",
+   "name": "Hagley Rail Station"
+ },
+ {
+   "crs": "PRB",
+   "name": "Prestbury Rail Station"
+ },
+ {
+   "crs": "FRF",
+   "name": "Fairfield Rail Station"
+ },
+ {
+   "crs": "SBT",
+   "name": "Stourbridge Town Rail Station"
+ },
+ {
+   "crs": "WSR",
+   "name": "Woodsmoor Rail Station"
+ },
+ {
+   "crs": "LGN",
+   "name": "Longton Rail Station"
+ },
+ {
+   "crs": "SBJ",
+   "name": "Stourbridge Junction Rail Station"
+ },
+ {
+   "crs": "SBJ",
+   "name": "Stourbridge Junction Rail Station"
+ },
+ {
+   "crs": "BNT",
+   "name": "Brinnington Rail Station"
+ },
+ {
+   "crs": "PYT",
+   "name": "Poynton Rail Station"
+ },
+ {
+   "crs": "ADC",
+   "name": "Adlington (Cheshire) Rail Station"
+ },
+ {
+   "crs": "DTN",
+   "name": "Denton Rail Station"
+ },
+ {
+   "crs": "STA",
+   "name": "Stafford Rail Station"
+ },
+ {
+   "crs": "WRM",
+   "name": "Wareham Rail Station"
+ },
+ {
+   "crs": "MAC",
+   "name": "Macclesfield Rail Station"
+ },
+ {
+   "crs": "HAZ",
+   "name": "Hazel Grove Rail Station"
+ },
+ {
+   "crs": "WVH",
+   "name": "Wolverhampton Rail Station"
+ },
+ {
+   "crs": "PKG",
+   "name": "Penkridge Rail Station"
+ },
+ {
+   "crs": "CPM",
+   "name": "Chippenham Rail Station"
+ },
+ {
+   "crs": "LYE",
+   "name": "Lye (West Midlands) Rail Station"
+ },
+ {
+   "crs": "PLN",
+   "name": "Portlethen Rail Station"
+ },
+ {
+   "crs": "GUI",
+   "name": "Guide Bridge Rail Station"
+ },
+ {
+   "crs": "SMB",
+   "name": "Smithy Bridge Rail Station"
+ },
+ {
+   "crs": "ASC",
+   "name": "Ashchurch for Tewkesbury Rail Station"
+ },
+ {
+   "crs": "BDY",
+   "name": "Bredbury Rail Station"
+ },
+ {
+   "crs": "GGV",
+   "name": "Gargrave Rail Station"
+ },
+ {
+   "crs": "WDN",
+   "name": "Walsden Rail Station"
+ },
+ {
+   "crs": "CNM",
+   "name": "Cheltenham Spa Rail Station"
+ },
+ {
+   "crs": "TOD",
+   "name": "Todmorden Rail Station"
+ },
+ {
+   "crs": "AHN",
+   "name": "Ashton-under-Lyne Rail Station"
+ },
+ {
+   "crs": "LTL",
+   "name": "Littleborough Rail Station"
+ },
+ {
+   "crs": "WLY",
+   "name": "Woodley Rail Station"
+ },
+ {
+   "crs": "CRA",
+   "name": "Cradley Heath Rail Station"
+ },
+ {
+   "crs": "HEX",
+   "name": "Hexham Rail Station"
+ },
+ {
+   "crs": "ABD",
+   "name": "Aberdeen Rail Station"
+ },
+ {
+   "crs": "RML",
+   "name": "Romiley Rail Station"
+ },
+ {
+   "crs": "CSY",
+   "name": "Coseley Rail Station"
+ },
+ {
+   "crs": "HYT",
+   "name": "Hyde North Rail Station"
+ },
+ {
+   "crs": "HYC",
+   "name": "Hyde Central Rail Station"
+ },
+ {
+   "crs": "MDL",
+   "name": "Middlewood Rail Station"
+ },
+ {
+   "crs": "TIS",
+   "name": "Tisbury Rail Station"
+ },
+ {
+   "crs": "HOL",
+   "name": "Holton Heath Rail Station"
+ },
+ {
+   "crs": "FLF",
+   "name": "Flowery Field Rail Station"
+ },
+ {
+   "crs": "RSH",
+   "name": "Rose Hill Marple Rail Station"
+ },
+ {
+   "crs": "PSH",
+   "name": "Pershore Rail Station"
+ },
+ {
+   "crs": "BYB",
+   "name": "Blythe Bridge Rail Station"
+ },
+ {
+   "crs": "NWN",
+   "name": "Newton for Hyde Rail Station"
+ },
+ {
+   "crs": "TIP",
+   "name": "Tipton Rail Station"
+ },
+ {
+   "crs": "SYB",
+   "name": "Stalybridge Rail Station"
+ },
+ {
+   "crs": "OHL",
+   "name": "Old Hill Rail Station"
+ },
+ {
+   "crs": "MPL",
+   "name": "Marple Rail Station"
+ },
+ {
+   "crs": "GDL",
+   "name": "Godley Rail Station"
+ },
+ {
+   "crs": "DDP",
+   "name": "Dudley Port Rail Station"
+ },
+ {
+   "crs": "BMV",
+   "name": "Bromsgrove Rail Station"
+ },
+ {
+   "crs": "DSL",
+   "name": "Disley Rail Station"
+ },
+ {
+   "crs": "MSL",
+   "name": "Mossley (Manchester) Rail Station"
+ },
+ {
+   "crs": "HTY",
+   "name": "Hattersley Rail Station"
+ },
+ {
+   "crs": "SRN",
+   "name": "Strines Rail Station"
+ },
+ {
+   "crs": "ROW",
+   "name": "Rowley Regis Rail Station"
+ },
+ {
+   "crs": "SKI",
+   "name": "Skipton Rail Station"
+ },
+ {
+   "crs": "KEM",
+   "name": "Kemble Rail Station"
+ },
+ {
+   "crs": "CAO",
+   "name": "Cannock Rail Station"
+ },
+ {
+   "crs": "LAW",
+   "name": "Landywood Rail Station"
+ },
+ {
+   "crs": "HAM",
+   "name": "Hamworthy Rail Station"
+ },
+ {
+   "crs": "BWN",
+   "name": "Bloxwich North Rail Station"
+ },
+ {
+   "crs": "CRB",
+   "name": "Corbridge Rail Station"
+ },
+ {
+   "crs": "BDB",
+   "name": "Broadbottom Rail Station"
+ },
+ {
+   "crs": "GNF",
+   "name": "Greenfield Rail Station"
+ },
+ {
+   "crs": "CEY",
+   "name": "Cononley Rail Station"
+ },
+ {
+   "crs": "SAD",
+   "name": "Sandwell & Dudley Rail Station"
+ },
+ {
+   "crs": "BLX",
+   "name": "Bloxwich Rail Station"
+ },
+ {
+   "crs": "BWK",
+   "name": "Berwick-upon-Tweed Rail Station"
+ },
+ {
+   "crs": "HBD",
+   "name": "Hebden Bridge Rail Station"
+ },
+ {
+   "crs": "NMN",
+   "name": "New Mills Newtown Rail Station"
+ },
+ {
+   "crs": "NMC",
+   "name": "New Mills Central Rail Station"
+ },
+ {
+   "crs": "LGG",
+   "name": "Langley Green Rail Station"
+ },
+ {
+   "crs": "SNP",
+   "name": "Stanhope Rail Station"
+ },
+ {
+   "crs": "HNF",
+   "name": "Hednesford Rail Station"
+ },
+ {
+   "crs": "BTG",
+   "name": "Barnt Green Rail Station"
+ },
+ {
+   "crs": "BSC",
+   "name": "Bescot Stadium Rail Station"
+ },
+ {
+   "crs": "FNV",
+   "name": "Furness Vale Rail Station"
+ },
+ {
+   "crs": "WBR",
+   "name": "Whaley Bridge Rail Station"
+ },
+ {
+   "crs": "WSL",
+   "name": "Walsall Rail Station"
+ },
+ {
+   "crs": "POO",
+   "name": "Poole Rail Station"
+ },
+ {
+   "crs": "MYT",
+   "name": "Mytholmroyd Rail Station"
+ },
+ {
+   "crs": "LOB",
+   "name": "Longbridge Rail Station"
+ },
+ {
+   "crs": "SGB",
+   "name": "Smethwick Galton Bridge Rail Station"
+ },
+ {
+   "crs": "SGB",
+   "name": "Smethwick Galton Bridge High Level Rail Station"
+ },
+ {
+   "crs": "TAB",
+   "name": "Tame Bridge Parkway Rail Station"
+ },
+ {
+   "crs": "RDM",
+   "name": "Riding Mill Rail Station"
+ },
+ {
+   "crs": "DTG",
+   "name": "Dinting Rail Station"
+ },
+ {
+   "crs": "SMR",
+   "name": "Smethwick Rolfe Street Rail Station"
+ },
+ {
+   "crs": "ALV",
+   "name": "Alvechurch Rail Station"
+ },
+ {
+   "crs": "FRR",
+   "name": "Frosterley Rail Station"
+ },
+ {
+   "crs": "HDF",
+   "name": "Hadfield Rail Station"
+ },
+ {
+   "crs": "NFD",
+   "name": "Northfield Rail Station"
+ },
+ {
+   "crs": "THW",
+   "name": "The Hawthorns Rail Station"
+ },
+ {
+   "crs": "GLO",
+   "name": "Glossop Rail Station"
+ },
+ {
+   "crs": "EVE",
+   "name": "Evesham Rail Station"
+ },
+ {
+   "crs": "SON",
+   "name": "Steeton & Silsden Rail Station"
+ },
+ {
+   "crs": "PKS",
+   "name": "Parkstone (Dorset) Rail Station"
+ },
+ {
+   "crs": "CLY",
+   "name": "Chinley Rail Station"
+ },
+ {
+   "crs": "RDC",
+   "name": "Redditch Rail Station"
+ },
+ {
+   "crs": "RGT",
+   "name": "Rugeley Town Rail Station"
+ },
+ {
+   "crs": "UNI",
+   "name": "University Rail Station"
+ },
+ {
+   "crs": "SLY",
+   "name": "Selly Oak Rail Station"
+ },
+ {
+   "crs": "MSN",
+   "name": "Marsden Rail Station"
+ },
+ {
+   "crs": "KNN",
+   "name": "Kings Norton Rail Station"
+ },
+ {
+   "crs": "RGL",
+   "name": "Rugeley Trent Valley Rail Station"
+ },
+ {
+   "crs": "HSD",
+   "name": "Hamstead (Birmingham) Rail Station"
+ },
+ {
+   "crs": "BRV",
+   "name": "Bournville Rail Station"
+ },
+ {
+   "crs": "SKS",
+   "name": "Stocksfield Rail Station"
+ },
+ {
+   "crs": "CEF",
+   "name": "Chapel-en-le-Frith Rail Station"
+ },
+ {
+   "crs": "BSM",
+   "name": "Branksome Rail Station"
+ },
+ {
+   "crs": "BUX",
+   "name": "Buxton Rail Station"
+ },
+ {
+   "crs": "JEQ",
+   "name": "Jewellery Quarter Rail Station"
+ },
+ {
+   "crs": "FWY",
+   "name": "Five Ways Rail Station"
+ },
+ {
+   "crs": "SOW",
+   "name": "Sowerby Bridge Rail Station"
+ },
+ {
+   "crs": "KEI",
+   "name": "Keighley Rail Station"
+ },
+ {
+   "crs": "PRY",
+   "name": "Perry Barr Rail Station"
+ },
+ {
+   "crs": "BHM",
+   "name": "Birmingham New Street Rail Station"
+ },
+ {
+   "crs": "BSW",
+   "name": "Birmingham Snow Hill Rail Station"
+ },
+ {
+   "crs": "BMO",
+   "name": "Birmingham Moor Street Rail Station"
+ },
+ {
+   "crs": "DVH",
+   "name": "Dove Holes Rail Station"
+ },
+ {
+   "crs": "WLH",
+   "name": "Wolsingham Rail Station"
+ },
+ {
+   "crs": "SWT",
+   "name": "Slaithwaite Rail Station"
+ },
+ {
+   "crs": "WTT",
+   "name": "Witton (West Midlands) Rail Station"
+ },
+ {
+   "crs": "BBS",
+   "name": "Bordesley Rail Station"
+ },
+ {
+   "crs": "PRU",
+   "name": "Prudhoe Rail Station"
+ },
+ {
+   "crs": "AST",
+   "name": "Aston Rail Station"
+ },
+ {
+   "crs": "DUD",
+   "name": "Duddeston Rail Station"
+ },
+ {
+   "crs": "WYT",
+   "name": "Wythall Rail Station"
+ },
+ {
+   "crs": "EWD",
+   "name": "Earlswood (West Midlands) Rail Station"
+ },
+ {
+   "crs": "SMA",
+   "name": "Small Heath Rail Station"
+ },
+ {
+   "crs": "BMH",
+   "name": "Bournemouth Rail Station"
+ },
+ {
+   "crs": "UTT",
+   "name": "Uttoxeter Rail Station"
+ },
+ {
+   "crs": "HFX",
+   "name": "Halifax Rail Station"
+ },
+ {
+   "crs": "ADD",
+   "name": "Adderley Park Rail Station"
+ },
+ {
+   "crs": "YRD",
+   "name": "Yardley Wood Rail Station"
+ },
+ {
+   "crs": "GVH",
+   "name": "Gravelly Hill Rail Station"
+ },
+ {
+   "crs": "WTE",
+   "name": "Whitlocks End Rail Station"
+ },
+ {
+   "crs": "CFL",
+   "name": "Crossflatts Rail Station"
+ },
+ {
+   "crs": "HLG",
+   "name": "Hall Green Rail Station"
+ },
+ {
+   "crs": "BKT",
+   "name": "Blake Street Rail Station"
+ },
+ {
+   "crs": "SRL",
+   "name": "Shirley Rail Station"
+ },
+ {
+   "crs": "SEN",
+   "name": "Shenstone Rail Station"
+ },
+ {
+   "crs": "TLK",
+   "name": "The Lakes Rail Station"
+ },
+ {
+   "crs": "WDE",
+   "name": "Wood End Rail Station"
+ },
+ {
+   "crs": "BIY",
+   "name": "Bingley Rail Station"
+ },
+ {
+   "crs": "ERD",
+   "name": "Erdington Rail Station"
+ },
+ {
+   "crs": "TYS",
+   "name": "Tyseley Rail Station"
+ },
+ {
+   "crs": "BUL",
+   "name": "Butlers Lane Rail Station"
+ },
+ {
+   "crs": "SRI",
+   "name": "Spring Road Rail Station"
+ },
+ {
+   "crs": "CRD",
+   "name": "Chester Road Rail Station"
+ },
+ {
+   "crs": "HYB",
+   "name": "Honeybourne Rail Station"
+ },
+ {
+   "crs": "WYL",
+   "name": "Wylde Green Rail Station"
+ },
+ {
+   "crs": "FOK",
+   "name": "Four Oaks Rail Station"
+ },
+ {
+   "crs": "ILK",
+   "name": "Ilkley Rail Station"
+ },
+ {
+   "crs": "LIC",
+   "name": "Lichfield City Rail Station"
+ },
+ {
+   "crs": "SUT",
+   "name": "Sutton Coldfield Rail Station"
+ },
+ {
+   "crs": "WYM",
+   "name": "Wylam Rail Station"
+ },
+ {
+   "crs": "EDL",
+   "name": "Edale Rail Station"
+ },
+ {
+   "crs": "DZY",
+   "name": "Danzey Rail Station"
+ },
+ {
+   "crs": "ACG",
+   "name": "Acocks Green Rail Station"
+ },
+ {
+   "crs": "POK",
+   "name": "Pokesdown Rail Station"
+ },
+ {
+   "crs": "SCF",
+   "name": "Stechford Rail Station"
+ },
+ {
+   "crs": "LCK",
+   "name": "Lockwood Rail Station"
+ },
+ {
+   "crs": "BEY",
+   "name": "Ben Rhydding Rail Station"
+ },
+ {
+   "crs": "OLT",
+   "name": "Olton Rail Station"
+ },
+ {
+   "crs": "LIF",
+   "name": "Lichfield Trent Valley High Level Rail Station"
+ },
+ {
+   "crs": "LTV",
+   "name": "Lichfield Trent Valley Rail Station"
+ },
+ {
+   "crs": "SAL",
+   "name": "Salisbury Rail Station"
+ },
+ {
+   "crs": "BBW",
+   "name": "Berry Brow Rail Station"
+ },
+ {
+   "crs": "SAE",
+   "name": "Saltaire Rail Station"
+ },
+ {
+   "crs": "HUD",
+   "name": "Huddersfield Rail Station"
+ },
+ {
+   "crs": "SOL",
+   "name": "Solihull Rail Station"
+ },
+ {
+   "crs": "HOY",
+   "name": "Honley Rail Station"
+ },
+ {
+   "crs": "LEH",
+   "name": "Lea Hall Rail Station"
+ },
+ {
+   "crs": "BGH",
+   "name": "Brighouse Rail Station"
+ },
+ {
+   "crs": "WWW",
+   "name": "Wootton Wawen Rail Station"
+ },
+ {
+   "crs": "HNL",
+   "name": "Henley-in-Arden Rail Station"
+ },
+ {
+   "crs": "SWI",
+   "name": "Swindon Rail Station"
+ },
+ {
+   "crs": "SHY",
+   "name": "Shipley Rail Station"
+ },
+ {
+   "crs": "CHR",
+   "name": "Christchurch Rail Station"
+ },
+ {
+   "crs": "FZH",
+   "name": "Frizinghall Rail Station"
+ },
+ {
+   "crs": "BHS",
+   "name": "Brockholes Rail Station"
+ },
+ {
+   "crs": "WMR",
+   "name": "Widney Manor Rail Station"
+ },
+ {
+   "crs": "PEW",
+   "name": "Pewsey Rail Station"
+ },
+ {
+   "crs": "BUW",
+   "name": "Burley-in-Wharfedale Rail Station"
+ },
+ {
+   "crs": "BLD",
+   "name": "Baildon Rail Station"
+ },
+ {
+   "crs": "LMR",
+   "name": "Low Moor Rail Station"
+ },
+ {
+   "crs": "BDQ",
+   "name": "Bradford Forster Square Rail Station"
+ },
+ {
+   "crs": "DHN",
+   "name": "Deighton Rail Station"
+ },
+ {
+   "crs": "BDI",
+   "name": "Bradford Interchange Rail Station"
+ },
+ {
+   "crs": "MGN",
+   "name": "Marston Green Rail Station"
+ },
+ {
+   "crs": "WMC",
+   "name": "Wilmcote Rail Station"
+ },
+ {
+   "crs": "DDG",
+   "name": "Dorridge Rail Station"
+ },
+ {
+   "crs": "BER",
+   "name": "Bearley Rail Station"
+ },
+ {
+   "crs": "MNN",
+   "name": "Menston Rail Station"
+ },
+ {
+   "crs": "WTO",
+   "name": "Water Orton Rail Station"
+ },
+ {
+   "crs": "HOP",
+   "name": "Hope (Derbyshire) Rail Station"
+ },
+ {
+   "crs": "SSM",
+   "name": "Stocksmoor Rail Station"
+ },
+ {
+   "crs": "STY",
+   "name": "Stratford-upon-Avon Parkway Rail Station"
+ },
+ {
+   "crs": "BLO",
+   "name": "Blaydon Rail Station"
+ },
+ {
+   "crs": "APN",
+   "name": "Newcastle Airport Metro"
+ },
+ {
+   "crs": "CHT",
+   "name": "Chathill Rail Station"
+ },
+ {
+   "crs": "BHI",
+   "name": "Birmingham International Rail Station"
+ },
+ {
+   "crs": "LPW",
+   "name": "Lapworth Rail Station"
+ },
+ {
+   "crs": "GSY",
+   "name": "Guiseley Rail Station"
+ },
+ {
+   "crs": "APY",
+   "name": "Apperley Bridge Rail Station"
+ },
+ {
+   "crs": "SAV",
+   "name": "Stratford-upon-Avon Rail Station"
+ },
+ {
+   "crs": "SPY",
+   "name": "Shepley Rail Station"
+ },
+ {
+   "crs": "CEH",
+   "name": "Coleshill Parkway Rail Station"
+ },
+ {
+   "crs": "HNA",
+   "name": "Hinton Admiral Rail Station"
+ },
+ {
+   "crs": "MPT",
+   "name": "Morpeth Rail Station"
+ },
+ {
+   "crs": "MIR",
+   "name": "Mirfield Rail Station"
+ },
+ {
+   "crs": "HIA",
+   "name": "Hampton-in-Arden Rail Station"
+ },
+ {
+   "crs": "MIM",
+   "name": "Moreton-in-Marsh Rail Station"
+ },
+ {
+   "crs": "BAM",
+   "name": "Bamford Rail Station"
+ },
+ {
+   "crs": "CLV",
+   "name": "Claverdon Rail Station"
+ },
+ {
+   "crs": "BIA",
+   "name": "Bishop Auckland Rail Station"
+ },
+ {
+   "crs": "BIA",
+   "name": "Bishop Auckland Rail Station"
+ },
+ {
+   "crs": "NPD",
+   "name": "New Pudsey Rail Station"
+ },
+ {
+   "crs": "TAM",
+   "name": "Tamworth Rail Station"
+ },
+ {
+   "crs": "TAH",
+   "name": "Tamworth High Level Rail Station"
+ },
+ {
+   "crs": "TUT",
+   "name": "Tutbury & Hatton Rail Station"
+ },
+ {
+   "crs": "MCE",
+   "name": "Metrocentre Rail Station"
+ },
+ {
+   "crs": "WNE",
+   "name": "Wilnecote (Staffs) Rail Station"
+ },
+ {
+   "crs": "ACK",
+   "name": "Acklington Rail Station"
+ },
+ {
+   "crs": "DBD",
+   "name": "Denby Dale Rail Station"
+ },
+ {
+   "crs": "HTN",
+   "name": "Hatton (Warks) Rail Station"
+ },
+ {
+   "crs": "PEG",
+   "name": "Pegswood Rail Station"
+ },
+ {
+   "crs": "RVN",
+   "name": "Ravensthorpe Rail Station"
+ },
+ {
+   "crs": "DOT",
+   "name": "Dunston Rail Station"
+ },
+ {
+   "crs": "ALM",
+   "name": "Alnmouth Rail Station"
+ },
+ {
+   "crs": "HSG",
+   "name": "Hathersage Rail Station"
+ },
+ {
+   "crs": "SHD",
+   "name": "Shildon Rail Station"
+ },
+ {
+   "crs": "BLE",
+   "name": "Bramley (West Yorks) Rail Station"
+ },
+ {
+   "crs": "BUT",
+   "name": "Burton-on-Trent Rail Station"
+ },
+ {
+   "crs": "NWM",
+   "name": "New Milton Rail Station"
+ },
+ {
+   "crs": "DEW",
+   "name": "Dewsbury Rail Station"
+ },
+ {
+   "crs": "BKW",
+   "name": "Berkswell Rail Station"
+ },
+ {
+   "crs": "HRS",
+   "name": "Horsforth Rail Station"
+ },
+ {
+   "crs": "WDD",
+   "name": "Widdrington Rail Station"
+ },
+ {
+   "crs": "NCL",
+   "name": "Newcastle Rail Station"
+ },
+ {
+   "crs": "KLF",
+   "name": "Kirkstall Forge Rail Station"
+ },
+ {
+   "crs": "BTL",
+   "name": "Batley Rail Station"
+ },
+ {
+   "crs": "GRN",
+   "name": "Grindleford Rail Station"
+ },
+ {
+   "crs": "PNS",
+   "name": "Penistone Rail Station"
+ },
+ {
+   "crs": "MAS",
+   "name": "Manors Rail Station"
+ },
+ {
+   "crs": "KGM",
+   "name": "Kingham Rail Station"
+ },
+ {
+   "crs": "DEN",
+   "name": "Dean Rail Station"
+ },
+ {
+   "crs": "CRM",
+   "name": "Cramlington Rail Station"
+ },
+ {
+   "crs": "PSW",
+   "name": "Polesworth Rail Station"
+ },
+ {
+   "crs": "WRP",
+   "name": "Warwick Parkway Rail Station"
+ },
+ {
+   "crs": "NAY",
+   "name": "Newton Aycliffe Rail Station"
+ },
+ {
+   "crs": "GRT",
+   "name": "Grateley Rail Station"
+ },
+ {
+   "crs": "HDY",
+   "name": "Headingley Rail Station"
+ },
+ {
+   "crs": "DHM",
+   "name": "Durham Rail Station"
+ },
+ {
+   "crs": "MLY",
+   "name": "Morley Rail Station"
+ },
+ {
+   "crs": "HEI",
+   "name": "Heighington Rail Station"
+ },
+ {
+   "crs": "CLS",
+   "name": "Chester-le-Street Rail Station"
+ },
+ {
+   "crs": "COT",
+   "name": "Cottingley Rail Station"
+ },
+ {
+   "crs": "THL",
+   "name": "Tile Hill Rail Station"
+ },
+ {
+   "crs": "SWY",
+   "name": "Sway Rail Station"
+ },
+ {
+   "crs": "WET",
+   "name": "Weeton Rail Station"
+ },
+ {
+   "crs": "BUY",
+   "name": "Burley Park Rail Station"
+ },
+ {
+   "crs": "BDW",
+   "name": "Bedwyn Rail Station"
+ },
+ {
+   "crs": "SIP",
+   "name": "Shipton Rail Station"
+ },
+ {
+   "crs": "HEW",
+   "name": "Heworth Rail Station"
+ },
+ {
+   "crs": "WRW",
+   "name": "Warwick Rail Station"
+ },
+ {
+   "crs": "NRD",
+   "name": "North Road Rail Station"
+ },
+ {
+   "crs": "SLK",
+   "name": "Silkstone Common Rail Station"
+ },
+ {
+   "crs": "KNW",
+   "name": "Kenilworth Rail Station"
+ },
+ {
+   "crs": "DAR",
+   "name": "Darlington Rail Station"
+ },
+ {
+   "crs": "WIL",
+   "name": "Willington Rail Station"
+ },
+ {
+   "crs": "MAT",
+   "name": "Matlock Rail Station"
+ },
+ {
+   "crs": "MTB",
+   "name": "Matlock Bath Rail Station"
+ },
+ {
+   "crs": "LDS",
+   "name": "Leeds Rail Station"
+ },
+ {
+   "crs": "AUW",
+   "name": "Ascott-under-Wychwood Rail Station"
+ },
+ {
+   "crs": "BCU",
+   "name": "Brockenhurst Rail Station"
+ },
+ {
+   "crs": "CMF",
+   "name": "Cromford Rail Station"
+ },
+ {
+   "crs": "ATH",
+   "name": "Atherstone Rail Station"
+ },
+ {
+   "crs": "HGT",
+   "name": "Harrogate Rail Station"
+ },
+ {
+   "crs": "PNL",
+   "name": "Pannal Rail Station"
+ },
+ {
+   "crs": "CNL",
+   "name": "Canley Rail Station"
+ },
+ {
+   "crs": "DRT",
+   "name": "Darton Rail Station"
+ },
+ {
+   "crs": "DOD",
+   "name": "Dodworth Rail Station"
+ },
+ {
+   "crs": "HBP",
+   "name": "Hornbeam Park Rail Station"
+ },
+ {
+   "crs": "LMS",
+   "name": "Leamington Spa Rail Station"
+ },
+ {
+   "crs": "DBG",
+   "name": "Mottisfont & Dunbridge Rail Station"
+ },
+ {
+   "crs": "DOR",
+   "name": "Dore & Totley Rail Station"
+ },
+ {
+   "crs": "OUT",
+   "name": "Outwood Rail Station"
+ },
+ {
+   "crs": "WKF",
+   "name": "Wakefield Westgate Rail Station"
+ },
+ {
+   "crs": "LYT",
+   "name": "Lymington Town Rail Station"
+ },
+ {
+   "crs": "SBE",
+   "name": "Starbeck Rail Station"
+ },
+ {
+   "crs": "COV",
+   "name": "Coventry Rail Station"
+ },
+ {
+   "crs": "LYP",
+   "name": "Lymington Pier Rail Station"
+ },
+ {
+   "crs": "WTS",
+   "name": "Whatstandwell Rail Station"
+ },
+ {
+   "crs": "ANF",
+   "name": "Ashurst New Forest Rail Station"
+ },
+ {
+   "crs": "WKK",
+   "name": "Wakefield Kirkgate Rail Station"
+ },
+ {
+   "crs": "HGD",
+   "name": "Hungerford Rail Station"
+ },
+ {
+   "crs": "SNA",
+   "name": "Sandal & Agbrigg Rail Station"
+ },
+ {
+   "crs": "CAA",
+   "name": "Coventry Arena Rail Station"
+ },
+ {
+   "crs": "BNR",
+   "name": "Brockley Whins Rail Station"
+ },
+ {
+   "crs": "DND",
+   "name": "Dinsdale Rail Station"
+ },
+ {
+   "crs": "DFI",
+   "name": "Duffield Rail Station"
+ },
+ {
+   "crs": "BNY",
+   "name": "Barnsley Rail Station"
+ },
+ {
+   "crs": "KNA",
+   "name": "Knaresborough Rail Station"
+ },
+ {
+   "crs": "BLP",
+   "name": "Belper Rail Station"
+ },
+ {
+   "crs": "AMB",
+   "name": "Ambergate Rail Station"
+ },
+ {
+   "crs": "BEU",
+   "name": "Beaulieu Road Rail Station"
+ },
+ {
+   "crs": "CBY",
+   "name": "Charlbury Rail Station"
+ },
+ {
+   "crs": "DRO",
+   "name": "Dronfield Rail Station"
+ },
+ {
+   "crs": "CLN",
+   "name": "Chapeltown Rail Station"
+ },
+ {
+   "crs": "PEA",
+   "name": "Peartree Rail Station"
+ },
+ {
+   "crs": "ADV",
+   "name": "Andover Rail Station"
+ },
+ {
+   "crs": "ROM",
+   "name": "Romsey Rail Station"
+ },
+ {
+   "crs": "SHF",
+   "name": "Sheffield Rail Station"
+ },
+ {
+   "crs": "BEP",
+   "name": "Bermuda Park Rail Station"
+ },
+ {
+   "crs": "DBY",
+   "name": "Derby Rail Station"
+ },
+ {
+   "crs": "CRG",
+   "name": "Cross Gates Rail Station"
+ },
+ {
+   "crs": "BEH",
+   "name": "Bedworth Rail Station"
+ },
+ {
+   "crs": "NTR",
+   "name": "Northallerton Rail Station"
+ },
+ {
+   "crs": "NUN",
+   "name": "Nuneaton Rail Station"
+ },
+ {
+   "crs": "TTN",
+   "name": "Totton Rail Station"
+ },
+ {
+   "crs": "FIN",
+   "name": "Finstock Rail Station"
+ },
+ {
+   "crs": "WDS",
+   "name": "Woodlesford Rail Station"
+ },
+ {
+   "crs": "EBL",
+   "name": "East Boldon Rail Station"
+ },
+ {
+   "crs": "TEA",
+   "name": "Tees-side Airport Rail Station"
+ },
+ {
+   "crs": "RDB",
+   "name": "Redbridge (Hants) Rail Station"
+ },
+ {
+   "crs": "ELR",
+   "name": "Elsecar Rail Station"
+ },
+ {
+   "crs": "NOR",
+   "name": "Normanton Rail Station"
+ },
+ {
+   "crs": "KIT",
+   "name": "Kintbury Rail Station"
+ },
+ {
+   "crs": "CHD",
+   "name": "Chesterfield Rail Station"
+ },
+ {
+   "crs": "WOM",
+   "name": "Wombwell Rail Station"
+ },
+ {
+   "crs": "MHS",
+   "name": "Meadowhall Rail Station"
+ },
+ {
+   "crs": "DAN",
+   "name": "Darnall Rail Station"
+ },
+ {
+   "crs": "SEB",
+   "name": "Seaburn Rail Station"
+ },
+ {
+   "crs": "STZ",
+   "name": "St Peters Rail Station"
+ },
+ {
+   "crs": "SPO",
+   "name": "Spondon Rail Station"
+ },
+ {
+   "crs": "SUN",
+   "name": "Sunderland Rail Station"
+ },
+ {
+   "crs": "SHC",
+   "name": "Streethouse Rail Station"
+ },
+ {
+   "crs": "MBK",
+   "name": "Millbrook (Hants) Rail Station"
+ },
+ {
+   "crs": "GRF",
+   "name": "Garforth Rail Station"
+ },
+ {
+   "crs": "THI",
+   "name": "Thirsk Rail Station"
+ },
+ {
+   "crs": "SOU",
+   "name": "Southampton Central Rail Station"
+ },
+ {
+   "crs": "ALW",
+   "name": "Allens West Rail Station"
+ },
+ {
+   "crs": "FZW",
+   "name": "Fitzwilliam Rail Station"
+ },
+ {
+   "crs": "EGF",
+   "name": "East Garforth Rail Station"
+ },
+ {
+   "crs": "CME",
+   "name": "Combe (Oxon) Rail Station"
+ },
+ {
+   "crs": "STQ",
+   "name": "Southampton Town Quay"
+ },
+ {
+   "crs": "SEA",
+   "name": "Seaham Rail Station"
+ },
+ {
+   "crs": "YRM",
+   "name": "Yarm Rail Station"
+ },
+ {
+   "crs": "EAG",
+   "name": "Eaglescliffe Rail Station"
+ },
+ {
+   "crs": "ALF",
+   "name": "Alfreton Rail Station"
+ },
+ {
+   "crs": "FEA",
+   "name": "Featherstone Rail Station"
+ },
+ {
+   "crs": "RMC",
+   "name": "Rotherham Central Rail Station"
+ },
+ {
+   "crs": "CFD",
+   "name": "Castleford Rail Station"
+ },
+ {
+   "crs": "HNK",
+   "name": "Hinckley Rail Station"
+ },
+ {
+   "crs": "WDH",
+   "name": "Woodhouse Rail Station"
+ },
+ {
+   "crs": "SDN",
+   "name": "St Denys Rail Station"
+ },
+ {
+   "crs": "CFR",
+   "name": "Chandlers Ford Rail Station"
+ },
+ {
+   "crs": "HND",
+   "name": "Hanborough Rail Station"
+ },
+ {
+   "crs": "GLH",
+   "name": "Glasshoughton Rail Station"
+ },
+ {
+   "crs": "BTE",
+   "name": "Bitterne Rail Station"
+ },
+ {
+   "crs": "WLS",
+   "name": "Woolston Rail Station"
+ },
+ {
+   "crs": "SWG",
+   "name": "Swaythling Rail Station"
+ },
+ {
+   "crs": "STK",
+   "name": "Stockton Rail Station"
+ },
+ {
+   "crs": "MIK",
+   "name": "Micklefield Rail Station"
+ },
+ {
+   "crs": "CTL",
+   "name": "Cattal Rail Station"
+ },
+ {
+   "crs": "SHO",
+   "name": "Sholing Rail Station"
+ },
+ {
+   "crs": "SOA",
+   "name": "Southampton Airport Parkway Rail Station"
+ },
+ {
+   "crs": "LGM",
+   "name": "Langley Mill Rail Station"
+ },
+ {
+   "crs": "POT",
+   "name": "Pontefract Tanshelf Rail Station"
+ },
+ {
+   "crs": "TBY",
+   "name": "Thornaby Rail Station"
+ },
+ {
+   "crs": "GOE",
+   "name": "Goldthorpe Rail Station"
+ },
+ {
+   "crs": "ESL",
+   "name": "Eastleigh Rail Station"
+ },
+ {
+   "crs": "BTD",
+   "name": "Bolton-Upon-Dearne Rail Station"
+ },
+ {
+   "crs": "THC",
+   "name": "Thurnscoe Rail Station"
+ },
+ {
+   "crs": "PFM",
+   "name": "Pontefract Monkhill Rail Station"
+ },
+ {
+   "crs": "MRP",
+   "name": "Moorthorpe Rail Station"
+ },
+ {
+   "crs": "PFR",
+   "name": "Pontefract Baghill Rail Station"
+ },
+ {
+   "crs": "BAN",
+   "name": "Banbury Rail Station"
+ },
+ {
+   "crs": "SWN",
+   "name": "Swinton (South Yorks) Rail Station"
+ },
+ {
+   "crs": "WCH",
+   "name": "Whitchurch (Hants) Rail Station"
+ },
+ {
+   "crs": "NTL",
+   "name": "Netley Rail Station"
+ },
+ {
+   "crs": "BIL",
+   "name": "Billingham Rail Station"
+ },
+ {
+   "crs": "HMM",
+   "name": "Hammerton Rail Station"
+ },
+ {
+   "crs": "NBY",
+   "name": "Newbury Rail Station"
+ },
+ {
+   "crs": "SHW",
+   "name": "Shawford Rail Station"
+ },
+ {
+   "crs": "HME",
+   "name": "Hamble Rail Station"
+ },
+ {
+   "crs": "MEX",
+   "name": "Mexborough Rail Station"
+ },
+ {
+   "crs": "SES",
+   "name": "South Elmsall Rail Station"
+ },
+ {
+   "crs": "ILN",
+   "name": "Ilkeston Rail Station"
+ },
+ {
+   "crs": "WIN",
+   "name": "Winchester Rail Station"
+ },
+ {
+   "crs": "LGE",
+   "name": "Long Eaton Rail Station"
+ },
+ {
+   "crs": "NRC",
+   "name": "Newbury Racecourse Rail Station"
+ },
+ {
+   "crs": "HYD",
+   "name": "Heyford Rail Station"
+ },
+ {
+   "crs": "TAC",
+   "name": "Tackley Rail Station"
+ },
+ {
+   "crs": "KIV",
+   "name": "Kiveton Bridge Rail Station"
+ },
+ {
+   "crs": "BUO",
+   "name": "Bursledon Rail Station"
+ },
+ {
+   "crs": "KNO",
+   "name": "Knottingley Rail Station"
+ },
+ {
+   "crs": "KGS",
+   "name": "Kings Sutton Rail Station"
+ },
+ {
+   "crs": "SOM",
+   "name": "South Milford Rail Station"
+ },
+ {
+   "crs": "MBR",
+   "name": "Middlesbrough Rail Station"
+ },
+ {
+   "crs": "HDE",
+   "name": "Hedge End Rail Station"
+ },
+ {
+   "crs": "EMD",
+   "name": "East Midlands Parkway Rail Station"
+ },
+ {
+   "crs": "KKB",
+   "name": "Kirkby in Ashfield Rail Station"
+ },
+ {
+   "crs": "OPY",
+   "name": "Oxford Parkway Rail Station"
+ },
+ {
+   "crs": "OXF",
+   "name": "Oxford Rail Station"
+ },
+ {
+   "crs": "SPK",
+   "name": "Sutton Parkway Rail Station"
+ },
+ {
+   "crs": "SIE",
+   "name": "Sherburn-in-Elmet Rail Station"
+ },
+ {
+   "crs": "KVP",
+   "name": "Kiveton Park Rail Station"
+ },
+ {
+   "crs": "CNS",
+   "name": "Conisbrough Rail Station"
+ },
+ {
+   "crs": "CHF",
+   "name": "Church Fenton Rail Station"
+ },
+ {
+   "crs": "RUG",
+   "name": "Rugby Rail Station"
+ },
+ {
+   "crs": "HPL",
+   "name": "Hartlepool Rail Station"
+ },
+ {
+   "crs": "JCH",
+   "name": "James Cook University Hospital Rail Station"
+ },
+ {
+   "crs": "SEC",
+   "name": "Seaton Carew Rail Station"
+ },
+ {
+   "crs": "SNW",
+   "name": "Swanwick Rail Station"
+ },
+ {
+   "crs": "MIC",
+   "name": "Micheldever Rail Station"
+ },
+ {
+   "crs": "ATB",
+   "name": "Attenborough Rail Station"
+ },
+ {
+   "crs": "OVR",
+   "name": "Overton Rail Station"
+ },
+ {
+   "crs": "ULL",
+   "name": "Ulleskelf Rail Station"
+ },
+ {
+   "crs": "MTO",
+   "name": "Marton Rail Station"
+ },
+ {
+   "crs": "BOE",
+   "name": "Botley Rail Station"
+ },
+ {
+   "crs": "NSD",
+   "name": "Newstead Rail Station"
+ },
+ {
+   "crs": "CWD",
+   "name": "Creswell (Derbys) Rail Station"
+ },
+ {
+   "crs": "DID",
+   "name": "Didcot Parkway Rail Station"
+ },
+ {
+   "crs": "APF",
+   "name": "Appleford Rail Station"
+ },
+ {
+   "crs": "ISP",
+   "name": "Islip Rail Station"
+ },
+ {
+   "crs": "RAD",
+   "name": "Radley Rail Station"
+ },
+ {
+   "crs": "THA",
+   "name": "Thatcham Rail Station"
+ },
+ {
+   "crs": "LAG",
+   "name": "Langwith - Whaley Thorns Rail Station"
+ },
+ {
+   "crs": "CUM",
+   "name": "Culham Rail Station"
+ },
+ {
+   "crs": "GYP",
+   "name": "Gypsy Lane Rail Station"
+ },
+ {
+   "crs": "SBK",
+   "name": "South Bank Rail Station"
+ },
+ {
+   "crs": "BEE",
+   "name": "Beeston Rail Station"
+ },
+ {
+   "crs": "SHB",
+   "name": "Shirebrook Rail Station"
+ },
+ {
+   "crs": "WWL",
+   "name": "Whitwell (Derbys) Rail Station"
+ },
+ {
+   "crs": "MSW",
+   "name": "Mansfield Woodhouse Rail Station"
+ },
+ {
+   "crs": "MFT",
+   "name": "Mansfield Rail Station"
+ },
+ {
+   "crs": "NNT",
+   "name": "Nunthorpe Rail Station"
+ },
+ {
+   "crs": "HKN",
+   "name": "Hucknall Rail Station"
+ },
+ {
+   "crs": "BLW",
+   "name": "Bulwell Rail Station"
+ },
+ {
+   "crs": "NBR",
+   "name": "Narborough Rail Station"
+ },
+ {
+   "crs": "LBO",
+   "name": "Loughborough (Leics) Rail Station"
+ },
+ {
+   "crs": "AWK",
+   "name": "Adwick Rail Station"
+ },
+ {
+   "crs": "SRO",
+   "name": "Shireoaks Rail Station"
+ },
+ {
+   "crs": "WBD",
+   "name": "Whitley Bridge Rail Station"
+ },
+ {
+   "crs": "POP",
+   "name": "Poppleton Rail Station"
+ },
+ {
+   "crs": "BYK",
+   "name": "Bentley (S Yorks) Rail Station"
+ },
+ {
+   "crs": "FRM",
+   "name": "Fareham Rail Station"
+ },
+ {
+   "crs": "DON",
+   "name": "Doncaster Rail Station"
+ },
+ {
+   "crs": "MDG",
+   "name": "Midgham Rail Station"
+ },
+ {
+   "crs": "GTA",
+   "name": "Great Ayton Rail Station"
+ },
+ {
+   "crs": "RBS",
+   "name": "British Steel Redcar Rail Station"
+ },
+ {
+   "crs": "NOT",
+   "name": "Nottingham Rail Station"
+ },
+ {
+   "crs": "BWS",
+   "name": "Barrow upon Soar Rail Station"
+ },
+ {
+   "crs": "SHN",
+   "name": "Shanklin Rail Station"
+ },
+ {
+   "crs": "CHO",
+   "name": "Cholsey Rail Station"
+ },
+ {
+   "crs": "WRK",
+   "name": "Worksop Rail Station"
+ },
+ {
+   "crs": "BCS",
+   "name": "Bicester North Rail Station"
+ },
+ {
+   "crs": "HEL",
+   "name": "Hensall Rail Station"
+ },
+ {
+   "crs": "BIT",
+   "name": "Bicester Village Rail Station"
+ },
+ {
+   "crs": "SWS",
+   "name": "South Wigston Rail Station"
+ },
+ {
+   "crs": "BTT",
+   "name": "Battersby Rail Station"
+ },
+ {
+   "crs": "LKE",
+   "name": "Lake (Isle of Wight) Rail Station"
+ },
+ {
+   "crs": "LEI",
+   "name": "Leicester Rail Station"
+ },
+ {
+   "crs": "SAN",
+   "name": "Sandown Rail Station"
+ },
+ {
+   "crs": "RYP",
+   "name": "Ryde Pier Head Rail Station"
+ },
+ {
+   "crs": "RYD",
+   "name": "Ryde Esplanade Rail Station"
+ },
+ {
+   "crs": "YRK",
+   "name": "York Rail Station"
+ },
+ {
+   "crs": "RYR",
+   "name": "Ryde St Johns Road Rail Station"
+ },
+ {
+   "crs": "SAB",
+   "name": "Smallbrook Junction Rail Station"
+ },
+ {
+   "crs": "AMT",
+   "name": "Aldermaston Rail Station"
+ },
+ {
+   "crs": "RCC",
+   "name": "Redcar Central Rail Station"
+ },
+ {
+   "crs": "SIL",
+   "name": "Sileby Rail Station"
+ },
+ {
+   "crs": "GOR",
+   "name": "Goring & Streatley Rail Station"
+ },
+ {
+   "crs": "KLD",
+   "name": "Kildale Rail Station"
+ },
+ {
+   "crs": "BDN",
+   "name": "Brading Rail Station"
+ },
+ {
+   "crs": "RCE",
+   "name": "Redcar East Rail Station"
+ },
+ {
+   "crs": "KKS",
+   "name": "Kirk Sandall Rail Station"
+ },
+ {
+   "crs": "PTC",
+   "name": "Portchester Rail Station"
+ },
+ {
+   "crs": "SBY",
+   "name": "Selby Rail Station"
+ },
+ {
+   "crs": "NET",
+   "name": "Netherfield Rail Station"
+ },
+ {
+   "crs": "CTO",
+   "name": "Carlton Rail Station"
+ },
+ {
+   "crs": "SYS",
+   "name": "Syston Rail Station"
+ },
+ {
+   "crs": "LBK",
+   "name": "Long Buckby Rail Station"
+ },
+ {
+   "crs": "LGK",
+   "name": "Longbeck Rail Station"
+ },
+ {
+   "crs": "PMH",
+   "name": "Portsmouth Harbour Rail Station"
+ },
+ {
+   "crs": "PAN",
+   "name": "Pangbourne Rail Station"
+ },
+ {
+   "crs": "MSK",
+   "name": "Marske Rail Station"
+ },
+ {
+   "crs": "SHV",
+   "name": "Southsea Hoverport"
+ },
+ {
+   "crs": "BSK",
+   "name": "Basingstoke Rail Station"
+ },
+ {
+   "crs": "PMS",
+   "name": "Portsmouth & Southsea Rail Station"
+ },
+ {
+   "crs": "SNI",
+   "name": "Snaith Rail Station"
+ },
+ {
+   "crs": "THE",
+   "name": "Theale Rail Station"
+ },
+ {
+   "crs": "BUJ",
+   "name": "Burton Joyce Rail Station"
+ },
+ {
+   "crs": "HFS",
+   "name": "Hatfield & Stainforth Rail Station"
+ },
+ {
+   "crs": "RDF",
+   "name": "Radcliffe (Notts) Rail Station"
+ },
+ {
+   "crs": "FTN",
+   "name": "Fratton Rail Station"
+ },
+ {
+   "crs": "BMY",
+   "name": "Bramley (Hants) Rail Station"
+ },
+ {
+   "crs": "CSA",
+   "name": "Cosham Rail Station"
+ },
+ {
+   "crs": "HLS",
+   "name": "Hilsea Rail Station"
+ },
+ {
+   "crs": "SLB",
+   "name": "Saltburn Rail Station"
+ },
+ {
+   "crs": "COM",
+   "name": "Commondale Rail Station"
+ },
+ {
+   "crs": "MOR",
+   "name": "Mortimer Rail Station"
+ },
+ {
+   "crs": "LOW",
+   "name": "Lowdham Rail Station"
+ },
+ {
+   "crs": "TLH",
+   "name": "Tilehurst Rail Station"
+ },
+ {
+   "crs": "TNN",
+   "name": "Thorne North Rail Station"
+ },
+ {
+   "crs": "CSM",
+   "name": "Castleton Moor Rail Station"
+ },
+ {
+   "crs": "RWC",
+   "name": "Rawcliffe Rail Station"
+ },
+ {
+   "crs": "TNS",
+   "name": "Thorne South Rail Station"
+ },
+ {
+   "crs": "THU",
+   "name": "Thurgarton Rail Station"
+ },
+ {
+   "crs": "RET",
+   "name": "Retford Rail Station"
+ },
+ {
+   "crs": "RDW",
+   "name": "Reading West Rail Station"
+ },
+ {
+   "crs": "REL",
+   "name": "Retford Low Level Rail Station"
+ },
+ {
+   "crs": "BIN",
+   "name": "Bingham Rail Station"
+ },
+ {
+   "crs": "DNY",
+   "name": "Danby Rail Station"
+ },
+ {
+   "crs": "BDH",
+   "name": "Bedhampton Rail Station"
+ },
+ {
+   "crs": "BSB",
+   "name": "Bleasby Rail Station"
+ },
+ {
+   "crs": "WRS",
+   "name": "Wressle Rail Station"
+ },
+ {
+   "crs": "RDG",
+   "name": "Reading Rail Station"
+ },
+ {
+   "crs": "RDG",
+   "name": "Reading Rail Station"
+ },
+ {
+   "crs": "RBU",
+   "name": "Reading Rail Station"
+ },
+ {
+   "crs": "HAV",
+   "name": "Havant Rail Station"
+ },
+ {
+   "crs": "AON",
+   "name": "Alton Rail Station"
+ },
+ {
+   "crs": "HOK",
+   "name": "Hook Rail Station"
+ },
+ {
+   "crs": "WBL",
+   "name": "Warblington Rail Station"
+ },
+ {
+   "crs": "FSK",
+   "name": "Fiskerton Rail Station"
+ },
+ {
+   "crs": "HDM",
+   "name": "Haddenham & Thame Parkway Rail Station"
+ },
+ {
+   "crs": "RLN",
+   "name": "Rowlands Castle Rail Station"
+ },
+ {
+   "crs": "ROL",
+   "name": "Rolleston Rail Station"
+ },
+ {
+   "crs": "ALK",
+   "name": "Aslockton Rail Station"
+ },
+ {
+   "crs": "MHR",
+   "name": "Market Harborough Rail Station"
+ },
+ {
+   "crs": "PTR",
+   "name": "Petersfield Rail Station"
+ },
+ {
+   "crs": "GOO",
+   "name": "Goole Rail Station"
+ },
+ {
+   "crs": "NMP",
+   "name": "Northampton Rail Station"
+ },
+ {
+   "crs": "EMS",
+   "name": "Emsworth Rail Station"
+ },
+ {
+   "crs": "HOW",
+   "name": "Howden Rail Station"
+ },
+ {
+   "crs": "MMO",
+   "name": "Melton Mowbray Rail Station"
+ },
+ {
+   "crs": "EAR",
+   "name": "Earley Rail Station"
+ },
+ {
+   "crs": "LHM",
+   "name": "Lealholm Rail Station"
+ },
+ {
+   "crs": "WNF",
+   "name": "Winchfield Rail Station"
+ },
+ {
+   "crs": "HOT",
+   "name": "Henley-on-Thames Rail Station"
+ },
+ {
+   "crs": "SOB",
+   "name": "Southbourne Rail Station"
+ },
+ {
+   "crs": "ELO",
+   "name": "Elton & Orston Rail Station"
+ },
+ {
+   "crs": "WTI",
+   "name": "Winnersh Triangle Rail Station"
+ },
+ {
+   "crs": "SHI",
+   "name": "Shiplake Rail Station"
+ },
+ {
+   "crs": "LIS",
+   "name": "Liss Rail Station"
+ },
+ {
+   "crs": "WGV",
+   "name": "Wargrave Rail Station"
+ },
+ {
+   "crs": "WNS",
+   "name": "Winnersh Rail Station"
+ },
+ {
+   "crs": "GLS",
+   "name": "Glaisdale Rail Station"
+ },
+ {
+   "crs": "CWE",
+   "name": "Crowle Rail Station"
+ },
+ {
+   "crs": "AVP",
+   "name": "Aylesbury Vale Parkway Rail Station"
+ },
+ {
+   "crs": "SAM",
+   "name": "Saltmarshe Rail Station"
+ },
+ {
+   "crs": "MLT",
+   "name": "Malton Rail Station"
+ },
+ {
+   "crs": "NUT",
+   "name": "Nutbourne Rail Station"
+ },
+ {
+   "crs": "TWY",
+   "name": "Twyford Rail Station"
+ },
+ {
+   "crs": "BTY",
+   "name": "Bentley (Hants) Rail Station"
+ },
+ {
+   "crs": "NCT",
+   "name": "Newark Castle Rail Station"
+ },
+ {
+   "crs": "PRR",
+   "name": "Princes Risborough Rail Station"
+ },
+ {
+   "crs": "EGN",
+   "name": "Eastrington Rail Station"
+ },
+ {
+   "crs": "EGT",
+   "name": "Egton Rail Station"
+ },
+ {
+   "crs": "NNG",
+   "name": "Newark North Gate Rail Station"
+ },
+ {
+   "crs": "WKM",
+   "name": "Wokingham Rail Station"
+ },
+ {
+   "crs": "MRS",
+   "name": "Monks Risborough Rail Station"
+ },
+ {
+   "crs": "BTF",
+   "name": "Bottesford Rail Station"
+ },
+ {
+   "crs": "BOH",
+   "name": "Bosham Rail Station"
+ },
+ {
+   "crs": "SDR",
+   "name": "Saunderton Rail Station"
+ },
+ {
+   "crs": "FLE",
+   "name": "Fleet Rail Station"
+ },
+ {
+   "crs": "AYS",
+   "name": "Aylesbury Rail Station"
+ },
+ {
+   "crs": "GNB",
+   "name": "Gainsborough Central Rail Station"
+ },
+ {
+   "crs": "GBL",
+   "name": "Gainsborough Lea Road Rail Station"
+ },
+ {
+   "crs": "WOL",
+   "name": "Wolverton Rail Station"
+ },
+ {
+   "crs": "CRN",
+   "name": "Crowthorne Rail Station"
+ },
+ {
+   "crs": "LTK",
+   "name": "Little Kimble Rail Station"
+ },
+ {
+   "crs": "GMT",
+   "name": "Grosmont Rail Station"
+ },
+ {
+   "crs": "SND",
+   "name": "Sandhurst Rail Station"
+ },
+ {
+   "crs": "FSB",
+   "name": "Fishbourne Rail Station"
+ },
+ {
+   "crs": "CLM",
+   "name": "Collingham Rail Station"
+ },
+ {
+   "crs": "GBD",
+   "name": "Gilberdyke Rail Station"
+ },
+ {
+   "crs": "ALP",
+   "name": "Althorpe Rail Station"
+ },
+ {
+   "crs": "SKM",
+   "name": "Stoke Mandeville Rail Station"
+ },
+ {
+   "crs": "LIP",
+   "name": "Liphook Rail Station"
+ },
+ {
+   "crs": "MKC",
+   "name": "Milton Keynes Central Rail Station"
+ },
+ {
+   "crs": "FNH",
+   "name": "Farnham Rail Station"
+ },
+ {
+   "crs": "BAW",
+   "name": "Blackwater Rail Station"
+ },
+ {
+   "crs": "MLW",
+   "name": "Marlow Rail Station"
+ },
+ {
+   "crs": "OKM",
+   "name": "Oakham Rail Station"
+ },
+ {
+   "crs": "CCH",
+   "name": "Chichester Rail Station"
+ },
+ {
+   "crs": "KET",
+   "name": "Kettering Rail Station"
+ },
+ {
+   "crs": "WND",
+   "name": "Wendover Rail Station"
+ },
+ {
+   "crs": "AHT",
+   "name": "Aldershot Rail Station"
+ },
+ {
+   "crs": "SLH",
+   "name": "Sleights Rail Station"
+ },
+ {
+   "crs": "SWD",
+   "name": "Swinderby Rail Station"
+ },
+ {
+   "crs": "FNB",
+   "name": "Farnborough (Main) Rail Station"
+ },
+ {
+   "crs": "BLY",
+   "name": "Bletchley Rail Station"
+ },
+ {
+   "crs": "BCE",
+   "name": "Bracknell Rail Station"
+ },
+ {
+   "crs": "HWY",
+   "name": "High Wycombe Rail Station"
+ },
+ {
+   "crs": "FML",
+   "name": "Frimley Rail Station"
+ },
+ {
+   "crs": "CAM",
+   "name": "Camberley Rail Station"
+ },
+ {
+   "crs": "BMF",
+   "name": "Broomfleet Rail Station"
+ },
+ {
+   "crs": "FNN",
+   "name": "Farnborough North Rail Station"
+ },
+ {
+   "crs": "FEN",
+   "name": "Fenny Stratford Rail Station"
+ },
+ {
+   "crs": "FZP",
+   "name": "Furze Platt Rail Station"
+ },
+ {
+   "crs": "NCM",
+   "name": "North Camp Rail Station"
+ },
+ {
+   "crs": "COO",
+   "name": "Cookham Rail Station"
+ },
+ {
+   "crs": "MAI",
+   "name": "Maidenhead Rail Station"
+ },
+ {
+   "crs": "MAO",
+   "name": "Martins Heron Rail Station"
+ },
+ {
+   "crs": "RUS",
+   "name": "Ruswarp Rail Station"
+ },
+ {
+   "crs": "COR",
+   "name": "Corby Rail Station"
+ },
+ {
+   "crs": "SXY",
+   "name": "Saxilby Rail Station"
+ },
+ {
+   "crs": "AHV",
+   "name": "Ash Vale Rail Station"
+ },
+ {
+   "crs": "GMN",
+   "name": "Great Missenden Rail Station"
+ },
+ {
+   "crs": "SCU",
+   "name": "Scunthorpe Rail Station"
+ },
+ {
+   "crs": "BNE",
+   "name": "Bourne End Rail Station"
+ },
+ {
+   "crs": "BWB",
+   "name": "Bow Brickhill Rail Station"
+ },
+ {
+   "crs": "WTB",
+   "name": "Whitby Rail Station"
+ },
+ {
+   "crs": "HSL",
+   "name": "Haslemere Rail Station"
+ },
+ {
+   "crs": "ASH",
+   "name": "Ash Rail Station"
+ },
+ {
+   "crs": "WEL",
+   "name": "Wellingborough Rail Station"
+ },
+ {
+   "crs": "LBZ",
+   "name": "Leighton Buzzard Rail Station"
+ },
+ {
+   "crs": "BAG",
+   "name": "Bagshot Rail Station"
+ },
+ {
+   "crs": "GRA",
+   "name": "Grantham Rail Station"
+ },
+ {
+   "crs": "TAP",
+   "name": "Taplow Rail Station"
+ },
+ {
+   "crs": "ACT",
+   "name": "Ascot Rail Station"
+ },
+ {
+   "crs": "CED",
+   "name": "Cheddington Rail Station"
+ },
+ {
+   "crs": "WOB",
+   "name": "Woburn Sands Rail Station"
+ },
+ {
+   "crs": "WAN",
+   "name": "Wanborough Rail Station"
+ },
+ {
+   "crs": "KTL",
+   "name": "Kirton Lindsey Rail Station"
+ },
+ {
+   "crs": "BOG",
+   "name": "Bognor Regis Rail Station"
+ },
+ {
+   "crs": "HKM",
+   "name": "Hykeham Rail Station"
+ },
+ {
+   "crs": "BUH",
+   "name": "Brough Rail Station"
+ },
+ {
+   "crs": "APG",
+   "name": "Aspley Guise Rail Station"
+ },
+ {
+   "crs": "BCF",
+   "name": "Beaconsfield Rail Station"
+ },
+ {
+   "crs": "BNM",
+   "name": "Burnham (Berks) Rail Station"
+ },
+ {
+   "crs": "WTY",
+   "name": "Witley Rail Station"
+ },
+ {
+   "crs": "TRI",
+   "name": "Tring Rail Station"
+ },
+ {
+   "crs": "BKO",
+   "name": "Brookwood Rail Station"
+ },
+ {
+   "crs": "SNG",
+   "name": "Sunningdale Rail Station"
+ },
+ {
+   "crs": "MLF",
+   "name": "Milford (Surrey) Rail Station"
+ },
+ {
+   "crs": "BAA",
+   "name": "Barnham Rail Station"
+ },
+ {
+   "crs": "AMR",
+   "name": "Amersham Rail Station"
+ },
+ {
+   "crs": "SRG",
+   "name": "Seer Green Rail Station"
+ },
+ {
+   "crs": "RID",
+   "name": "Ridgmont Rail Station"
+ },
+ {
+   "crs": "WNC",
+   "name": "Windsor & Eton Central Rail Station"
+ },
+ {
+   "crs": "GOD",
+   "name": "Godalming Rail Station"
+ },
+ {
+   "crs": "WNR",
+   "name": "Windsor & Eton Riverside Rail Station"
+ },
+ {
+   "crs": "LCN",
+   "name": "Lincoln Central Rail Station"
+ },
+ {
+   "crs": "FNC",
+   "name": "Farncombe Rail Station"
+ },
+ {
+   "crs": "SLO",
+   "name": "Slough Rail Station"
+ },
+ {
+   "crs": "LNG",
+   "name": "Longcross Rail Station"
+ },
+ {
+   "crs": "ANC",
+   "name": "Ancaster Rail Station"
+ },
+ {
+   "crs": "FRY",
+   "name": "Ferriby Rail Station"
+ },
+ {
+   "crs": "DAT",
+   "name": "Datchet Rail Station"
+ },
+ {
+   "crs": "LID",
+   "name": "Lidlington Rail Station"
+ },
+ {
+   "crs": "WPL",
+   "name": "Worplesdon Rail Station"
+ },
+ {
+   "crs": "GLD",
+   "name": "Guildford Rail Station"
+ },
+ {
+   "crs": "BKM",
+   "name": "Berkhamsted Rail Station"
+ },
+ {
+   "crs": "CFO",
+   "name": "Chalfont & Latimer Rail Station"
+ },
+ {
+   "crs": "VIR",
+   "name": "Virginia Water Rail Station"
+ },
+ {
+   "crs": "SNY",
+   "name": "Sunnymeads Rail Station"
+ },
+ {
+   "crs": "GER",
+   "name": "Gerrards Cross Rail Station"
+ },
+ {
+   "crs": "SFR",
+   "name": "Shalford (Surrey) Rail Station"
+ },
+ {
+   "crs": "FOD",
+   "name": "Ford Rail Station"
+ },
+ {
+   "crs": "LRD",
+   "name": "London Road (Guildford) Rail Station"
+ },
+ {
+   "crs": "BGG",
+   "name": "Brigg Rail Station"
+ },
+ {
+   "crs": "WOK",
+   "name": "Woking Rail Station"
+ },
+ {
+   "crs": "MLB",
+   "name": "Millbrook (Beds) Rail Station"
+ },
+ {
+   "crs": "EGH",
+   "name": "Egham Rail Station"
+ },
+ {
+   "crs": "LNY",
+   "name": "Langley (Berks) Rail Station"
+ },
+ {
+   "crs": "WRY",
+   "name": "Wraysbury Rail Station"
+ },
+ {
+   "crs": "SWR",
+   "name": "Stewartby Rail Station"
+ },
+ {
+   "crs": "ARU",
+   "name": "Arundel Rail Station"
+ },
+ {
+   "crs": "LIT",
+   "name": "Littlehampton Rail Station"
+ },
+ {
+   "crs": "KMH",
+   "name": "Kempston Hardwick Rail Station"
+ },
+ {
+   "crs": "CLW",
+   "name": "Chorleywood Rail Station"
+ },
+ {
+   "crs": "AMY",
+   "name": "Amberley Rail Station"
+ },
+ {
+   "crs": "DRF",
+   "name": "Driffield Rail Station"
+ },
+ {
+   "crs": "DGC",
+   "name": "Denham Golf Club Rail Station"
+ },
+ {
+   "crs": "HUT",
+   "name": "Hutton Cranswick Rail Station"
+ },
+ {
+   "crs": "BAU",
+   "name": "Barton-on-Humber Rail Station"
+ },
+ {
+   "crs": "HES",
+   "name": "Hessle Rail Station"
+ },
+ {
+   "crs": "SMD",
+   "name": "Stamford Rail Station"
+ },
+ {
+   "crs": "CHL",
+   "name": "Chilworth Rail Station"
+ },
+ {
+   "crs": "SEM",
+   "name": "Seamer Rail Station"
+ },
+ {
+   "crs": "FLT",
+   "name": "Flitwick Rail Station"
+ },
+ {
+   "crs": "HLN",
+   "name": "Harlington (Beds) Rail Station"
+ },
+ {
+   "crs": "ARR",
+   "name": "Arram Rail Station"
+ },
+ {
+   "crs": "RAU",
+   "name": "Rauceby Rail Station"
+ },
+ {
+   "crs": "IVR",
+   "name": "Iver Rail Station"
+ },
+ {
+   "crs": "CHY",
+   "name": "Chertsey Rail Station"
+ },
+ {
+   "crs": "BEV",
+   "name": "Beverley Rail Station"
+ },
+ {
+   "crs": "SCA",
+   "name": "Scarborough Rail Station"
+ },
+ {
+   "crs": "SNS",
+   "name": "Staines Rail Station"
+ },
+ {
+   "crs": "BDM",
+   "name": "Bedford Rail Station"
+ },
+ {
+   "crs": "WBY",
+   "name": "West Byfleet Rail Station"
+ },
+ {
+   "crs": "DNM",
+   "name": "Denham Rail Station"
+ },
+ {
+   "crs": "PUL",
+   "name": "Pulborough Rail Station"
+ },
+ {
+   "crs": "HML",
+   "name": "Hemel Hempstead Rail Station"
+ },
+ {
+   "crs": "CLA",
+   "name": "Clandon Rail Station"
+ },
+ {
+   "crs": "HWV",
+   "name": "Heathrow Terminal 5 Rail Station"
+ },
+ {
+   "crs": "BSJ",
+   "name": "Bedford St Johns Rail Station"
+ },
+ {
+   "crs": "HWX",
+   "name": "Heathrow Airport Terminal 5"
+ },
+ {
+   "crs": "CGM",
+   "name": "Cottingham Rail Station"
+ },
+ {
+   "crs": "BTB",
+   "name": "Barnetby Rail Station"
+ },
+ {
+   "crs": "ASN",
+   "name": "Addlestone Rail Station"
+ },
+ {
+   "crs": "RIC",
+   "name": "Rickmansworth Rail Station"
+ },
+ {
+   "crs": "BFN",
+   "name": "Byfleet & New Haw Rail Station"
+ },
+ {
+   "crs": "NFN",
+   "name": "Nafferton Rail Station"
+ },
+ {
+   "crs": "WDT",
+   "name": "West Drayton Rail Station"
+ },
+ {
+   "crs": "LEA",
+   "name": "Leagrave Rail Station"
+ },
+ {
+   "crs": "BAV",
+   "name": "Barrow Haven Rail Station"
+ },
+ {
+   "crs": "APS",
+   "name": "Apsley Rail Station"
+ },
+ {
+   "crs": "ANG",
+   "name": "Angmering Rail Station"
+ },
+ {
+   "crs": "AFS",
+   "name": "Ashford (Surrey) Rail Station"
+ },
+ {
+   "crs": "SLR",
+   "name": "Sleaford Rail Station"
+ },
+ {
+   "crs": "LHR",
+   "name": "Heathrow Terminals 1-3 Rail Station"
+ },
+ {
+   "crs": "WYB",
+   "name": "Weybridge Rail Station"
+ },
+ {
+   "crs": "WYB",
+   "name": "Weybridge Rail Station"
+ },
+ {
+   "crs": "HTR",
+   "name": "Heathrow Airport Central Bus Stn (Rail-Air)"
+ },
+ {
+   "crs": "MGM",
+   "name": "Metheringham Rail Station"
+ },
+ {
+   "crs": "HWF",
+   "name": "Heathrow Terminal 4 (Rail-Air)"
+ },
+ {
+   "crs": "KGL",
+   "name": "Kings Langley Rail Station"
+ },
+ {
+   "crs": "HAF",
+   "name": "Heathrow Terminal 4 Rail Station"
+ },
+ {
+   "crs": "SHP",
+   "name": "Shepperton Rail Station"
+ },
+ {
+   "crs": "NHL",
+   "name": "New Holland Rail Station"
+ },
+ {
+   "crs": "WRU",
+   "name": "West Ruislip Rail Station"
+ },
+ {
+   "crs": "RKT",
+   "name": "Ruskington Rail Station"
+ },
+ {
+   "crs": "BIG",
+   "name": "Billingshurst Rail Station"
+ },
+ {
+   "crs": "GOM",
+   "name": "Gomshall Rail Station"
+ },
+ {
+   "crs": "HUL",
+   "name": "Hull Rail Station"
+ },
+ {
+   "crs": "UPH",
+   "name": "Upper Halliford Rail Station"
+ },
+ {
+   "crs": "HSY",
+   "name": "Horsley Rail Station"
+ },
+ {
+   "crs": "LUT",
+   "name": "Luton Rail Station"
+ },
+ {
+   "crs": "HAY",
+   "name": "Hayes & Harlington Rail Station"
+ },
+ {
+   "crs": "GOX",
+   "name": "Goxhill Rail Station"
+ },
+ {
+   "crs": "HUB",
+   "name": "Hunmanby Rail Station"
+ },
+ {
+   "crs": "SUU",
+   "name": "Sunbury Rail Station"
+ },
+ {
+   "crs": "EFF",
+   "name": "Effingham Junction Rail Station"
+ },
+ {
+   "crs": "WAL",
+   "name": "Walton-on-Thames Rail Station"
+ },
+ {
+   "crs": "GBS",
+   "name": "Goring-by-Sea Rail Station"
+ },
+ {
+   "crs": "LTN",
+   "name": "Luton Airport Parkway Rail Station"
+ },
+ {
+   "crs": "FEL",
+   "name": "Feltham Rail Station"
+ },
+ {
+   "crs": "KMP",
+   "name": "Kempton Park Rail Station"
+ },
+ {
+   "crs": "MKR",
+   "name": "Market Rasen Rail Station"
+ },
+ {
+   "crs": "TNA",
+   "name": "Thornton Abbey Rail Station"
+ },
+ {
+   "crs": "WFJ",
+   "name": "Watford Junction Rail Station"
+ },
+ {
+   "crs": "WFJ",
+   "name": "Watford Junction Rail Station"
+ },
+ {
+   "crs": "SRU",
+   "name": "South Ruislip Rail Station"
+ },
+ {
+   "crs": "WFH",
+   "name": "Watford High Street Rail Station"
+ },
+ {
+   "crs": "FIL",
+   "name": "Filey Rail Station"
+ },
+ {
+   "crs": "WFN",
+   "name": "Watford North Rail Station"
+ },
+ {
+   "crs": "BSH",
+   "name": "Bushey Rail Station"
+ },
+ {
+   "crs": "CPK",
+   "name": "Carpenders Park Rail Station"
+ },
+ {
+   "crs": "BSH",
+   "name": "Bushey Rail Station"
+ },
+ {
+   "crs": "GSN",
+   "name": "Garston (Herts) Rail Station"
+ },
+ {
+   "crs": "DUR",
+   "name": "Durrington-on-Sea Rail Station"
+ },
+ {
+   "crs": "HER",
+   "name": "Hersham Rail Station"
+ },
+ {
+   "crs": "CSD",
+   "name": "Cobham & Stoke d'Abernon Rail Station"
+ },
+ {
+   "crs": "ULC",
+   "name": "Ulceby Rail Station"
+ },
+ {
+   "crs": "STL",
+   "name": "Southall Rail Station"
+ },
+ {
+   "crs": "BKA",
+   "name": "Bookham Rail Station"
+ },
+ {
+   "crs": "HTE",
+   "name": "Hatch End Rail Station"
+ },
+ {
+   "crs": "HMP",
+   "name": "Hampton (London) Rail Station"
+ },
+ {
+   "crs": "WWO",
+   "name": "West Worthing Rail Station"
+ },
+ {
+   "crs": "BWO",
+   "name": "Bricket Wood Rail Station"
+ },
+ {
+   "crs": "HPD",
+   "name": "Harpenden Rail Station"
+ },
+ {
+   "crs": "NLT",
+   "name": "Northolt Park Rail Station"
+ },
+ {
+   "crs": "HDL",
+   "name": "Headstone Lane Rail Station"
+ },
+ {
+   "crs": "HOU",
+   "name": "Hounslow Rail Station"
+ },
+ {
+   "crs": "OXS",
+   "name": "Oxshott Rail Station"
+ },
+ {
+   "crs": "WTN",
+   "name": "Whitton Rail Station"
+ },
+ {
+   "crs": "HWW",
+   "name": "How Wood (Herts) Rail Station"
+ },
+ {
+   "crs": "WRH",
+   "name": "Worthing Rail Station"
+ },
+ {
+   "crs": "SAA",
+   "name": "St Albans Abbey Rail Station"
+ },
+ {
+   "crs": "HAB",
+   "name": "Habrough Rail Station"
+ },
+ {
+   "crs": "HEC",
+   "name": "Heckington Rail Station"
+ },
+ {
+   "crs": "ESH",
+   "name": "Esher Rail Station"
+ },
+ {
+   "crs": "PKT",
+   "name": "Park Street Rail Station"
+ },
+ {
+   "crs": "CHH",
+   "name": "Christs Hospital Rail Station"
+ },
+ {
+   "crs": "GFD",
+   "name": "Greenford Rail Station"
+ },
+ {
+   "crs": "FLW",
+   "name": "Fulwell Rail Station"
+ },
+ {
+   "crs": "CLG",
+   "name": "Claygate Rail Station"
+ },
+ {
+   "crs": "HOH",
+   "name": "Harrow-on-the-Hill Rail Station"
+ },
+ {
+   "crs": "HMC",
+   "name": "Hampton Court Rail Station"
+ },
+ {
+   "crs": "HAN",
+   "name": "Hanwell Rail Station"
+ },
+ {
+   "crs": "HRW",
+   "name": "Harrow & Wealdstone Rail Station"
+ },
+ {
+   "crs": "HRW",
+   "name": "Harrow & Wealdstone Rail Station"
+ },
+ {
+   "crs": "SDH",
+   "name": "Sudbury Hill Harrow Rail Station"
+ },
+ {
+   "crs": "SGN",
+   "name": "South Greenford Rail Station"
+ },
+ {
+   "crs": "STW",
+   "name": "Strawberry Hill Rail Station"
+ },
+ {
+   "crs": "SAC",
+   "name": "St Albans City Rail Station"
+ },
+ {
+   "crs": "HYW",
+   "name": "Hinchley Wood Rail Station"
+ },
+ {
+   "crs": "ISL",
+   "name": "Isleworth Rail Station"
+ },
+ {
+   "crs": "THD",
+   "name": "Thames Ditton Rail Station"
+ },
+ {
+   "crs": "CBP",
+   "name": "Castle Bar Park Rail Station"
+ },
+ {
+   "crs": "DRG",
+   "name": "Drayton Green Rail Station"
+ },
+ {
+   "crs": "EWR",
+   "name": "East Worthing Rail Station"
+ },
+ {
+   "crs": "DKT",
+   "name": "Dorking West Rail Station"
+ },
+ {
+   "crs": "TED",
+   "name": "Teddington Rail Station"
+ },
+ {
+   "crs": "TWI",
+   "name": "Twickenham Rail Station"
+ },
+ {
+   "crs": "LHD",
+   "name": "Leatherhead Rail Station"
+ },
+ {
+   "crs": "SYL",
+   "name": "Syon Lane Rail Station"
+ },
+ {
+   "crs": "RDT",
+   "name": "Radlett Rail Station"
+ },
+ {
+   "crs": "OLY",
+   "name": "Ockley Rail Station"
+ },
+ {
+   "crs": "WEA",
+   "name": "West Ealing Rail Station"
+ },
+ {
+   "crs": "KNT",
+   "name": "Kenton Rail Station"
+ },
+ {
+   "crs": "BXW",
+   "name": "Box Hill & Westhumble Rail Station"
+ },
+ {
+   "crs": "SMG",
+   "name": "St Margarets (London) Rail Station"
+ },
+ {
+   "crs": "SUD",
+   "name": "Sudbury & Harrow Road Rail Station"
+ },
+ {
+   "crs": "DPD",
+   "name": "Dorking Deepdene Rail Station"
+ },
+ {
+   "crs": "DKG",
+   "name": "Dorking Rail Station"
+ },
+ {
+   "crs": "WNH",
+   "name": "Warnham Rail Station"
+ },
+ {
+   "crs": "SOK",
+   "name": "South Kenton Rail Station"
+ },
+ {
+   "crs": "HMW",
+   "name": "Hampton Wick Rail Station"
+ },
+ {
+   "crs": "BFD",
+   "name": "Brentford Rail Station"
+ },
+ {
+   "crs": "HLM",
+   "name": "Holmwood Rail Station"
+ },
+ {
+   "crs": "NWB",
+   "name": "North Wembley Rail Station"
+ },
+ {
+   "crs": "SDY",
+   "name": "Sandy Rail Station"
+ },
+ {
+   "crs": "HRH",
+   "name": "Horsham Rail Station"
+ },
+ {
+   "crs": "CSS",
+   "name": "Chessington South Rail Station"
+ },
+ {
+   "crs": "BDT",
+   "name": "Bridlington Rail Station"
+ },
+ {
+   "crs": "EAL",
+   "name": "Ealing Broadway Rail Station"
+ },
+ {
+   "crs": "AHD",
+   "name": "Ashtead Rail Station"
+ },
+ {
+   "crs": "RMD",
+   "name": "Richmond (London) Rail Station"
+ },
+ {
+   "crs": "RMD",
+   "name": "Richmond NLL Rail Station"
+ },
+ {
+   "crs": "SUR",
+   "name": "Surbiton Rail Station"
+ },
+ {
+   "crs": "LAC",
+   "name": "Lancing Rail Station"
+ },
+ {
+   "crs": "WMB",
+   "name": "Wembley Central Rail Station"
+ },
+ {
+   "crs": "WMB",
+   "name": "Wembley Central Rail Station"
+ },
+ {
+   "crs": "KNG",
+   "name": "Kingston Rail Station"
+ },
+ {
+   "crs": "CSN",
+   "name": "Chessington North Rail Station"
+ },
+ {
+   "crs": "LVN",
+   "name": "Littlehaven Rail Station"
+ },
+ {
+   "crs": "PBO",
+   "name": "Peterborough Rail Station"
+ },
+ {
+   "crs": "WCX",
+   "name": "Wembley Stadium Rail Station"
+ },
+ {
+   "crs": "BEM",
+   "name": "Bempton Rail Station"
+ },
+ {
+   "crs": "KWB",
+   "name": "Kew Bridge Rail Station"
+ },
+ {
+   "crs": "NSH",
+   "name": "North Sheen Rail Station"
+ },
+ {
+   "crs": "ARL",
+   "name": "Arlesey Rail Station"
+ },
+ {
+   "crs": "ELS",
+   "name": "Elstree & Borehamwood Rail Station"
+ },
+ {
+   "crs": "KWG",
+   "name": "Kew Gardens Rail Station"
+ },
+ {
+   "crs": "BIW",
+   "name": "Biggleswade Rail Station"
+ },
+ {
+   "crs": "HIT",
+   "name": "Hitchin Rail Station"
+ },
+ {
+   "crs": "NBT",
+   "name": "Norbiton Rail Station"
+ },
+ {
+   "crs": "SBP",
+   "name": "Stonebridge Park Rail Station"
+ },
+ {
+   "crs": "BRS",
+   "name": "Berrylands Rail Station"
+ },
+ {
+   "crs": "SNO",
+   "name": "St Neots Rail Station"
+ },
+ {
+   "crs": "GUN",
+   "name": "Gunnersbury Rail Station"
+ },
+ {
+   "crs": "TOL",
+   "name": "Tolworth Rail Station"
+ },
+ {
+   "crs": "SAT",
+   "name": "South Acton Rail Station"
+ },
+ {
+   "crs": "SLL",
+   "name": "Stallingborough Rail Station"
+ },
+ {
+   "crs": "AML",
+   "name": "Acton Main Line Rail Station"
+ },
+ {
+   "crs": "CHK",
+   "name": "Chiswick Rail Station"
+ },
+ {
+   "crs": "MTL",
+   "name": "Mortlake Rail Station"
+ },
+ {
+   "crs": "ACC",
+   "name": "Acton Central Rail Station"
+ },
+ {
+   "crs": "EPS",
+   "name": "Epsom Rail Station"
+ },
+ {
+   "crs": "HDN",
+   "name": "Harlesden Rail Station"
+ },
+ {
+   "crs": "BTO",
+   "name": "Betchworth Rail Station"
+ },
+ {
+   "crs": "MAL",
+   "name": "Malden Manor Rail Station"
+ },
+ {
+   "crs": "MIL",
+   "name": "Mill Hill Broadway Rail Station"
+ },
+ {
+   "crs": "NEM",
+   "name": "New Malden Rail Station"
+ },
+ {
+   "crs": "BNI",
+   "name": "Barnes Bridge Rail Station"
+ },
+ {
+   "crs": "EWW",
+   "name": "Ewell West Rail Station"
+ },
+ {
+   "crs": "LET",
+   "name": "Letchworth Rail Station"
+ },
+ {
+   "crs": "FGT",
+   "name": "Faygate Rail Station"
+ },
+ {
+   "crs": "SSE",
+   "name": "Shoreham-by-Sea (Sussex) Rail Station"
+ },
+ {
+   "crs": "SWE",
+   "name": "Swineshead Rail Station"
+ },
+ {
+   "crs": "WIJ",
+   "name": "Willesden Junction Rail Station"
+ },
+ {
+   "crs": "HLI",
+   "name": "Healing Rail Station"
+ },
+ {
+   "crs": "WIJ",
+   "name": "Willesden Junction Low Level Rail Station"
+ },
+ {
+   "crs": "SNL",
+   "name": "Stoneleigh Rail Station"
+ },
+ {
+   "crs": "HEN",
+   "name": "Hendon Rail Station"
+ },
+ {
+   "crs": "BNS",
+   "name": "Barnes Rail Station"
+ },
+ {
+   "crs": "WCP",
+   "name": "Worcester Park Rail Station"
+ },
+ {
+   "crs": "EWE",
+   "name": "Ewell East Rail Station"
+ },
+ {
+   "crs": "MOT",
+   "name": "Motspur Park Rail Station"
+ },
+ {
+   "crs": "TAT",
+   "name": "Tattenham Corner Rail Station"
+ },
+ {
+   "crs": "EPD",
+   "name": "Epsom Downs Rail Station"
+ },
+ {
+   "crs": "TAD",
+   "name": "Tadworth Rail Station"
+ },
+ {
+   "crs": "RAY",
+   "name": "Raynes Park Rail Station"
+ },
+ {
+   "crs": "KNL",
+   "name": "Kensal Green Rail Station"
+ },
+ {
+   "crs": "HAT",
+   "name": "Hatfield (Herts) Rail Station"
+ },
+ {
+   "crs": "HUN",
+   "name": "Huntingdon Rail Station"
+ },
+ {
+   "crs": "SVG",
+   "name": "Stevenage Rail Station"
+ },
+ {
+   "crs": "KNR",
+   "name": "Kensal Rise Rail Station"
+ },
+ {
+   "crs": "WMG",
+   "name": "Welham Green Rail Station"
+ },
+ {
+   "crs": "SPB",
+   "name": "Shepherds Bush Rail Station"
+ },
+ {
+   "crs": "GCT",
+   "name": "Great Coates Rail Station"
+ },
+ {
+   "crs": "WGC",
+   "name": "Welwyn Garden City Rail Station"
+ },
+ {
+   "crs": "CRI",
+   "name": "Cricklewood Rail Station"
+ },
+ {
+   "crs": "PUT",
+   "name": "Putney Rail Station"
+ },
+ {
+   "crs": "BPK",
+   "name": "Brookmans Park Rail Station"
+ },
+ {
+   "crs": "BSP",
+   "name": "Brondesbury Park Rail Station"
+ },
+ {
+   "crs": "WBO",
+   "name": "Wimbledon Chase Rail Station"
+ },
+ {
+   "crs": "SWK",
+   "name": "Southwick Rail Station"
+ },
+ {
+   "crs": "KPA",
+   "name": "Kensington (Olympia) Rail Station"
+ },
+ {
+   "crs": "SPA",
+   "name": "Spalding Rail Station"
+ },
+ {
+   "crs": "CHE",
+   "name": "Cheam Rail Station"
+ },
+ {
+   "crs": "BDK",
+   "name": "Baldock Rail Station"
+ },
+ {
+   "crs": "BAD",
+   "name": "Banstead Rail Station"
+ },
+ {
+   "crs": "QPW",
+   "name": "Queens Park (London) Rail Station"
+ },
+ {
+   "crs": "WLW",
+   "name": "Welwyn North Rail Station"
+ },
+ {
+   "crs": "BSY",
+   "name": "Brondesbury Rail Station"
+ },
+ {
+   "crs": "WIM",
+   "name": "Wimbledon Rail Station"
+ },
+ {
+   "crs": "WIM",
+   "name": "Wimbledon Rail Station"
+ },
+ {
+   "crs": "KND",
+   "name": "Kingswood Rail Station"
+ },
+ {
+   "crs": "KBW",
+   "name": "Knebworth Rail Station"
+ },
+ {
+   "crs": "SMO",
+   "name": "South Merton Rail Station"
+ },
+ {
+   "crs": "PBR",
+   "name": "Potters Bar Rail Station"
+ },
+ {
+   "crs": "WSU",
+   "name": "West Sutton Rail Station"
+ },
+ {
+   "crs": "IFI",
+   "name": "Ifield Rail Station"
+ },
+ {
+   "crs": "MDS",
+   "name": "Morden South Rail Station"
+ },
+ {
+   "crs": "WBP",
+   "name": "West Brompton Rail Station"
+ },
+ {
+   "crs": "SIH",
+   "name": "St Helier (London) Rail Station"
+ },
+ {
+   "crs": "WHP",
+   "name": "West Hampstead Thameslink Rail Station"
+ },
+ {
+   "crs": "KBN",
+   "name": "Kilburn High Road Rail Station"
+ },
+ {
+   "crs": "REI",
+   "name": "Reigate Rail Station"
+ },
+ {
+   "crs": "FSG",
+   "name": "Fishersgate Rail Station"
+ },
+ {
+   "crs": "WHD",
+   "name": "West Hampstead Rail Station"
+ },
+ {
+   "crs": "BLM",
+   "name": "Belmont Rail Station"
+ },
+ {
+   "crs": "SUC",
+   "name": "Sutton Common Rail Station"
+ },
+ {
+   "crs": "WNT",
+   "name": "Wandsworth Town Rail Station"
+ },
+ {
+   "crs": "HYR",
+   "name": "Haydons Road Rail Station"
+ },
+ {
+   "crs": "SUO",
+   "name": "Sutton (London) Rail Station"
+ },
+ {
+   "crs": "EAD",
+   "name": "Earlsfield Rail Station"
+ },
+ {
+   "crs": "FNY",
+   "name": "Finchley Road & Frognal Rail Station"
+ },
+ {
+   "crs": "HDW",
+   "name": "Hadley Wood Rail Station"
+ },
+ {
+   "crs": "IMW",
+   "name": "Imperial Wharf Rail Station"
+ },
+ {
+   "crs": "SOH",
+   "name": "South Hampstead Rail Station"
+ },
+ {
+   "crs": "PLD",
+   "name": "Portslade Rail Station"
+ },
+ {
+   "crs": "NBA",
+   "name": "New Barnet Rail Station"
+ },
+ {
+   "crs": "PAD",
+   "name": "London Paddington Rail Station"
+ },
+ {
+   "crs": "GMB",
+   "name": "Grimsby Town Rail Station"
+ },
+ {
+   "crs": "HBB",
+   "name": "Hubberts Bridge Rail Station"
+ },
+ {
+   "crs": "OKL",
+   "name": "Oakleigh Park Rail Station"
+ },
+ {
+   "crs": "CRW",
+   "name": "Crawley Rail Station"
+ },
+ {
+   "crs": "CLJ",
+   "name": "Clapham Junction Rail Station"
+ },
+ {
+   "crs": "CLJ",
+   "name": "Clapham Junction Rail Station"
+ },
+ {
+   "crs": "CLJ",
+   "name": "Clapham Junction Rail Station"
+ },
+ {
+   "crs": "CLJ",
+   "name": "Clapham Junction Rail Station"
+ },
+ {
+   "crs": "CLJ",
+   "name": "Clapham Junction Rail Station"
+ },
+ {
+   "crs": "HDH",
+   "name": "Hampstead Heath Rail Station"
+ },
+ {
+   "crs": "GMD",
+   "name": "Grimsby Docks Rail Station"
+ },
+ {
+   "crs": "CSB",
+   "name": "Carshalton Beeches Rail Station"
+ },
+ {
+   "crs": "MYB",
+   "name": "London Marylebone Rail Station"
+ },
+ {
+   "crs": "WLE",
+   "name": "Whittlesea Rail Station"
+ },
+ {
+   "crs": "CHP",
+   "name": "Chipstead Rail Station"
+ },
+ {
+   "crs": "WSW",
+   "name": "Wandsworth Common Rail Station"
+ },
+ {
+   "crs": "CSH",
+   "name": "Carshalton Rail Station"
+ },
+ {
+   "crs": "ELD",
+   "name": "Earlswood (Surrey) Rail Station"
+ },
+ {
+   "crs": "TOO",
+   "name": "Tooting Rail Station"
+ },
+ {
+   "crs": "AGT",
+   "name": "Aldrington Rail Station"
+ },
+ {
+   "crs": "RDH",
+   "name": "Redhill Rail Station"
+ },
+ {
+   "crs": "MIJ",
+   "name": "Mitcham Junction Rail Station"
+ },
+ {
+   "crs": "GPO",
+   "name": "Gospel Oak Rail Station"
+ },
+ {
+   "crs": "MTC",
+   "name": "Mitcham Eastfields Rail Station"
+ },
+ {
+   "crs": "SAF",
+   "name": "Salfords (Surrey) Rail Station"
+ },
+ {
+   "crs": "BAL",
+   "name": "Balham Rail Station"
+ },
+ {
+   "crs": "NCE",
+   "name": "New Clee Rail Station"
+ },
+ {
+   "crs": "HCB",
+   "name": "Hackbridge Rail Station"
+ },
+ {
+   "crs": "KTW",
+   "name": "Kentish Town West Rail Station"
+ },
+ {
+   "crs": "HOR",
+   "name": "Horley Rail Station"
+ },
+ {
+   "crs": "NSG",
+   "name": "New Southgate Rail Station"
+ },
+ {
+   "crs": "GTW",
+   "name": "Gatwick Airport Rail Station"
+ },
+ {
+   "crs": "WME",
+   "name": "Woodmansterne Rail Station"
+ },
+ {
+   "crs": "BAK",
+   "name": "Battersea Park Rail Station"
+ },
+ {
+   "crs": "TBD",
+   "name": "Three Bridges Rail Station"
+ },
+ {
+   "crs": "QRB",
+   "name": "Queenstown Road (Battersea) Rail Station"
+ },
+ {
+   "crs": "WLT",
+   "name": "Wallington Rail Station"
+ },
+ {
+   "crs": "VIC",
+   "name": "London Victoria Rail Station"
+ },
+ {
+   "crs": "VIC",
+   "name": "London Victoria Rail Station"
+ },
+ {
+   "crs": "HOV",
+   "name": "Hove Rail Station"
+ },
+ {
+   "crs": "KTN",
+   "name": "Kentish Town Rail Station"
+ },
+ {
+   "crs": "MHM",
+   "name": "Merstham Rail Station"
+ },
+ {
+   "crs": "CMD",
+   "name": "Camden Road Rail Station"
+ },
+ {
+   "crs": "WWR",
+   "name": "Wandsworth Road Rail Station"
+ },
+ {
+   "crs": "EUS",
+   "name": "London Euston Rail Station"
+ },
+ {
+   "crs": "WAS",
+   "name": "Watton-at-Stone Rail Station"
+ },
+ {
+   "crs": "SRC",
+   "name": "Streatham Common Rail Station"
+ },
+ {
+   "crs": "UHL",
+   "name": "Upper Holloway Rail Station"
+ },
+ {
+   "crs": "AWM",
+   "name": "Ashwell & Morden Rail Station"
+ },
+ {
+   "crs": "CLP",
+   "name": "Clapham High Street Rail Station"
+ },
+ {
+   "crs": "CDS",
+   "name": "Coulsdon South Rail Station"
+ },
+ {
+   "crs": "PRP",
+   "name": "Preston Park Rail Station"
+ },
+ {
+   "crs": "SPL",
+   "name": "London St Pancras International LL Rail Station"
+ },
+ {
+   "crs": "STP",
+   "name": "London St Pancras International Rail Station"
+ },
+ {
+   "crs": "STE",
+   "name": "Streatham Rail Station"
+ },
+ {
+   "crs": "STP",
+   "name": "London St Pancras International Rail Station"
+ },
+ {
+   "crs": "CDN",
+   "name": "Coulsdon Town Rail Station"
+ },
+ {
+   "crs": "CHX",
+   "name": "London Charing Cross Rail Station"
+ },
+ {
+   "crs": "BOP",
+   "name": "Bowes Park Rail Station"
+ },
+ {
+   "crs": "SRH",
+   "name": "Streatham Hill Rail Station"
+ },
+ {
+   "crs": "AAP",
+   "name": "Alexandra Palace Rail Station"
+ },
+ {
+   "crs": "KGX",
+   "name": "London Kings Cross Rail Station"
+ },
+ {
+   "crs": "HSK",
+   "name": "Hassocks Rail Station"
+ },
+ {
+   "crs": "VXH",
+   "name": "Vauxhall Rail Station"
+ },
+ {
+   "crs": "VXH",
+   "name": "Vauxhall Rail Station"
+ },
+ {
+   "crs": "NUF",
+   "name": "Nutfield Rail Station"
+ },
+ {
+   "crs": "CRH",
+   "name": "Crouch Hill Rail Station"
+ },
+ {
+   "crs": "CLE",
+   "name": "Cleethorpes Rail Station"
+ },
+ {
+   "crs": "BAB",
+   "name": "Balcombe Rail Station"
+ },
+ {
+   "crs": "CIR",
+   "name": "Caledonian Road & Barnsbury Rail Station"
+ },
+ {
+   "crs": "CUF",
+   "name": "Cuffley Rail Station"
+ },
+ {
+   "crs": "NRB",
+   "name": "Norbury Rail Station"
+ },
+ {
+   "crs": "RHM",
+   "name": "Reedham (Surrey) Rail Station"
+ },
+ {
+   "crs": "HRN",
+   "name": "Hornsey Rail Station"
+ },
+ {
+   "crs": "PAL",
+   "name": "Palmers Green Rail Station"
+ },
+ {
+   "crs": "CWH",
+   "name": "Crews Hill Rail Station"
+ },
+ {
+   "crs": "BTN",
+   "name": "Brighton Rail Station"
+ },
+ {
+   "crs": "WAT",
+   "name": "London Waterloo Rail Station"
+ },
+ {
+   "crs": "BRX",
+   "name": "Brixton Rail Station"
+ },
+ {
+   "crs": "WDO",
+   "name": "Waddon Rail Station"
+ },
+ {
+   "crs": "LRB",
+   "name": "London Road (Brighton) Rail Station"
+ },
+ {
+   "crs": "WAE",
+   "name": "London Waterloo East Rail Station"
+ },
+ {
+   "crs": "FPK",
+   "name": "Finsbury Park Rail Station"
+ },
+ {
+   "crs": "HGY",
+   "name": "Harringay Rail Station"
+ },
+ {
+   "crs": "DYP",
+   "name": "Drayton Park Rail Station"
+ },
+ {
+   "crs": "PUR",
+   "name": "Purley Rail Station"
+ },
+ {
+   "crs": "WIH",
+   "name": "Winchmore Hill Rail Station"
+ },
+ {
+   "crs": "BAY",
+   "name": "Bayford Rail Station"
+ },
+ {
+   "crs": "ZFD",
+   "name": "Farringdon (London) Rail Station"
+ },
+ {
+   "crs": "HHY",
+   "name": "Highbury & Islington Rail Station"
+ },
+ {
+   "crs": "HII",
+   "name": "Highbury & Islington Rail Station"
+ },
+ {
+   "crs": "BUG",
+   "name": "Burgess Hill Rail Station"
+ },
+ {
+   "crs": "HFN",
+   "name": "Hertford North Rail Station"
+ },
+ {
+   "crs": "CTK",
+   "name": "City Thameslink Rail Station"
+ },
+ {
+   "crs": "BFR",
+   "name": "London Blackfriars Rail Station"
+ },
+ {
+   "crs": "GPK",
+   "name": "Grange Park Rail Station"
+ },
+ {
+   "crs": "TUH",
+   "name": "Tulse Hill Rail Station"
+ },
+ {
+   "crs": "GDH",
+   "name": "Gordon Hill Rail Station"
+ },
+ {
+   "crs": "HRY",
+   "name": "Harringay Green Lanes Rail Station"
+ },
+ {
+   "crs": "WNW",
+   "name": "West Norwood Rail Station"
+ },
+ {
+   "crs": "LGJ",
+   "name": "Loughborough Junction Rail Station"
+ },
+ {
+   "crs": "HNH",
+   "name": "Herne Hill Rail Station"
+ },
+ {
+   "crs": "WVF",
+   "name": "Wivelsfield Rail Station"
+ },
+ {
+   "crs": "EPH",
+   "name": "Elephant & Castle Rail Station"
+ },
+ {
+   "crs": "EXR",
+   "name": "Essex Road Rail Station"
+ },
+ {
+   "crs": "WCY",
+   "name": "West Croydon Rail Station"
+ },
+ {
+   "crs": "ENC",
+   "name": "Enfield Chase Rail Station"
+ },
+ {
+   "crs": "TTH",
+   "name": "Thornton Heath Rail Station"
+ },
+ {
+   "crs": "BSN",
+   "name": "Boston Rail Station"
+ },
+ {
+   "crs": "CNN",
+   "name": "Canonbury Rail Station"
+ },
+ {
+   "crs": "KLY",
+   "name": "Kenley Rail Station"
+ },
+ {
+   "crs": "PUO",
+   "name": "Purley Oaks Rail Station"
+ },
+ {
+   "crs": "RDD",
+   "name": "Riddlesdown Rail Station"
+ },
+ {
+   "crs": "MCB",
+   "name": "Moulsecoomb Rail Station"
+ },
+ {
+   "crs": "CST",
+   "name": "London Cannon Street Rail Station"
+ },
+ {
+   "crs": "MOG",
+   "name": "Moorgate Rail Station"
+ },
+ {
+   "crs": "OLD",
+   "name": "Old Street Rail Station"
+ },
+ {
+   "crs": "WDU",
+   "name": "West Dulwich Rail Station"
+ },
+ {
+   "crs": "DMK",
+   "name": "Denmark Hill Rail Station"
+ },
+ {
+   "crs": "SCY",
+   "name": "South Croydon Rail Station"
+ },
+ {
+   "crs": "ECR",
+   "name": "East Croydon Rail Station"
+ },
+ {
+   "crs": "SNR",
+   "name": "Sanderstead Rail Station"
+ },
+ {
+   "crs": "LBG",
+   "name": "London Bridge Rail Station"
+ },
+ {
+   "crs": "LBG",
+   "name": "London Bridge Rail Station"
+ },
+ {
+   "crs": "NDL",
+   "name": "North Dulwich Rail Station"
+ },
+ {
+   "crs": "ENF",
+   "name": "Enfield Town Rail Station"
+ },
+ {
+   "crs": "HFE",
+   "name": "Hertford East Rail Station"
+ },
+ {
+   "crs": "HHE",
+   "name": "Haywards Heath Rail Station"
+ },
+ {
+   "crs": "SRS",
+   "name": "Selhurst Rail Station"
+ },
+ {
+   "crs": "LST",
+   "name": "London Liverpool Street Rail Station"
+ },
+ {
+   "crs": "GIP",
+   "name": "Gipsy Hill Rail Station"
+ },
+ {
+   "crs": "SMH",
+   "name": "Stamford Hill Rail Station"
+ },
+ {
+   "crs": "FST",
+   "name": "London Fenchurch Street Rail Station"
+ },
+ {
+   "crs": "EDW",
+   "name": "East Dulwich Rail Station"
+ },
+ {
+   "crs": "SVS",
+   "name": "Seven Sisters Rail Station"
+ },
+ {
+   "crs": "DLK",
+   "name": "Dalston Kingsland Rail Station"
+ },
+ {
+   "crs": "SYH",
+   "name": "Sydenham Hill Rail Station"
+ },
+ {
+   "crs": "HGG",
+   "name": "Haggerston Rail Station"
+ },
+ {
+   "crs": "DLJ",
+   "name": "Dalston Junction Rail Station"
+ },
+ {
+   "crs": "HOX",
+   "name": "Hoxton Rail Station"
+ },
+ {
+   "crs": "SDC",
+   "name": "Shoreditch High Street Rail Station"
+ },
+ {
+   "crs": "SKW",
+   "name": "Stoke Newington Rail Station"
+ },
+ {
+   "crs": "STO",
+   "name": "South Tottenham Rail Station"
+ },
+ {
+   "crs": "WHL",
+   "name": "White Hart Lane Rail Station"
+ },
+ {
+   "crs": "BHK",
+   "name": "Bush Hill Park Rail Station"
+ },
+ {
+   "crs": "BCV",
+   "name": "Bruce Grove Rail Station"
+ },
+ {
+   "crs": "WHY",
+   "name": "Whyteleafe Rail Station"
+ },
+ {
+   "crs": "SLV",
+   "name": "Silver Street Rail Station"
+ },
+ {
+   "crs": "NWD",
+   "name": "Norwood Junction Rail Station"
+ },
+ {
+   "crs": "REC",
+   "name": "Rectory Road Rail Station"
+ },
+ {
+   "crs": "UWL",
+   "name": "Upper Warlingham Rail Station"
+ },
+ {
+   "crs": "CAT",
+   "name": "Caterham Rail Station"
+ },
+ {
+   "crs": "CYP",
+   "name": "Crystal Palace Rail Station"
+ },
+ {
+   "crs": "WHS",
+   "name": "Whyteleafe South Rail Station"
+ },
+ {
+   "crs": "PMR",
+   "name": "Peckham Rye Rail Station"
+ },
+ {
+   "crs": "PMR",
+   "name": "Peckham Rye Rail Station"
+ },
+ {
+   "crs": "EDR",
+   "name": "Edmonton Green Rail Station"
+ },
+ {
+   "crs": "TOM",
+   "name": "Tottenham Hale Rail Station"
+ },
+ {
+   "crs": "HAC",
+   "name": "Hackney Downs Rail Station"
+ },
+ {
+   "crs": "ANZ",
+   "name": "Anerley Rail Station"
+ },
+ {
+   "crs": "FMR",
+   "name": "Falmer Rail Station"
+ },
+ {
+   "crs": "BET",
+   "name": "Bethnal Green Rail Station"
+ },
+ {
+   "crs": "ZWL",
+   "name": "Whitechapel Rail Station"
+ },
+ {
+   "crs": "CPT",
+   "name": "Clapton Rail Station"
+ },
+ {
+   "crs": "LOF",
+   "name": "London Fields Rail Station"
+ },
+ {
+   "crs": "SBU",
+   "name": "Southbury Rail Station"
+ },
+ {
+   "crs": "CBH",
+   "name": "Cambridge Heath (London) Rail Station"
+ },
+ {
+   "crs": "NUM",
+   "name": "Northumberland Park Rail Station"
+ },
+ {
+   "crs": "HKC",
+   "name": "Hackney Central Rail Station"
+ },
+ {
+   "crs": "SDE",
+   "name": "Shadwell Rail Station"
+ },
+ {
+   "crs": "PNW",
+   "name": "Penge West Rail Station"
+ },
+ {
+   "crs": "QRP",
+   "name": "Queens Road Peckham Rail Station"
+ },
+ {
+   "crs": "WPE",
+   "name": "Wapping Rail Station"
+ },
+ {
+   "crs": "MRW",
+   "name": "Meridian Water Rail Station"
+ },
+ {
+   "crs": "TUR",
+   "name": "Turkey Street Rail Station"
+ },
+ {
+   "crs": "SBM",
+   "name": "South Bermondsey Rail Station"
+ },
+ {
+   "crs": "AGR",
+   "name": "Angel Road Rail Station"
+ },
+ {
+   "crs": "ROE",
+   "name": "Rotherhithe Rail Station"
+ },
+ {
+   "crs": "BIK",
+   "name": "Birkbeck Rail Station"
+ },
+ {
+   "crs": "SYD",
+   "name": "Sydenham Rail Station"
+ },
+ {
+   "crs": "RYS",
+   "name": "Royston Rail Station"
+ },
+ {
+   "crs": "NHD",
+   "name": "Nunhead Rail Station"
+ },
+ {
+   "crs": "PNE",
+   "name": "Penge East Rail Station"
+ },
+ {
+   "crs": "FOH",
+   "name": "Forest Hill Rail Station"
+ },
+ {
+   "crs": "ZCW",
+   "name": "Canada Water Rail Station"
+ },
+ {
+   "crs": "SQE",
+   "name": "Surrey Quays Rail Station"
+ },
+ {
+   "crs": "ELE",
+   "name": "Elmers End Rail Station"
+ },
+ {
+   "crs": "BHO",
+   "name": "Blackhorse Road Rail Station"
+ },
+ {
+   "crs": "HMN",
+   "name": "Homerton Rail Station"
+ },
+ {
+   "crs": "HPA",
+   "name": "Honor Oak Park Rail Station"
+ },
+ {
+   "crs": "TEO",
+   "name": "Theobalds Grove Rail Station"
+ },
+ {
+   "crs": "WOH",
+   "name": "Woldingham Rail Station"
+ },
+ {
+   "crs": "WAR",
+   "name": "Ware Rail Station"
+ },
+ {
+   "crs": "KTH",
+   "name": "Kent House Rail Station"
+ },
+ {
+   "crs": "PON",
+   "name": "Ponders End Rail Station"
+ },
+ {
+   "crs": "LHS",
+   "name": "Limehouse Rail Station"
+ },
+ {
+   "crs": "LEB",
+   "name": "Lea Bridge Rail Station"
+ },
+ {
+   "crs": "NXG",
+   "name": "New Cross Gate ELL Rail Station"
+ },
+ {
+   "crs": "NXG",
+   "name": "New Cross Gate Rail Station"
+ },
+ {
+   "crs": "GDN",
+   "name": "Godstone Rail Station"
+ },
+ {
+   "crs": "BMD",
+   "name": "Brimsdown Rail Station"
+ },
+ {
+   "crs": "CLK",
+   "name": "Clock House Rail Station"
+ },
+ {
+   "crs": "SJS",
+   "name": "St James Street (London) Rail Station"
+ },
+ {
+   "crs": "BCY",
+   "name": "Brockley Rail Station"
+ },
+ {
+   "crs": "PMP",
+   "name": "Plumpton Rail Station"
+ },
+ {
+   "crs": "ENL",
+   "name": "Enfield Lock Rail Station"
+ },
+ {
+   "crs": "CFT",
+   "name": "Crofton Park Rail Station"
+ },
+ {
+   "crs": "WLC",
+   "name": "Waltham Cross Rail Station"
+ },
+ {
+   "crs": "CHN",
+   "name": "Cheshunt Rail Station"
+ },
+ {
+   "crs": "NBC",
+   "name": "New Beckenham Rail Station"
+ },
+ {
+   "crs": "NWX",
+   "name": "New Cross ELL Rail Station"
+ },
+ {
+   "crs": "NWX",
+   "name": "New Cross Rail Station"
+ },
+ {
+   "crs": "LSY",
+   "name": "Lower Sydenham Rail Station"
+ },
+ {
+   "crs": "WMW",
+   "name": "Walthamstow Queens Road Rail Station"
+ },
+ {
+   "crs": "HKW",
+   "name": "Hackney Wick Rail Station"
+ },
+ {
+   "crs": "DEP",
+   "name": "Deptford Rail Station"
+ },
+ {
+   "crs": "CTF",
+   "name": "Catford Rail Station"
+ },
+ {
+   "crs": "WHC",
+   "name": "Walthamstow Central Rail Station"
+ },
+ {
+   "crs": "CFB",
+   "name": "Catford Bridge Rail Station"
+ },
+ {
+   "crs": "BKJ",
+   "name": "Beckenham Junction Rail Station"
+ },
+ {
+   "crs": "BKJ",
+   "name": "Beckenham Junction Rail Station"
+ },
+ {
+   "crs": "BXB",
+   "name": "Broxbourne Rail Station"
+ },
+ {
+   "crs": "EDN",
+   "name": "Eden Park Rail Station"
+ },
+ {
+   "crs": "SAJ",
+   "name": "St Johns (London) Rail Station"
+ },
+ {
+   "crs": "LAD",
+   "name": "Ladywell Rail Station"
+ },
+ {
+   "crs": "MEL",
+   "name": "Meldreth Rail Station"
+ },
+ {
+   "crs": "BGM",
+   "name": "Bellingham Rail Station"
+ },
+ {
+   "crs": "BEC",
+   "name": "Beckenham Hill Rail Station"
+ },
+ {
+   "crs": "LEW",
+   "name": "Lewisham Rail Station"
+ },
+ {
+   "crs": "GNW",
+   "name": "Greenwich Rail Station"
+ },
+ {
+   "crs": "SMT",
+   "name": "St Margarets (Herts) Rail Station"
+ },
+ {
+   "crs": "LEM",
+   "name": "Leyton Midland Road Rail Station"
+ },
+ {
+   "crs": "SFA",
+   "name": "Stratford International Rail Station"
+ },
+ {
+   "crs": "WWI",
+   "name": "West Wickham Rail Station"
+ },
+ {
+   "crs": "RYH",
+   "name": "Rye House Rail Station"
+ },
+ {
+   "crs": "WST",
+   "name": "Wood Street Rail Station"
+ },
+ {
+   "crs": "SRA",
+   "name": "Stratford (London) Rail Station"
+ },
+ {
+   "crs": "HIP",
+   "name": "Highams Park Rail Station"
+ },
+ {
+   "crs": "RVB",
+   "name": "Ravensbourne Rail Station"
+ },
+ {
+   "crs": "EGR",
+   "name": "East Grinstead Rail Station"
+ },
+ {
+   "crs": "HGR",
+   "name": "Hither Green Rail Station"
+ },
+ {
+   "crs": "MZH",
+   "name": "Maze Hill Rail Station"
+ },
+ {
+   "crs": "MYL",
+   "name": "Maryland Rail Station"
+ },
+ {
+   "crs": "STH",
+   "name": "Shepreth Rail Station"
+ },
+ {
+   "crs": "CHI",
+   "name": "Chingford Rail Station"
+ },
+ {
+   "crs": "WEH",
+   "name": "West Ham Rail Station"
+ },
+ {
+   "crs": "LER",
+   "name": "Leytonstone High Road Rail Station"
+ },
+ {
+   "crs": "OXT",
+   "name": "Oxted Rail Station"
+ },
+ {
+   "crs": "OXT",
+   "name": "Oxted Rail Station"
+ },
+ {
+   "crs": "SRT",
+   "name": "Shortlands Rail Station"
+ },
+ {
+   "crs": "LFD",
+   "name": "Lingfield Rail Station"
+ },
+ {
+   "crs": "BKH",
+   "name": "Blackheath Rail Station"
+ },
+ {
+   "crs": "DMS",
+   "name": "Dormans Rail Station"
+ },
+ {
+   "crs": "HUR",
+   "name": "Hurst Green Rail Station"
+ },
+ {
+   "crs": "LEE",
+   "name": "Lee Rail Station"
+ },
+ {
+   "crs": "HYS",
+   "name": "Hayes (Kent) Rail Station"
+ },
+ {
+   "crs": "CBR",
+   "name": "Cooksbridge Rail Station"
+ },
+ {
+   "crs": "WCB",
+   "name": "Westcombe Park Rail Station"
+ },
+ {
+   "crs": "BMN",
+   "name": "Bromley North Rail Station"
+ },
+ {
+   "crs": "BMS",
+   "name": "Bromley South Rail Station"
+ },
+ {
+   "crs": "FOG",
+   "name": "Forest Gate Rail Station"
+ },
+ {
+   "crs": "WNP",
+   "name": "Wanstead Park Rail Station"
+ },
+ {
+   "crs": "RYN",
+   "name": "Roydon Rail Station"
+ },
+ {
+   "crs": "GRP",
+   "name": "Grove Park Rail Station"
+ },
+ {
+   "crs": "SUP",
+   "name": "Sundridge Park Rail Station"
+ },
+ {
+   "crs": "FXN",
+   "name": "Foxton Rail Station"
+ },
+ {
+   "crs": "KDB",
+   "name": "Kidbrooke Rail Station"
+ },
+ {
+   "crs": "CTN",
+   "name": "Charlton Rail Station"
+ },
+ {
+   "crs": "LWS",
+   "name": "Lewes Rail Station"
+ },
+ {
+   "crs": "WGR",
+   "name": "Woodgrange Park Rail Station"
+ },
+ {
+   "crs": "MCH",
+   "name": "March Rail Station"
+ },
+ {
+   "crs": "MNP",
+   "name": "Manor Park Rail Station"
+ },
+ {
+   "crs": "ZBU",
+   "name": "Southease - Piddinghoe Road"
+ },
+ {
+   "crs": "ESD",
+   "name": "Elmstead Woods Rail Station"
+ },
+ {
+   "crs": "BKL",
+   "name": "Bickley Rail Station"
+ },
+ {
+   "crs": "MTG",
+   "name": "Mottingham Rail Station"
+ },
+ {
+   "crs": "ELW",
+   "name": "Eltham Rail Station"
+ },
+ {
+   "crs": "WWD",
+   "name": "Woolwich Dockyard Rail Station"
+ },
+ {
+   "crs": "SEE",
+   "name": "Southease Rail Station"
+ },
+ {
+   "crs": "CIT",
+   "name": "Chislehurst Rail Station"
+ },
+ {
+   "crs": "IFD",
+   "name": "Ilford Rail Station"
+ },
+ {
+   "crs": "WWA",
+   "name": "Woolwich Arsenal Rail Station"
+ },
+ {
+   "crs": "NEH",
+   "name": "New Eltham Rail Station"
+ },
+ {
+   "crs": "EBR",
+   "name": "Edenbridge Rail Station"
+ },
+ {
+   "crs": "BKG",
+   "name": "Barking Rail Station"
+ },
+ {
+   "crs": "PET",
+   "name": "Petts Wood Rail Station"
+ },
+ {
+   "crs": "EBT",
+   "name": "Edenbridge Town Rail Station"
+ },
+ {
+   "crs": "FCN",
+   "name": "Falconwood Rail Station"
+ },
+ {
+   "crs": "HWN",
+   "name": "Harlow Town Rail Station"
+ },
+ {
+   "crs": "PLU",
+   "name": "Plumstead Rail Station"
+ },
+ {
+   "crs": "NRC",
+   "name": "Newbury Park Station"
+ },
+ {
+   "crs": "NVN",
+   "name": "Newhaven Town Rail Station"
+ },
+ {
+   "crs": "NVH",
+   "name": "Newhaven Harbour Rail Station"
+ },
+ {
+   "crs": "SVK",
+   "name": "Seven Kings Rail Station"
+ },
+ {
+   "crs": "ORP",
+   "name": "Orpington Rail Station"
+ },
+ {
+   "crs": "GLY",
+   "name": "Glynde Rail Station"
+ },
+ {
+   "crs": "WLI",
+   "name": "Welling Rail Station"
+ },
+ {
+   "crs": "CBG",
+   "name": "Cambridge Rail Station"
+ },
+ {
+   "crs": "SID",
+   "name": "Sidcup Rail Station"
+ },
+ {
+   "crs": "GMY",
+   "name": "Goodmayes Rail Station"
+ },
+ {
+   "crs": "SED",
+   "name": "Shelford (Cambs) Rail Station"
+ },
+ {
+   "crs": "HEV",
+   "name": "Hever Rail Station"
+ },
+ {
+   "crs": "SMY",
+   "name": "St Mary Cray Rail Station"
+ },
+ {
+   "crs": "BIP",
+   "name": "Bishopstone Rail Station"
+ },
+ {
+   "crs": "CLD",
+   "name": "Chelsfield Rail Station"
+ },
+ {
+   "crs": "HWM",
+   "name": "Harlow Mill Rail Station"
+ },
+ {
+   "crs": "TPC",
+   "name": "Thorpe Culvert Rail Station"
+ },
+ {
+   "crs": "UCK",
+   "name": "Uckfield Rail Station"
+ },
+ {
+   "crs": "ABW",
+   "name": "Abbey Wood (London) Rail Station"
+ },
+ {
+   "crs": "CMB",
+   "name": "Cambridge North Rail Station"
+ },
+ {
+   "crs": "CTH",
+   "name": "Chadwell Heath Rail Station"
+ },
+ {
+   "crs": "CWN",
+   "name": "Cowden Rail Station"
+ },
+ {
+   "crs": "AYP",
+   "name": "Albany Park Rail Station"
+ },
+ {
+   "crs": "MNE",
+   "name": "Manea Rail Station"
+ },
+ {
+   "crs": "SEF",
+   "name": "Seaford Rail Station"
+ },
+ {
+   "crs": "BXH",
+   "name": "Bexleyheath Rail Station"
+ },
+ {
+   "crs": "WLF",
+   "name": "Whittlesford Parkway Rail Station"
+ },
+ {
+   "crs": "KCK",
+   "name": "Knockholt Rail Station"
+ },
+ {
+   "crs": "DDK",
+   "name": "Dagenham Dock Rail Station"
+ },
+ {
+   "crs": "SAW",
+   "name": "Sawbridgeworth Rail Station"
+ },
+ {
+   "crs": "BIS",
+   "name": "Bishops Stortford Rail Station"
+ },
+ {
+   "crs": "BXY",
+   "name": "Bexley Rail Station"
+ },
+ {
+   "crs": "BVD",
+   "name": "Belvedere Rail Station"
+ },
+ {
+   "crs": "BXD",
+   "name": "Buxted Rail Station"
+ },
+ {
+   "crs": "WFL",
+   "name": "Wainfleet Rail Station"
+ },
+ {
+   "crs": "WBC",
+   "name": "Waterbeach Rail Station"
+ },
+ {
+   "crs": "BNH",
+   "name": "Barnehurst Rail Station"
+ },
+ {
+   "crs": "GRC",
+   "name": "Great Chesterford Rail Station"
+ },
+ {
+   "crs": "AHS",
+   "name": "Ashurst (Kent) Rail Station"
+ },
+ {
+   "crs": "SAY",
+   "name": "Swanley Rail Station"
+ },
+ {
+   "crs": "ERH",
+   "name": "Erith Rail Station"
+ },
+ {
+   "crs": "RMF",
+   "name": "Romford Rail Station"
+ },
+ {
+   "crs": "SST",
+   "name": "Stansted Mountfitchet Rail Station"
+ },
+ {
+   "crs": "DNG",
+   "name": "Dunton Green Rail Station"
+ },
+ {
+   "crs": "CRY",
+   "name": "Crayford Rail Station"
+ },
+ {
+   "crs": "AUD",
+   "name": "Audley End Rail Station"
+ },
+ {
+   "crs": "PHR",
+   "name": "Penshurst Rail Station"
+ },
+ {
+   "crs": "RNM",
+   "name": "Rainham (London) Rail Station"
+ },
+ {
+   "crs": "NWE",
+   "name": "Newport (Essex) Rail Station"
+ },
+ {
+   "crs": "HVN",
+   "name": "Havenhouse Rail Station"
+ },
+ {
+   "crs": "SGR",
+   "name": "Slade Green Rail Station"
+ },
+ {
+   "crs": "SEV",
+   "name": "Sevenoaks Rail Station"
+ },
+ {
+   "crs": "SEH",
+   "name": "Shoreham (Kent) Rail Station"
+ },
+ {
+   "crs": "BRK",
+   "name": "Berwick (Sussex) Rail Station"
+ },
+ {
+   "crs": "GDP",
+   "name": "Gidea Park Rail Station"
+ },
+ {
+   "crs": "BBL",
+   "name": "Bat & Ball Rail Station"
+ },
+ {
+   "crs": "OTF",
+   "name": "Otford Rail Station"
+ },
+ {
+   "crs": "ESM",
+   "name": "Elsenham Rail Station"
+ },
+ {
+   "crs": "COH",
+   "name": "Crowborough Rail Station"
+ },
+ {
+   "crs": "EYN",
+   "name": "Eynsford Rail Station"
+ },
+ {
+   "crs": "EMP",
+   "name": "Emerson Park Rail Station"
+ },
+ {
+   "crs": "ERI",
+   "name": "Eridge Rail Station"
+ },
+ {
+   "crs": "DFD",
+   "name": "Dartford Rail Station"
+ },
+ {
+   "crs": "ELY",
+   "name": "Ely Rail Station"
+ },
+ {
+   "crs": "LIH",
+   "name": "Leigh (Kent) Rail Station"
+ },
+ {
+   "crs": "HRO",
+   "name": "Harold Wood Rail Station"
+ },
+ {
+   "crs": "PFL",
+   "name": "Purfleet Rail Station"
+ },
+ {
+   "crs": "FNR",
+   "name": "Farningham Road Rail Station"
+ },
+ {
+   "crs": "HLB",
+   "name": "Hildenborough Rail Station"
+ },
+ {
+   "crs": "SSD",
+   "name": "Stansted Airport Rail Station"
+ },
+ {
+   "crs": "UPM",
+   "name": "Upminster Rail Station"
+ },
+ {
+   "crs": "UPM",
+   "name": "Upminster Rail Station"
+ },
+ {
+   "crs": "SKG",
+   "name": "Skegness Rail Station"
+ },
+ {
+   "crs": "KMS",
+   "name": "Kemsing Rail Station"
+ },
+ {
+   "crs": "SCG",
+   "name": "Stone Crossing Rail Station"
+ },
+ {
+   "crs": "LTP",
+   "name": "Littleport Rail Station"
+ },
+ {
+   "crs": "PLG",
+   "name": "Polegate Rail Station"
+ },
+ {
+   "crs": "TBW",
+   "name": "Tunbridge Wells Rail Station"
+ },
+ {
+   "crs": "GNH",
+   "name": "Greenhithe for Bluewater Rail Station"
+ },
+ {
+   "crs": "TON",
+   "name": "Tonbridge Rail Station"
+ },
+ {
+   "crs": "CFH",
+   "name": "Chafford Hundred Rail Station"
+ },
+ {
+   "crs": "OCK",
+   "name": "Ockendon Rail Station"
+ },
+ {
+   "crs": "BRE",
+   "name": "Brentwood Rail Station"
+ },
+ {
+   "crs": "HIB",
+   "name": "High Brooms Rail Station"
+ },
+ {
+   "crs": "LGF",
+   "name": "Longfield Rail Station"
+ },
+ {
+   "crs": "DOW",
+   "name": "Downham Market Rail Station"
+ },
+ {
+   "crs": "SWM",
+   "name": "Swanscombe Rail Station"
+ },
+ {
+   "crs": "HMD",
+   "name": "Hampden Park (Sussex) Rail Station"
+ },
+ {
+   "crs": "FRT",
+   "name": "Frant Rail Station"
+ },
+ {
+   "crs": "BRG",
+   "name": "Borough Green & Wrotham Rail Station"
+ },
+ {
+   "crs": "EBN",
+   "name": "Eastbourne Rail Station"
+ },
+ {
+   "crs": "WTG",
+   "name": "Watlington Rail Station"
+ },
+ {
+   "crs": "GRY",
+   "name": "Grays Rail Station"
+ },
+ {
+   "crs": "SNF",
+   "name": "Shenfield Rail Station"
+ },
+ {
+   "crs": "EBD",
+   "name": "Ebbsfleet International Rail Station"
+ },
+ {
+   "crs": "NFL",
+   "name": "Northfleet Rail Station"
+ },
+ {
+   "crs": "DUL",
+   "name": "Dullingham Rail Station"
+ },
+ {
+   "crs": "WAD",
+   "name": "Wadhurst Rail Station"
+ },
+ {
+   "crs": "KLN",
+   "name": "Kings Lynn Rail Station"
+ },
+ {
+   "crs": "WHR",
+   "name": "West Horndon Rail Station"
+ },
+ {
+   "crs": "TIL",
+   "name": "Tilbury Town Rail Station"
+ },
+ {
+   "crs": "PEV",
+   "name": "Pevensey & Westham Rail Station"
+ },
+ {
+   "crs": "MEP",
+   "name": "Meopham Rail Station"
+ },
+ {
+   "crs": "SPP",
+   "name": "Shippea Hill Rail Station"
+ },
+ {
+   "crs": "NMK",
+   "name": "Newmarket Rail Station"
+ },
+ {
+   "crs": "GRV",
+   "name": "Gravesend Rail Station"
+ },
+ {
+   "crs": "INT",
+   "name": "Ingatestone Rail Station"
+ },
+ {
+   "crs": "PEB",
+   "name": "Pevensey Bay Rail Station"
+ },
+ {
+   "crs": "SOR",
+   "name": "Sole Street Rail Station"
+ },
+ {
+   "crs": "SOG",
+   "name": "Stonegate Rail Station"
+ },
+ {
+   "crs": "PDW",
+   "name": "Paddock Wood Rail Station"
+ },
+ {
+   "crs": "BIC",
+   "name": "Billericay Rail Station"
+ },
+ {
+   "crs": "ETL",
+   "name": "East Tilbury Rail Station"
+ },
+ {
+   "crs": "BEG",
+   "name": "Beltring Rail Station"
+ },
+ {
+   "crs": "LAI",
+   "name": "Laindon Rail Station"
+ },
+ {
+   "crs": "SFO",
+   "name": "Stanford-le-Hope Rail Station"
+ },
+ {
+   "crs": "NSB",
+   "name": "Normans Bay Rail Station"
+ },
+ {
+   "crs": "YAL",
+   "name": "Yalding Rail Station"
+ },
+ {
+   "crs": "WMA",
+   "name": "West Malling Rail Station"
+ },
+ {
+   "crs": "WTR",
+   "name": "Wateringbury Rail Station"
+ },
+ {
+   "crs": "KNE",
+   "name": "Kennett Rail Station"
+ },
+ {
+   "crs": "EML",
+   "name": "East Malling Rail Station"
+ },
+ {
+   "crs": "HAI",
+   "name": "Halling Rail Station"
+ },
+ {
+   "crs": "BSO",
+   "name": "Basildon Rail Station"
+ },
+ {
+   "crs": "CHM",
+   "name": "Chelmsford Rail Station"
+ },
+ {
+   "crs": "SDA",
+   "name": "Snodland Rail Station"
+ },
+ {
+   "crs": "COB",
+   "name": "Cooden Beach Rail Station"
+ },
+ {
+   "crs": "NHE",
+   "name": "New Hythe Rail Station"
+ },
+ {
+   "crs": "ETC",
+   "name": "Etchingham Rail Station"
+ },
+ {
+   "crs": "CUX",
+   "name": "Cuxton Rail Station"
+ },
+ {
+   "crs": "HGM",
+   "name": "Higham Rail Station"
+ },
+ {
+   "crs": "AYL",
+   "name": "Aylesford Rail Station"
+ },
+ {
+   "crs": "LAK",
+   "name": "Lakenheath Rail Station"
+ },
+ {
+   "crs": "BMG",
+   "name": "Barming Rail Station"
+ },
+ {
+   "crs": "CLL",
+   "name": "Collington Rail Station"
+ },
+ {
+   "crs": "RBR",
+   "name": "Robertsbridge Rail Station"
+ },
+ {
+   "crs": "EFL",
+   "name": "East Farleigh Rail Station"
+ },
+ {
+   "crs": "PSE",
+   "name": "Pitsea Rail Station"
+ },
+ {
+   "crs": "SOO",
+   "name": "Strood Rail Station"
+ },
+ {
+   "crs": "MRN",
+   "name": "Marden Rail Station"
+ },
+ {
+   "crs": "BEX",
+   "name": "Bexhill Rail Station"
+ },
+ {
+   "crs": "WIC",
+   "name": "Wickford Rail Station"
+ },
+ {
+   "crs": "RTR",
+   "name": "Rochester Rail Station"
+ },
+ {
+   "crs": "MDB",
+   "name": "Maidstone Barracks Rail Station"
+ },
+ {
+   "crs": "BAT",
+   "name": "Battle Rail Station"
+ },
+ {
+   "crs": "CTM",
+   "name": "Chatham Rail Station"
+ },
+ {
+   "crs": "MDW",
+   "name": "Maidstone West Rail Station"
+ },
+ {
+   "crs": "MDE",
+   "name": "Maidstone East Rail Station"
+ },
+ {
+   "crs": "CWU",
+   "name": "Crowhurst Rail Station"
+ },
+ {
+   "crs": "BTR",
+   "name": "Braintree Rail Station"
+ },
+ {
+   "crs": "BTP",
+   "name": "Braintree Freeport Rail Station"
+ },
+ {
+   "crs": "GLM",
+   "name": "Gillingham (Kent) Rail Station"
+ },
+ {
+   "crs": "CES",
+   "name": "Cressing Rail Station"
+ },
+ {
+   "crs": "BLB",
+   "name": "Battlesbridge Rail Station"
+ },
+ {
+   "crs": "BEF",
+   "name": "Benfleet Rail Station"
+ },
+ {
+   "crs": "SPU",
+   "name": "Staplehurst Rail Station"
+ },
+ {
+   "crs": "BND",
+   "name": "Brandon Rail Station"
+ },
+ {
+   "crs": "WLD",
+   "name": "West St Leonards Rail Station"
+ },
+ {
+   "crs": "HAP",
+   "name": "Hatfield Peverel Rail Station"
+ },
+ {
+   "crs": "WNY",
+   "name": "White Notley Rail Station"
+ },
+ {
+   "crs": "BSD",
+   "name": "Bearsted Rail Station"
+ },
+ {
+   "crs": "RLG",
+   "name": "Rayleigh Rail Station"
+ },
+ {
+   "crs": "SLQ",
+   "name": "St Leonards Warrior Square Rail Station"
+ },
+ {
+   "crs": "SOF",
+   "name": "South Woodham Ferrers Rail Station"
+ },
+ {
+   "crs": "HGS",
+   "name": "Hastings Rail Station"
+ },
+ {
+   "crs": "RAI",
+   "name": "Rainham (Kent) Rail Station"
+ },
+ {
+   "crs": "WTM",
+   "name": "Witham (Essex) Rail Station"
+ },
+ {
+   "crs": "ORE",
+   "name": "Ore Rail Station"
+ },
+ {
+   "crs": "LES",
+   "name": "Leigh-on-Sea Rail Station"
+ },
+ {
+   "crs": "HBN",
+   "name": "Hollingbourne Rail Station"
+ },
+ {
+   "crs": "DLH",
+   "name": "Doleham Rail Station"
+ },
+ {
+   "crs": "HCN",
+   "name": "Headcorn Rail Station"
+ },
+ {
+   "crs": "TOK",
+   "name": "Three Oaks Rail Station"
+ },
+ {
+   "crs": "HOC",
+   "name": "Hockley Rail Station"
+ },
+ {
+   "crs": "BSE",
+   "name": "Bury St Edmunds Rail Station"
+ },
+ {
+   "crs": "CHW",
+   "name": "Chalkwell Rail Station"
+ },
+ {
+   "crs": "NFA",
+   "name": "North Fambridge Rail Station"
+ },
+ {
+   "crs": "NGT",
+   "name": "Newington Rail Station"
+ },
+ {
+   "crs": "KEL",
+   "name": "Kelvedon Rail Station"
+ },
+ {
+   "crs": "HRM",
+   "name": "Harrietsham Rail Station"
+ },
+ {
+   "crs": "WCF",
+   "name": "Westcliff-on-Sea Rail Station"
+ },
+ {
+   "crs": "TTF",
+   "name": "Thetford Rail Station"
+ },
+ {
+   "crs": "RFD",
+   "name": "Rochford Rail Station"
+ },
+ {
+   "crs": "SIA",
+   "name": "Southend Airport Rail Station"
+ },
+ {
+   "crs": "SUY",
+   "name": "Sudbury (Suffolk) Rail Station"
+ },
+ {
+   "crs": "PRL",
+   "name": "Prittlewell Rail Station"
+ },
+ {
+   "crs": "SOV",
+   "name": "Southend Victoria Rail Station"
+ },
+ {
+   "crs": "SOC",
+   "name": "Southend Central Rail Station"
+ },
+ {
+   "crs": "LEN",
+   "name": "Lenham Rail Station"
+ },
+ {
+   "crs": "SOE",
+   "name": "Southend East Rail Station"
+ },
+ {
+   "crs": "CWC",
+   "name": "Chappel & Wakes Colne Rail Station"
+ },
+ {
+   "crs": "WSE",
+   "name": "Winchelsea Rail Station"
+ },
+ {
+   "crs": "BUE",
+   "name": "Bures Rail Station"
+ },
+ {
+   "crs": "ALN",
+   "name": "Althorne Rail Station"
+ },
+ {
+   "crs": "KML",
+   "name": "Kemsley Rail Station"
+ },
+ {
+   "crs": "SIT",
+   "name": "Sittingbourne Rail Station"
+ },
+ {
+   "crs": "SWL",
+   "name": "Swale Rail Station"
+ },
+ {
+   "crs": "QBR",
+   "name": "Queenborough Rail Station"
+ },
+ {
+   "crs": "TPB",
+   "name": "Thorpe Bay Rail Station"
+ },
+ {
+   "crs": "MKT",
+   "name": "Marks Tey Rail Station"
+ },
+ {
+   "crs": "SSS",
+   "name": "Sheerness-on-Sea Rail Station"
+ },
+ {
+   "crs": "TRS",
+   "name": "Thurston Rail Station"
+ },
+ {
+   "crs": "RYE",
+   "name": "Rye Rail Station"
+ },
+ {
+   "crs": "PLC",
+   "name": "Pluckley Rail Station"
+ },
+ {
+   "crs": "SRY",
+   "name": "Shoeburyness Rail Station"
+ },
+ {
+   "crs": "BUU",
+   "name": "Burnham-on-Crouch Rail Station"
+ },
+ {
+   "crs": "CHG",
+   "name": "Charing (Kent) Rail Station"
+ },
+ {
+   "crs": "TEY",
+   "name": "Teynham Rail Station"
+ },
+ {
+   "crs": "SMN",
+   "name": "Southminster Rail Station"
+ },
+ {
+   "crs": "APD",
+   "name": "Appledore (Kent) Rail Station"
+ },
+ {
+   "crs": "HRD",
+   "name": "Harling Road Rail Station"
+ },
+ {
+   "crs": "ESW",
+   "name": "Elmswell Rail Station"
+ },
+ {
+   "crs": "COL",
+   "name": "Colchester Rail Station"
+ },
+ {
+   "crs": "CET",
+   "name": "Colchester Town Rail Station"
+ },
+ {
+   "crs": "HMT",
+   "name": "Ham Street Rail Station"
+ },
+ {
+   "crs": "AFK",
+   "name": "Ashford International Rail Station"
+ },
+ {
+   "crs": "HYH",
+   "name": "Hythe (Essex) Rail Station"
+ },
+ {
+   "crs": "FAV",
+   "name": "Faversham Rail Station"
+ },
+ {
+   "crs": "ECS",
+   "name": "Eccles Road Rail Station"
+ },
+ {
+   "crs": "WIV",
+   "name": "Wivenhoe Rail Station"
+ },
+ {
+   "crs": "WYE",
+   "name": "Wye Rail Station"
+ },
+ {
+   "crs": "SMK",
+   "name": "Stowmarket Rail Station"
+ },
+ {
+   "crs": "ATL",
+   "name": "Attleborough Rail Station"
+ },
+ {
+   "crs": "SEG",
+   "name": "Selling Rail Station"
+ },
+ {
+   "crs": "ALR",
+   "name": "Alresford (Essex) Rail Station"
+ },
+ {
+   "crs": "CIL",
+   "name": "Chilham Rail Station"
+ },
+ {
+   "crs": "NMT",
+   "name": "Needham Market Rail Station"
+ },
+ {
+   "crs": "MNG",
+   "name": "Manningtree Rail Station"
+ },
+ {
+   "crs": "SPN",
+   "name": "Spooner Row Rail Station"
+ },
+ {
+   "crs": "CRT",
+   "name": "Chartham Rail Station"
+ },
+ {
+   "crs": "GRB",
+   "name": "Great Bentley Rail Station"
+ },
+ {
+   "crs": "WHI",
+   "name": "Whitstable Rail Station"
+ },
+ {
+   "crs": "WMD",
+   "name": "Wymondham Rail Station"
+ },
+ {
+   "crs": "MIS",
+   "name": "Mistley Rail Station"
+ },
+ {
+   "crs": "DIS",
+   "name": "Diss Rail Station"
+ },
+ {
+   "crs": "WHA",
+   "name": "Westenhanger Rail Station"
+ },
+ {
+   "crs": "CSW",
+   "name": "Chestfield & Swalecliffe Rail Station"
+ },
+ {
+   "crs": "CBW",
+   "name": "Canterbury West Rail Station"
+ },
+ {
+   "crs": "CBE",
+   "name": "Canterbury East Rail Station"
+ },
+ {
+   "crs": "WEE",
+   "name": "Weeley Rail Station"
+ },
+ {
+   "crs": "SDG",
+   "name": "Sandling Rail Station"
+ },
+ {
+   "crs": "IPS",
+   "name": "Ipswich Rail Station"
+ },
+ {
+   "crs": "SHM",
+   "name": "Sheringham Rail Station"
+ },
+ {
+   "crs": "WFI",
+   "name": "Westerfield Rail Station"
+ },
+ {
+   "crs": "HNB",
+   "name": "Herne Bay Rail Station"
+ },
+ {
+   "crs": "CLT",
+   "name": "Clacton-on-Sea Rail Station"
+ },
+ {
+   "crs": "STU",
+   "name": "Sturry Rail Station"
+ },
+ {
+   "crs": "TLS",
+   "name": "Thorpe-le-Soken Rail Station"
+ },
+ {
+   "crs": "WRB",
+   "name": "Wrabness Rail Station"
+ },
+ {
+   "crs": "WRN",
+   "name": "West Runton Rail Station"
+ },
+ {
+   "crs": "DBR",
+   "name": "Derby Road (Ipswich) Rail Station"
+ },
+ {
+   "crs": "BKS",
+   "name": "Bekesbourne Rail Station"
+ },
+ {
+   "crs": "FKW",
+   "name": "Folkestone West Rail Station"
+ },
+ {
+   "crs": "CMR",
+   "name": "Cromer Rail Station"
+ },
+ {
+   "crs": "KBX",
+   "name": "Kirby Cross Rail Station"
+ },
+ {
+   "crs": "RNR",
+   "name": "Roughton Road Rail Station"
+ },
+ {
+   "crs": "FKC",
+   "name": "Folkestone Central Rail Station"
+ },
+ {
+   "crs": "ADM",
+   "name": "Adisham Rail Station"
+ },
+ {
+   "crs": "FRI",
+   "name": "Frinton-on-Sea Rail Station"
+ },
+ {
+   "crs": "HPQ",
+   "name": "Harwich International Rail Station"
+ },
+ {
+   "crs": "NRW",
+   "name": "Norwich Rail Station"
+ },
+ {
+   "crs": "AYH",
+   "name": "Aylesham Rail Station"
+ },
+ {
+   "crs": "SWO",
+   "name": "Snowdown Rail Station"
+ },
+ {
+   "crs": "WON",
+   "name": "Walton-on-the-Naze Rail Station"
+ },
+ {
+   "crs": "GNT",
+   "name": "Gunton Rail Station"
+ },
+ {
+   "crs": "DVC",
+   "name": "Dovercourt Rail Station"
+ },
+ {
+   "crs": "SPH",
+   "name": "Shepherds Well Rail Station"
+ },
+ {
+   "crs": "HWC",
+   "name": "Harwich Town Rail Station"
+ },
+ {
+   "crs": "WDB",
+   "name": "Woodbridge Rail Station"
+ },
+ {
+   "crs": "TRM",
+   "name": "Trimley Rail Station"
+ },
+ {
+   "crs": "NWA",
+   "name": "North Walsham Rail Station"
+ },
+ {
+   "crs": "MES",
+   "name": "Melton (Suffolk) Rail Station"
+ },
+ {
+   "crs": "KSN",
+   "name": "Kearsney Rail Station"
+ },
+ {
+   "crs": "SAH",
+   "name": "Salhouse Rail Station"
+ },
+ {
+   "crs": "WRT",
+   "name": "Worstead Rail Station"
+ },
+ {
+   "crs": "BCH",
+   "name": "Birchington-on-Sea Rail Station"
+ },
+ {
+   "crs": "FLX",
+   "name": "Felixstowe Rail Station"
+ },
+ {
+   "crs": "HXM",
+   "name": "Hoveton & Wroxham Rail Station"
+ },
+ {
+   "crs": "MSR",
+   "name": "Minster Rail Station"
+ },
+ {
+   "crs": "DVP",
+   "name": "Dover Priory Rail Station"
+ },
+ {
+   "crs": "BGA",
+   "name": "Brundall Gardens Rail Station"
+ },
+ {
+   "crs": "WGA",
+   "name": "Westgate-on-Sea Rail Station"
+ },
+ {
+   "crs": "WCM",
+   "name": "Wickham Market Rail Station"
+ },
+ {
+   "crs": "BDA",
+   "name": "Brundall Rail Station"
+ },
+ {
+   "crs": "SDW",
+   "name": "Sandwich Rail Station"
+ },
+ {
+   "crs": "MTM",
+   "name": "Martin Mill Rail Station"
+ },
+ {
+   "crs": "MAR",
+   "name": "Margate Rail Station"
+ },
+ {
+   "crs": "BUC",
+   "name": "Buckenham Rail Station"
+ },
+ {
+   "crs": "LGD",
+   "name": "Lingwood Rail Station"
+ },
+ {
+   "crs": "WAM",
+   "name": "Walmer Rail Station"
+ },
+ {
+   "crs": "RAM",
+   "name": "Ramsgate Rail Station"
+ },
+ {
+   "crs": "DEA",
+   "name": "Deal Rail Station"
+ },
+ {
+   "crs": "CNY",
+   "name": "Cantley Rail Station"
+ },
+ {
+   "crs": "SAX",
+   "name": "Saxmundham Rail Station"
+ },
+ {
+   "crs": "DMP",
+   "name": "Dumpton Park Rail Station"
+ },
+ {
+   "crs": "HAS",
+   "name": "Halesworth Rail Station"
+ },
+ {
+   "crs": "BSR",
+   "name": "Broadstairs Rail Station"
+ },
+ {
+   "crs": "ACL",
+   "name": "Acle Rail Station"
+ },
+ {
+   "crs": "DSM",
+   "name": "Darsham Rail Station"
+ },
+ {
+   "crs": "BRP",
+   "name": "Brampton (Suffolk) Rail Station"
+ },
+ {
+   "crs": "REE",
+   "name": "Reedham (Norfolk) Rail Station"
+ },
+ {
+   "crs": "BCC",
+   "name": "Beccles Rail Station"
+ },
+ {
+   "crs": "HAD",
+   "name": "Haddiscoe Rail Station"
+ },
+ {
+   "crs": "BYA",
+   "name": "Berney Arms Rail Station"
+ },
+ {
+   "crs": "SYT",
+   "name": "Somerleyton Rail Station"
+ },
+ {
+   "crs": "OUS",
+   "name": "Oulton Broad South Rail Station"
+ },
+ {
+   "crs": "GYM",
+   "name": "Great Yarmouth Rail Station"
+ },
+ {
+   "crs": "OUN",
+   "name": "Oulton Broad North Rail Station"
+ },
+ {
+   "crs": "LWT",
+   "name": "Lowestoft Rail Station"
+ }
+]

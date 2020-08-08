@@ -15,7 +15,7 @@ const parser = new xml2js.Parser();
 module.exports = {
   Query: {
     getTrainStationCrs: async () => {
-      const trainStationCodes = require("../res/crsCodes.json");
+      const trainStationCodes = require("../res/station_codes.json");
       return trainStationCodes;
     },
     getDepartureBoard: async (_, args) => {

@@ -15,8 +15,9 @@ module.exports = {
         ? stationBoardResult["lt4:nrccMessages"][0]["lt:message"]
         : null;
 
-      const rawTrainServices =
-        stationBoardResult["lt7:trainServices"][0]["lt7:service"] || [];
+      const rawTrainServices = stationBoardResult["lt7:trainServices"]
+        ? stationBoardResult["lt7:trainServices"][0]["lt7:service"]
+        : [];
 
       //processedServices
       const services = [];
