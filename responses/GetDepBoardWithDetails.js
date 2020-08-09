@@ -35,7 +35,7 @@ module.exports = {
         }
       }
       return { depatureStation, services, messages };
-      //return rawResponse;
+      //  return rawResponse;
     } catch (e) {
       throw e;
     }
@@ -104,11 +104,15 @@ const extractCallingPoints = (type, service) => {
           name: cp["lt7:locationName"][0],
           crs: cp["lt7:crs"][0],
         };
-        const duetime = cp["lt7:st"][0];
+        const duetime = cp["lt7:st"] ? cp["lt7:st"][0] : null;
         const etORat =
           type === "lt7:subsequentCallingPoints"
-            ? cp["lt7:et"][0]
-            : cp["lt7:at"][0];
+            ? cp["lt7:et"]
+              ? cp["lt7:et"][0]
+              : null
+            : cp["lt7:at"]
+            ? cp["lt7:at"][0]
+            : null;
         const noOfCarriages = cp["lt7:length"] ? cp["lt7:length"][0] : null;
         return { trainStation, duetime, etORat, noOfCarriages };
       } catch (e) {

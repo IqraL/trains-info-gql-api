@@ -17,7 +17,7 @@ module.exports = gql`
 
   type service {
     serviceID: ID!
-    dueTime: String!
+    dueTime: String
     etaORetd: String
     noOfCarriages: Int
     platform: String
